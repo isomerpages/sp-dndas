@@ -1,0 +1,4 @@
+collections:
+  speakers:
+    output: true
+    order: []
