@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Partners.md
-      - Singapore Polytechnic.md
-      - DNDA Summit.md
       - Don Norman.md
+      - DNDA Summit.md
+      - Singapore Polytechnic.md
+      - Partners.md
