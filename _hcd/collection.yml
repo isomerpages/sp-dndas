@@ -1,4 +1,5 @@
 collections:
   hcd:
     output: true
-    order: []
+    order:
+      - Metaverse.md
