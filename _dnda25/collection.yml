@@ -2,5 +2,6 @@ collections:
   dnda25:
     output: true
     order:
+      - About DNDA Summit.md
       - About Don Norman.md
       - About.md
