@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - General Enquiry.md
       - Corporate Sales.md
