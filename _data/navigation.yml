@@ -1,23 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About
-    url: /permalink
-    sublinks:
-      - title: Don Norman
-        url: /permalink
-      - title: DNDA Summit
-        url: /permalink
-      - title: Singapore Polytechnic
-        url: /permalink
-      - title: Partners
-        url: /permalink
+    collection: about
   - title: Award
-    url: /permalink
-    sublinks:
-      - title: Overview
-        url: /permalink
-      - title: Award Dinner
-        url: /permalink
+    collection: award
   - title: Speakers
     url: /permalink
   - title: Programme
