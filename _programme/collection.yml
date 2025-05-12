@@ -2,5 +2,6 @@ collections:
   programme:
     output: true
     order:
+      - Unconference.md
       - Learning Journeys.md
       - Workshops.md
