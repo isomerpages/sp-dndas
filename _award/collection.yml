@@ -2,4 +2,5 @@ collections:
   award:
     output: true
     order:
+      - Overview.md
       - Award Dinner.md
