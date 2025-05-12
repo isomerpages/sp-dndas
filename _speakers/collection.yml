@@ -2,4 +2,5 @@ collections:
   speakers:
     output: true
     order:
+      - Panellists.md
       - Keynote Speakers.md
