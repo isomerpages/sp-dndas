@@ -8,6 +8,8 @@ links:
     collection: speakers
   - title: Programme
     collection: programme
+  - title: HCD
+    collection: hcd
   - title: Contact Us
     collection: contact-us
   - title: Tickets
