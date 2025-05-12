@@ -2,5 +2,6 @@ collections:
   hcd:
     output: true
     order:
+      - About HCD.md
       - Playbook.md
       - Metaverse.md
