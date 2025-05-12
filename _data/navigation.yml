@@ -4,3 +4,11 @@ links:
     collection: about
   - title: Award
     collection: award
+  - title: Speakers
+    collection: speakers
+  - title: Programme
+    collection: programme
+  - title: Contact Us
+    collection: contact-us
+  - title: Tickets
+    url: /permalink
