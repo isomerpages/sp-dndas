@@ -1,4 +1,5 @@
 collections:
   speakers:
     output: true
-    order: []
+    order:
+      - Keynote Speakers.md
