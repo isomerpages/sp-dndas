@@ -1,4 +1,5 @@
 collections:
   award:
     output: true
-    order: []
+    order:
+      - Award Dinner.md
