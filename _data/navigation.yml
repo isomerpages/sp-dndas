@@ -1,15 +1,53 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: About
+    url: /permalink
+    sublinks:
+      - title: Don Norman
+        url: /permalink
+      - title: DNDA Summit
+        url: /permalink
+      - title: Singapore Polytechnic
+        url: /permalink
+      - title: Partners
+        url: /permalink
+  - title: Award
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Award Dinner
+        url: /permalink
+  - title: Speakers
+    url: /permalink
+  - title: Programme
+    url: /permalink
+    sublinks:
+      - title: Design Your Conference
+        url: /permalink
+      - title: Unconference
+        url: /permalink
+      - title: Learning Journeys
+        url: /permalink
+      - title: Workshops
+        url: /permalink
+  - title: HCD+
+    url: /permalink
+    sublinks:
+      - title: About
+        url: /permalink
+      - title: Playbook
+        url: /permalink
+      - title: Metaverse
+        url: /permalink
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /permalink
+    sublinks:
+      - title: Corporate Sales
+        url: /permalink
+      - title: General Enquiry
+        url: /permalink
+      - title: FAQs
+        url: /permalink
+  - title: Tickets
+    url: /permalink
