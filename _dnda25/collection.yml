@@ -2,4 +2,5 @@ collections:
   dnda25:
     output: true
     order:
+      - About Don Norman.md
       - About.md
