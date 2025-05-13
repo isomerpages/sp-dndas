@@ -23,38 +23,44 @@ sections:
         - title: Tickets
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Don Norman Design Award Summit
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: The Don Norman Design Award (DNDA) is a non-profit promoting
+        Humanity-Centred Design (HCD+), recognising early-career practitioners
+        solving community issues.
+      button: Learn More
       alt: Image alt text
+      image: /images/01_About_DNDA_squared.png
+      url: https://www.dnda25.gov.sg/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Humanity-Centred Design
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: HCD+ focuses on designing for humanity, cultures, and the
+        environment, creating sustainable solutions that enhance lives and
+        promote social good.
+      button: Learn More
       alt: Image alt text
+      url: https://www.dnda25.gov.sg/
+      image: /images/02_HCD__use_this.png
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: DNDA25 Programme Outline
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: DNDA25 features Design Your Conference (DYC), dynamic panels, and
+        exclusive networking, all shaping the future of Humanity-Centered Design
+        (HCD+)!
+      button: Find Out More
       alt: Image alt text
+      url: https://www.dnda25.gov.sg/
+      image: /images/03_Programme.png
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Our Partners
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Our partners are advocate in design, innovation, and
+        sustainability, collaborating to advance HCD+ and create impactful
+        change globally.
+      button: Learn More
       alt: Image alt text
+      url: https://www.dnda25.gov.sg/
+      image: /images/04_Partners.png
 ---
