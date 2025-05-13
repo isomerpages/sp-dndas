@@ -15,14 +15,14 @@ sections:
       url: https://wwe.
       key_highlights:
         - title: Award
-          description: Important highlight A is important
-          url: https://google.com
+          description: ""
+          url: https://www.dnda25.gov.sg/award
         - title: Programme
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: ""
+          url: https://www.dnda25.gov.sg/programme
         - title: Tickets
-          description: Page A is important too
-          url: /privacy/
+          description: ""
+          url: /https://www.dnda25.gov.sg/tickets
   - infopic:
       title: Don Norman Design Award Summit
       id: infopic
