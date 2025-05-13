@@ -52,7 +52,7 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: https://www.dnda25.gov.sg/
-      image: /images/03_Programme.png
+      image: /images/03_Programme_use_this.png
   - infopic:
       title: Our Partners
       id: infopic
