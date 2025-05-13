@@ -32,7 +32,7 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/01_About_DNDA_squared.png
-      url: https://www.dnda25.gov.sg/
+      url: https://www.dnda25.com.sg/about/
   - infopic:
       title: Humanity-Centred Design
       id: infopic
@@ -41,7 +41,7 @@ sections:
         promote social good.
       button: Learn More
       alt: Image alt text
-      url: https://www.dnda25.gov.sg/
+      url: https://www.dnda25.com.sg/hcd/
       image: /images/02_HCD__use_this.png
   - infopic:
       title: DNDA25 Programme Outline
@@ -51,7 +51,7 @@ sections:
         (HCD+)!
       button: Find Out More
       alt: Image alt text
-      url: https://www.dnda25.gov.sg/
+      url: https://www.dnda25.com.sg/programme/
       image: /images/03_Programme_use_this.png
   - infopic:
       title: Our Partners
@@ -61,6 +61,6 @@ sections:
         change globally.
       button: Learn More
       alt: Image alt text
-      url: https://www.dnda25.gov.sg/
+      url: https://www.dnda25.com.sg/about/
       image: /images/04_Partners.png
 ---
