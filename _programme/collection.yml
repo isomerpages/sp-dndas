@@ -2,10 +2,10 @@ collections:
   programme:
     output: true
     order:
-      - Learning Journeys/Day 2.md
-      - Learning Journeys/Day 1.md
-      - Learning Journeys/Learning Journeys.md
       - Learning Journeys/.keep
+      - Learning Journeys/Day 1.md
+      - Learning Journeys/Day 2.md
+      - Learning Journeys/Learning Journeys.md
       - Programme Details/Day 3.md
       - Programme Details/Day 2.md
       - Programme Details/Day 1.md
