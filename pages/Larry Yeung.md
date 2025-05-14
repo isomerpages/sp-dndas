@@ -6,6 +6,10 @@ description: ""
 ---
 <h3><strong>Larry Yeung</strong></h3>
 <h4>Executive Director @ Participate in Design (P!D)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/s200_larry_yeung.jpg">
+</div>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent felis
 sem, tempus quis lectus a, accumsan molestie ex. Vestibulum ante ipsum
 primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi
