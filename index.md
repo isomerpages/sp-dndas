@@ -11,7 +11,7 @@ sections:
       subtitle: Get your tickets while they last!
       background: /images/hero-banner.png
       variant: floating
-      size: sm
+      size: md
       alignment: right
       backgroundColor: gray
       dropdown:
