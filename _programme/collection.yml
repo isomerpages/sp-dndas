@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Learning Journeys/Learning Journeys.md
       - Learning Journeys/.keep
       - Programme Details/Day 3.md
       - Programme Details/Day 2.md
