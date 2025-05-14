@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Humanity-Centred Design (HCD+): The Future of Education, Business &amp; Community</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_About_DNDA.png">
+</div>
 <p>The DNDA Summit celebrates the power of Humanity-Centred Design (HCD+),
 showcasing impactful projects aligned with the UN's 17 Sustainable Development
 Goals (SDGs). It highlights the work of early-career practitioners, explores
