@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Panellists
 ---
-<p></p>
+<h4><strong>Panellists &amp; Moderators</strong></h4>
+<p>Nam non elit consequat, fringilla felis ut, interdum nisl. Maecenas pellentesque
+semper sem, ac elementum est rutrum eu. Class aptent taciti sociosqu ad
+litora torquent per conubia nostra, per inceptos himenaeos.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/09_Panellist_DN.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Don Norman</div><div class="isomer-card-description">Father of User Experience, author of the latest book This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -31,7 +34,7 @@ Describe your card.</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/09_Panellist_NH_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nur Hidayah Abu Bakar </div><div class="isomer-card-description">Dean @ Lasalle This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/09_Panellist_NH_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nur Hidayah Abu Bakar</div><div class="isomer-card-description">Dean @ Lasalle This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
