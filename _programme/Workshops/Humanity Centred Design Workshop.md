@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Workshops
 ---
-<p></p>
+<h2><strong>HCD+ Workshop</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_Programme.png">
 </div>
