@@ -5,67 +5,42 @@ variant: tiptap
 description: ""
 third_nav_title: Enquiries
 ---
+<h2><strong>FAQ</strong></h2>
+<p>Ut dapibus mollis felis, et mollis quam tempor id. Suspendisse potenti.
+Donec tempor posuere quam quis tincidunt. Duis laoreet et dolor quis elementum.
+Duis placerat metus quis tristique euismod. In sodales quis magna eget
+consequat. Maecenas consequat eget urna quis viverra.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>FAQ 1</summary>
+<summary>Qn 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>FAQ 2</summary>
+<summary>Qn 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>FAQ 3</summary>
+<summary>Qn 3</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>FAQ 4</summary>
+<summary>Qn 4</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>FAQ 5</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>FAQ 6</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>FAQ 7</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>FAQ 8</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>FAQ 9</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>FAQ 10</summary>
+<summary>Qn 5</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
-<p></p>
-<p>Couldn't find the answer you're looking for? Send us your inquiry <a href="test" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p><strong>Couldn't find the answer you're looking for? Send us your inquiry <a href="test" rel="noopener nofollow" target="_blank">here</a>.</strong>
+</p>
