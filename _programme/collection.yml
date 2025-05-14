@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Programme Details/Day 2.md
       - Programme Details/Day 1.md
       - Programme Details/.keep
       - Design Your Conference.md
