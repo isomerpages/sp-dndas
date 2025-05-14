@@ -14,13 +14,18 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-      dropdown:
-        title: Buy Tickets
-        options:
-          - title: Summit Ticket
-            url: https://www.dnda25.com.sg/tickets/
-          - title: Workshop Ticket
-            url: https://www.dnda25.com.sg/tickets/
+      key_highlights:
+        - title: Award
+          description: What's Celebrated
+          url: https://www.dnda25.com.sg/award
+        - title: Programme
+          description: Event Highlights & Breakdowns
+          url: https://www.dnda25.com.sg/programme
+        - title: Tickets
+          description: Get the Right Pass
+          url: /https://www.dnda25.com.sg/tickets
+      button: Buy Now
+      url: https://www.dnda25.com.sg/tickets/
   - infopic:
       title: Don Norman Design Award Summit
       id: infopic
