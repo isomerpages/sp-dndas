@@ -4,25 +4,23 @@ title: Don Norman Design Award Summit 2025 (DNDA25)
 description: An Isomer site of the Singapore Government
 image: /images/images.jpg
 permalink: /
-notification: Are you a Designer? Click here to find out more about the special
-  rates instore for you!
+notification: ""
 sections:
   - hero:
-      title: Early-Bird Discount
-      subtitle: Enjoy 20% off your total ticket price. Enjoy while this lasts!
+      title: Purchase Your Tickets
+      subtitle: Get your tickets while they last!
       background: /images/hero-banner.png
-      button: Get Yours Now
-      url: https://www.dnda25.com.sg/tickets/
-      key_highlights:
-        - title: Award
-          description: ""
-          url: https://www.dnda25.gov.sg/award
-        - title: Programme
-          description: ""
-          url: https://www.dnda25.gov.sg/programme
-        - title: Tickets
-          description: ""
-          url: /https://www.dnda25.gov.sg/tickets
+      variant: floating
+      size: sm
+      alignment: right
+      backgroundColor: gray
+      dropdown:
+        title: Buy Tickets
+        options:
+          - title: Summit Ticket
+            url: https://www.dnda25.com.sg/tickets/
+          - title: Workshop Ticket
+            url: https://www.dnda25.com.sg/tickets/
   - infopic:
       title: Don Norman Design Award Summit
       id: infopic
