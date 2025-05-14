@@ -2,6 +2,7 @@ collections:
   tickets:
     output: true
     order:
+      - Policy/terms-of-use.md
       - Policy/.keep
       - Tickets.md
       - privacy.md
