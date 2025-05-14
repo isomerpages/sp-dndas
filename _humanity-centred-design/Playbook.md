@@ -4,7 +4,7 @@ permalink: /playbook/
 variant: tiptap
 description: ""
 ---
-<h2>HCD+ Innovation Playbook</h2>
+<h3><strong>HCD+ Innovation Playbook</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playbook.png">
@@ -20,7 +20,7 @@ eros, convallis sit amet lorem a, facilisis ultricies odio. Fusce laoreet
 nulla ac tellus eleifend congue. Vivamus molestie a est eget gravida. Duis
 ut molestie nibh, dapibus vehicula neque.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Yours Here!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Yours Here!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Pre-order Now</div></div></a>
 </div>
 <p>Curabitur eu dolor laoreet quam pretium dictum sed eget sapien. Donec
 tincidunt, mauris sit amet convallis euismod, ante nibh maximus felis,
