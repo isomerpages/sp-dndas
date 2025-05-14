@@ -28,3 +28,5 @@ elementum tempus. Donec consequat diam a mi tempor, at pretium diam ornare.
 Proin placerat dui in sem tempor vestibulum. Aenean eu finibus nibh, non
 molestie dui. In hac habitasse platea dictumst. Morbi egestas condimentum
 massa at mattis. In hac habitasse platea dictumst.</p>
+<p><strong>Register your interest </strong><a href="test" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
+</p>
