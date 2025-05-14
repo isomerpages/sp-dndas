@@ -73,5 +73,6 @@ qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
 </tr>
 </tbody>
 </table>
-<p>Register your interest <a href="test" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p><strong>Register your interest <a href="test" rel="noopener nofollow" target="_blank">here</a>!</strong>
+</p>
 <p></p>
