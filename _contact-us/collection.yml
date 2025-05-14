@@ -2,7 +2,7 @@ collections:
   contact-us:
     output: true
     order:
-      - Enquiries/FAQs.md
-      - Enquiries/General Enquiry.md
       - Enquiries/.keep
+      - Enquiries/General Enquiry.md
+      - Enquiries/FAQs.md
       - Corporate Sales.md
