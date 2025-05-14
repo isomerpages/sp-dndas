@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Panellists/Day 2.md
       - Panellists/Day 1.md
       - Panellists/.keep
       - Keynote Speakers.md
