@@ -1,5 +1,5 @@
 collections:
-  hcdplus:
+  humanity-centred-design:
     output: true
     order:
       - Humanity Centred Design.md
