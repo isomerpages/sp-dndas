@@ -22,7 +22,5 @@ captivating <strong>performances</strong> that blend local traditions and
 modern creativity, offering a unique experience that celebrates the fusion
 of cultures in design and innovation.</p>
 <p>This event is an opportunity to connect, engage, and celebrate the power
-of design in shaping a better future. <strong>Register now</strong> to secure
-your place at this special event and be part of an evening that honours
-both design excellence and Singapore’s vibrant multicultural spirit.</p>
+of design in shaping a better future.</p>
 <p>We look forward to having you with us for this extraordinary celebration!</p>
