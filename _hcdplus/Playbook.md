@@ -19,6 +19,9 @@ tellus, blandit in justo eget, iaculis sollicitudin velit. Nulla velit
 eros, convallis sit amet lorem a, facilisis ultricies odio. Fusce laoreet
 nulla ac tellus eleifend congue. Vivamus molestie a est eget gravida. Duis
 ut molestie nibh, dapibus vehicula neque.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Yours Here!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
+</div>
 <p>Curabitur eu dolor laoreet quam pretium dictum sed eget sapien. Donec
 tincidunt, mauris sit amet convallis euismod, ante nibh maximus felis,
 eget ornare arcu lacus nec enim. Nullam vulputate egestas tortor, nec viverra
