@@ -4,5 +4,4 @@ collections:
     order:
       - Policy/.keep
       - Tickets.md
-      - terms-of-use.md
       - privacy.md
