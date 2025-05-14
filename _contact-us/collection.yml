@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Enquiries/.keep
-      - Enquiries/General Enquiry.md
       - Enquiries/FAQs.md
       - Corporate Sales.md
