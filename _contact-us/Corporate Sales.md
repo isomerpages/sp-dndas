@@ -4,7 +4,7 @@ permalink: /corporate-sales/
 variant: tiptap
 description: ""
 ---
-<h2>Corporate Bundles</h2>
+<h2><strong>Corporate Bundles</strong></h2>
 <p>Sed sodales auctor sagittis. Cras vehicula pellentesque mi. Proin vestibulum
 nisl imperdiet nisi imperdiet egestas. Sed libero nisi, pharetra eu consectetur
 vitae, iaculis et neque. Aliquam condimentum neque urna, at molestie purus
