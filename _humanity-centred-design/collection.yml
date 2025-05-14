@@ -2,6 +2,6 @@ collections:
   humanity-centred-design:
     output: true
     order:
-      - Humanity Centred Design.md
+      - About.md
       - Playbook.md
       - Metaverse.md
