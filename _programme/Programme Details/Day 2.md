@@ -27,31 +27,26 @@ urna dui a erat.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0900 / 0930</p>
+<p>0900 / 0915</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Opening Speech</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PCEO</p>
-</li>
-<li>
-<p>Minster of Education</p>
-</li>
-<li>
-<p>Don Norman</p>
+<p>Minster of State for Trade &amp; Industry</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0930 / 1045</p>
+<p>0915 / 1030</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “LEARN”</strong> [QR code for DYC]&nbsp;</p>
-<p>Topic 1 - Using HCD+ to reposition designers (through education) to become
-facilitators of change in business, community and planet.</p>
+<p><strong>HCD+ “LEARN” [QR code for DYC]&nbsp;</strong>
+</p>
+<p>Topic 3 - Using HCD+ to redesign society to be more inclusive, empowered,
+innovative and creative for the collective good of humanity</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sanjay Purohit</p>
@@ -67,7 +62,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1045 / 1100</p>
+<p>1030 / 1100</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Break with Activities</p>
@@ -83,7 +78,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1100 / 1215</p>
+<p>1100 / 1200</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “DESIGN” </strong>&nbsp;[Plenary agenda = DYC mapped topics]</p>
@@ -93,15 +88,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1215 / 1225</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Sharing on DNDA</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>1225 / 1325</p>
+<p>1200 / 1300</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Lunch</p>
@@ -109,7 +96,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1325 / 1330</p>
+<p>1300 / 1315</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Post Lunch Energiser</p>
@@ -117,10 +104,10 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1330 / 1400</p>
+<p>1315 / 1345</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “DESIGN” </strong>- <strong>DYC Response&nbsp;</strong>
+<p><strong>HCD+ “DESIGN” - </strong>&nbsp;<strong>DYC Response</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,14 +121,14 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1400 / 1515</p>
+<p>1345 / 1500</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “EXECUTE”</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Plenary to include 3 panellists, 2 award winners and 1 moderator</p>
+<p>Unconference Findings includes 4 panellists, 2 award winners and 1 moderator</p>
 </li>
 </ul>
 </td>
@@ -162,7 +149,6 @@ facilitators of change in business, community and planet.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your Summit Ticket Now!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>
