@@ -2,15 +2,15 @@ logo: /images/images.jpg
 links:
   - title: About
     collection: about
-  - title: Award
-    collection: award
+  - title: Humanity Centred Design
+    collection: hcdplus
   - title: Speakers
     collection: speakers
   - title: Programme
     collection: programme
-  - title: Hcdplus
-    collection: hcdplus
   - title: Contact Us
     collection: contact-us
+  - title: Award
+    collection: award
   - title: Tickets
     collection: tickets
