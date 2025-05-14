@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Workshops/Design Your Futures.md
-      - Workshops/Workshops.md
+      - Workshops/HCDPlus Workshop.md
       - Workshops/.keep
       - Design Your Conference.md
       - Unconference.md
