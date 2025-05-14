@@ -2,6 +2,6 @@ collections:
   contact-us:
     output: true
     order:
+      - Corporate Sales.md
       - Enquiries/.keep
       - Enquiries/FAQs.md
-      - Corporate Sales.md
