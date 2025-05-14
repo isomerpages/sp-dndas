@@ -2,4 +2,5 @@ collections:
   tickets:
     output: true
     order:
+      - privacy.md
       - Tickets.md
