@@ -171,7 +171,6 @@ facilitators of change in business, community and planet.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your Summit Ticket Now!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>
