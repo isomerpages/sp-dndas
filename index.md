@@ -2,7 +2,7 @@
 layout: homepage
 title: Don Norman Design Award Summit 2025 (DNDA25)
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/images.jpg
 permalink: /
 notification: Are you a Designer? Click here to find out more about special
   rates for you while this lasts.
