@@ -2,6 +2,6 @@ collections:
   hcdplus:
     output: true
     order:
-      - About HCD.md
+      - Humanity Centred Design.md
       - Playbook.md
       - Metaverse.md
