@@ -2,6 +2,6 @@ collections:
   tickets:
     output: true
     order:
+      - Tickets.md
       - terms-of-use.md
       - privacy.md
-      - Tickets.md
