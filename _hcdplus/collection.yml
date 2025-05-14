@@ -1,5 +1,5 @@
 collections:
-  hcd:
+  hcdplus:
     output: true
     order:
       - About HCD.md
