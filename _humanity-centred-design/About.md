@@ -16,7 +16,7 @@ tempus a. Morbi sit amet massa dapibus, dictum leo eget, ultricies magna.
 Aliquam erat volutpat. Duis accumsan dictum nibh, sit amet tempus orci
 porta ac.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn how to apply HCD+</div><div class="isomer-card-description">Register for our workshop on HCD+ and gain the skills you can apply everywhere! This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more on workshop</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programme/workshops/design-your-futures/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn how to apply HCD+</div><div class="isomer-card-description">Register for our workshop on HCD+ and gain the skills you can apply everywhere! This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more on workshop</div></div></a>
 </div>
 <p>Ut dapibus mollis felis, et mollis quam tempor id. Suspendisse potenti.
 Donec tempor posuere quam quis tincidunt. Duis laoreet et dolor quis elementum.
