@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4><strong>Don Norman - Father of UX</strong></h4>
+<h2><strong>Don Norman - Father of UX</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/09_Panellist_DN.jpg">
 </div>
