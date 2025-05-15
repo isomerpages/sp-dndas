@@ -17,13 +17,13 @@ sections:
       key_highlights:
         - title: Award
           description: What's Celebrated
-          url: https://www.dnda25.com.sg/award
+          url: https://www.dnda25.com.sg/award/overview/
         - title: Programme
           description: Event Highlights & Breakdowns
-          url: https://www.dnda25.com.sg/programme
+          url: https://www.dnda25.com.sg/programme-details/day-1/
         - title: Tickets
           description: Get the Right Pass
-          url: /https://www.dnda25.com.sg/tickets
+          url: https://www.dnda25.com.sg/tickets/
       button: Buy Now
       url: https://www.dnda25.com.sg/tickets/
   - infopic:
@@ -35,16 +35,16 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/01_About_DNDA_squared.png
-      url: https://www.dnda25.com.sg/about/
+      url: https://www.dnda25.com.sg/about/dnda-summit/
   - infopic:
-      title: Humanity-Centred Design
+      title: Humanity-Centred Design (HCD+)
       id: infopic
       description: HCD+ focuses on designing for humanity, cultures, and the
         environment, creating sustainable solutions that enhance lives and
         promote social good.
       button: Learn More
       alt: Image alt text
-      url: https://www.dnda25.com.sg/humanitycentreddesign
+      url: https://www.dnda25.com.sg/humanity-centred-design/about/
       image: /images/02_HCD__use_this.png
   - infopic:
       title: DNDA25 Programme Outline
@@ -54,7 +54,7 @@ sections:
         (HCD+)!
       button: Find Out More
       alt: Image alt text
-      url: https://www.dnda25.com.sg/programme/
+      url: https://www.dnda25.com.sg/programme/programme-details/day-1/
       image: /images/03_Programme_use_this.png
   - infopic:
       title: Our Partners
@@ -64,6 +64,6 @@ sections:
         change globally.
       button: Learn More
       alt: Image alt text
-      url: https://www.dnda25.com.sg/about/
+      url: https://www.dnda25.com.sg/about/partners/
       image: /images/04_Partners.png
 ---
