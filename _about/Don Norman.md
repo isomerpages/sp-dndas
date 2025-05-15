@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <h3><strong>Don Norman - Father of UX</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09_Panellist_DN.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/09_Panellist_DN.jpg">
 </div>
 <p>Don Norman is Distinguished Professor (emeritus), Founder and first Director
 of the Design Lab at the University of California, San Diego. He has been
