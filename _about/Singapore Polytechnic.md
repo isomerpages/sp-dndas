@@ -4,7 +4,7 @@ permalink: /about/singapore-polytechnic/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Singapore Polytechnic: Pioneering Humanity-Centred Design (HCD+) in Education, Business &amp; Community</strong></h4>
+<h3><strong>Singapore Polytechnic: Pioneering Humanity-Centred Design (HCD+) in Education, Business &amp; Community</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/05_SP.png">
 </div>
