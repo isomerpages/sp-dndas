@@ -19,7 +19,7 @@ sections:
           description: What's Celebrated
           url: https://www.dnda25.com.sg/award/overview/
         - title: Programme
-          description: Event Highlights & Breakdowns
+          description: Event Highlights & Breakdown
           url: https://www.dnda25.com.sg/programme-details/day-1/
         - title: Tickets
           description: Get the Right Pass
