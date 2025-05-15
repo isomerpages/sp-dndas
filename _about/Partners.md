@@ -4,6 +4,7 @@ permalink: /about/partners/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Our Partners </strong></h3>
 <p>These collaborations create opportunities for knowledge-sharing, networking,
 and fostering innovative solutions that address global challenges. By uniting
 diverse stakeholders, the summit empowers early-career practitioners and
