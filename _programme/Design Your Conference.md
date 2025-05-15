@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p><strong>Design Your Conference (DYC) </strong>
+<p><strong>Design Your Conference (DYC)</strong>
 </p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
