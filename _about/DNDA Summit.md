@@ -4,7 +4,7 @@ permalink: /about/dnda-summit/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Humanity-Centred Design (HCD+): The Future of Education, Business &amp; Community</strong></h4>
+<h2><strong>Humanity-Centred Design (HCD+): The Future of Education, Business &amp; Community</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_About_DNDA.png">
