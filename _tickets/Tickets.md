@@ -4,22 +4,19 @@ permalink: /tickets/
 variant: tiptap
 description: ""
 ---
-<p>Cras eget magna dapibus, pretium dui id, gravida tellus. In tristique
-elementum tempus. Donec consequat diam a mi tempor, at pretium diam ornare.
-Proin placerat dui in sem tempor vestibulum. Aenean eu finibus nibh, non
-molestie dui. In hac habitasse platea dictumst. Morbi egestas condimentum
-massa at mattis. In hac habitasse platea dictumst.</p>
-<h3><strong>Summit Ticket</strong></h3>
+<h2>Get Your Tickets to DNDA25 Summit!</h2>
+<p><strong>Be part of the DNDA25 Summit – a dynamic celebration of design, innovation, and collaboration! We’re offering flexible ticket options to suit different needs:</strong>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">3-Day Ticket</div><div class="isomer-card-description">Get it now - Each ticket is now priced at $640 from $800, total of 20% off! This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1-Day Ticket</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Early-Bird Special</div><div class="isomer-card-description">Book early and enjoy 20% OFF the 3-Day Pass. Don’t miss this limited-time deal to save big and experience more!</div><div class="isomer-card-link">Buy Now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Designer Special</div>
+<div class="isomer-card-description">Enjoy an exclusive 60% OFF the 3-Day Pass – crafted for the creative minds
+in the design community, just like you!</div>
+<div class="isomer-card-link">Buy Now</div>
 </div>
-<hr>
-<h3><strong>Workshop Ticket</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">HCD+ Workshop</div><div class="isomer-card-description">18-Nov-2025 from 9am to 6pm. This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Design Your Futures</div><div class="isomer-card-description">18-Nov-2025 from 9am to 6pm. This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Education or Public Services Special</div><div class="isomer-card-description">Get 50% OFF the 3-Day Pass for students, educators, and professionals who inspire change and shape the future!</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>
