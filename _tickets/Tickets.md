@@ -7,8 +7,6 @@ description: ""
 <h2>Get Your Tickets to DNDA25 Summit!</h2>
 <p><strong>Be part of the DNDA25 Summit – a dynamic celebration of design, innovation, and collaboration! We’re offering flexible ticket options to suit different needs:</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">3-Day Ticket</div><div class="isomer-card-description">Get it now - Each ticket is now priced at $640 from $800, total of 20% off! This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
-</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Early-Bird Special</div><div class="isomer-card-description">Book early and enjoy 20% OFF the 3-Day Pass. Don’t miss this limited-time deal to save big and experience more!</div><div class="isomer-card-link">Buy Now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
