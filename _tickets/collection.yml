@@ -2,8 +2,8 @@ collections:
   tickets:
     output: true
     order:
-      - Corporate Sales.md
       - Tickets.md
+      - Corporate Sales.md
       - Ticket Policy/.keep
       - Ticket Policy/Terms of Use.md
       - Ticket Policy/Privacy Statement.md
