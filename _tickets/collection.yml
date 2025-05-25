@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Tickets.md
-      - Corporate Sales.md
+      - Corporate Bundle.md
       - Ticket Policy/.keep
       - Ticket Policy/Terms of Use.md
       - Ticket Policy/Privacy Statement.md
