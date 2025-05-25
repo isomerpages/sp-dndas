@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Get Your Tickets to DNDA25 Summit!</h2>
-<p><strong>Be part of the DNDA25 Summit – a vibrant celebration of design, innovation, and collaboration! We're offering flexible ticket options to suit every need and schedule. </strong>
+<p><strong>Be part of the DNDA25 Summit – a vibrant celebration of design, innovation, and collaboration! We're offering flexible ticket options to suit every need and schedule.</strong>
 </p>
 <p>Choose between a <strong>3-Day Pass</strong> for the full, immersive experience
 or a <strong>1-Day Pass</strong> if you’re just dropping in.</p>
@@ -48,8 +48,8 @@ in the design community, just like you!</p>
 who inspire change and shape the future!</p>
 <p></p>
 <h4>🎫 <strong>Get Your Ticket Here</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Secure Your Spot Now! </div><div class="isomer-card-description">Join us for an unforgettable experience at DNDA25 – packed with inspiring talks, hands-on sessions, and a vibrant creative community. It’s the design event you won’t want to miss. Purchase now and be part of the movement!</div><div class="isomer-card-link">Buy Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Secure Your Spot Now!</div><div class="isomer-card-description">Join us for an unforgettable experience at DNDA25 – packed with inspiring talks, hands-on sessions, and a vibrant creative community. It’s the design event you won’t want to miss. Purchase now and be part of the movement!</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>
-<p><strong>J</strong>oin the movement that's shaping the future of design.
-Grab your tickets now and be part of something extraordinary!</p>
+<p>Join the movement that's shaping the future of design. Grab your tickets
+now and be part of something extraordinary!</p>
