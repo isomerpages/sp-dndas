@@ -4,7 +4,7 @@ permalink: /contact-us/enquiries/
 variant: tiptap
 description: ""
 ---
-<h2><strong>FAQ</strong></h2>
+<h2><strong>FAQs</strong></h2>
 <p>Ut dapibus mollis felis, et mollis quam tempor id. Suspendisse potenti.
 Donec tempor posuere quam quis tincidunt. Duis laoreet et dolor quis elementum.
 Duis placerat metus quis tristique euismod. In sodales quis magna eget
