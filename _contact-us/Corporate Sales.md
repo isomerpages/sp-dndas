@@ -30,10 +30,10 @@ porta ac.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$ xxx</p>
+<p><strong>$6,400</strong> (was <s>$8,000</s>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$xxx</p>
+<p><strong>$12,800</strong> (was <s>$16,,000</s>)</p>
 </td>
 </tr>
 </tbody>
@@ -44,15 +44,13 @@ porta ac.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">10-Ticket</div>
-<div class="isomer-card-description">Logo on DNDA materials. This is body text for your card. Describe your
-card.</div>
+<div class="isomer-card-description">Logo on DNDA materials</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">20-Ticket</div>
-<div class="isomer-card-description">Logo on DNDA materials and 2x Award Dinner tickets. This is body text
-for your card. Describe your card.</div>
+<div class="isomer-card-description">Logo on DNDA materials 2x Award Dinner tickets</div>
 </div>
 </div>
 </div>
