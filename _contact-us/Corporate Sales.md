@@ -5,12 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Corporate Bundles</strong></h2>
+<p>Enjoy <strong>20% off the total price</strong> for group bookings of <strong>10 or 20 pax</strong>!</p>
 <p>Sed sodales auctor sagittis. Cras vehicula pellentesque mi. Proin vestibulum
 nisl imperdiet nisi imperdiet egestas. Sed libero nisi, pharetra eu consectetur
 vitae, iaculis et neque. Aliquam condimentum neque urna, at molestie purus
 tempus a. Morbi sit amet massa dapibus, dictum leo eget, ultricies magna.
 Aliquam erat volutpat. Duis accumsan dictum nibh, sit amet tempus orci
 porta ac.</p>
+<p><strong>Bundle Prices:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -35,7 +38,8 @@ porta ac.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Benefits of Purchasing a Corporate Bundle:</strong>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -52,6 +56,6 @@ for your card. Describe your card.</div>
 </div>
 </div>
 </div>
-<p><strong>Interested and would like to buy for your team? Reach out to us </strong>
-<a href="test" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
+<h4>Interested in purchasing for your team?</h4>
+<p>👉<strong> <a href="test" rel="noopener nofollow" target="_blank">Fill up this form</a> and get in touch with us – we’d love to help!</strong>
 </p>
