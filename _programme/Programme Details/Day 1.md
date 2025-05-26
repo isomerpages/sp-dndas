@@ -19,7 +19,7 @@ urna dui a erat.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0830 / 0900</p>
+<p>0830</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Registration</p>
@@ -27,7 +27,7 @@ urna dui a erat.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0900 / 0930</p>
+<p>0900</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Opening Speech</p>
@@ -46,7 +46,7 @@ urna dui a erat.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0930 / 1045</p>
+<p>0930</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “LEARN”</strong> [QR code for DYC]&nbsp;</p>
@@ -67,7 +67,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1045 / 1100</p>
+<p>1045</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Break with Activities</p>
@@ -83,7 +83,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1100 / 1215</p>
+<p>1100</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “DESIGN” </strong>&nbsp;[Plenary agenda = DYC mapped topics]</p>
@@ -93,7 +93,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1215 / 1225</p>
+<p>1215</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Sharing on DNDA</p>
@@ -101,7 +101,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1225 / 1325</p>
+<p>1225</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Lunch</p>
@@ -109,7 +109,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1325 / 1330</p>
+<p>1325</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Post Lunch Energiser</p>
@@ -117,7 +117,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1330 / 1400</p>
+<p>1330</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “DESIGN” </strong>- <strong>DYC Response&nbsp;</strong>
@@ -134,7 +134,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1400 / 1515</p>
+<p>1400</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “EXECUTE”</strong>
@@ -148,7 +148,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1515 / 1730</p>
+<p>1515</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “CONNECT”&nbsp;</strong>
@@ -162,7 +162,7 @@ facilitators of change in business, community and planet.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1830 / 2100</p>
+<p>1830</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Award Dinner</p>
