@@ -2,5 +2,5 @@ collections:
   contact-us:
     output: true
     order:
-      - faq.md
+      - FAQs.md
       - Contact Us.md
