@@ -17,7 +17,7 @@ this limited-time deal to save big and experience more!</p>
 <p><strong>🎨 Designer Special</strong>
 <br>Enjoy an exclusive <strong>60% OFF</strong> the 3-Day Pass – crafted for
 the creative minds in the design community, just like you!</p>
-<p><strong>🎓 Education or Public Services Special</strong>
+<p><strong>🎓 Education or Public Service Special</strong>
 <br>Get <strong>50% OFF</strong> the 3-Day Pass for students, educators, and
 professionals who inspire change and shape the future!</p>
 <p></p>
