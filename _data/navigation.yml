@@ -10,5 +10,7 @@ links:
     collection: programme
   - title: Award
     collection: award
+  - title: Contact Us
+    url: /permalink
   - title: Tickets
     collection: tickets
