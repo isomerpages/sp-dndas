@@ -11,6 +11,6 @@ links:
   - title: Award
     collection: award
   - title: Contact Us
-    url: https://www.dnda25.com.sg/contact-us/
+    collection: contact-us
   - title: Tickets
     collection: tickets
