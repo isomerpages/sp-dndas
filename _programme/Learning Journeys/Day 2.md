@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Journeys
 ---
-<h2><strong>Day-2: 20-Nov</strong></h2>
+<h2><strong>Day-2: 20 November 2025</strong></h2>
 <h4><strong>Sentosa</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
