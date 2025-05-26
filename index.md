@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       title: Purchase Your Tickets
-      subtitle: Get your tickets while they last!
+      subtitle: Get your tickets while they last! Text please text more, lorem ipsum,
+        get te tickets while it lasts and hot and famous and popula!
       background: /images/hero-banner.png
       variant: floating
       size: md
@@ -47,16 +48,6 @@ sections:
       url: https://www.dnda25.com.sg/humanity-centred-design/about/
       image: /images/02_HCD__use_this.png
   - infopic:
-      title: DNDA25 Programme Outline
-      id: infopic
-      description: DNDA25 features Design Your Conference (DYC), dynamic panels, and
-        exclusive networking, all shaping the future of Humanity-Centered Design
-        (HCD+)!
-      button: Find Out More
-      alt: Image alt text
-      url: https://www.dnda25.com.sg/programme/programme-details/day-1/
-      image: /images/03_Programme_use_this.png
-  - infopic:
       title: Our Partners
       id: infopic
       description: Our partners are advocate in design, innovation, and
@@ -66,4 +57,14 @@ sections:
       alt: Image alt text
       url: https://www.dnda25.com.sg/about/partners/
       image: /images/04_Partners.png
+  - infopic:
+      title: DNDA25 Programme Outline
+      id: infopic
+      description: DNDA25 features Design Your Conference (DYC), dynamic panels, and
+        exclusive networking, all shaping the future of Humanity-Centered Design
+        (HCD+)!
+      button: Find Out More
+      alt: Image alt text
+      url: https://www.dnda25.com.sg/programme/programme-details/day-1/
+      image: /images/03_Programme_use_this.png
 ---
