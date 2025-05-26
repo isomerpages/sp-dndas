@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Workshops
 ---
-<h2><strong>Design Your Futures Workshop</strong></h2>
+<h2><strong>Designing Your Futures Workshop</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero-banner.png">
