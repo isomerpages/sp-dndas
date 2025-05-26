@@ -25,5 +25,5 @@ professionals who inspire change and shape the future!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">👉 Secure Your Spot Now</div><div class="isomer-card-description">Join us for an unforgettable experience at DNDA25! With exciting talks, hands-on sessions, and a vibrant creative community, it’s the event you don’t want to miss. Purchase now and be part of the movement!</div><div class="isomer-card-link">Get Your Ticket Here</div></div></a>
 </div>
 <p></p>
-<p><strong>Join the movement that's shaping the future of design and be part of something extraordinary today!</strong>
-</p>
+<p>Join the movement that's shaping the future of design and be part of something
+extraordinary today!</p>
