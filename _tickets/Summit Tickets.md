@@ -4,7 +4,7 @@ permalink: /summit-tickets/
 variant: tiptap
 description: ""
 ---
-<h2>Get Your Tickets to DNDA25 Summit!</h2>
+<h2>Get Your Tickets to DNDA25 Summit</h2>
 <p><strong>Be part of the DNDA25 Summit – a vibrant celebration of design, innovation, and collaboration! We're offering flexible ticket options to suit every need and schedule.</strong>
 </p>
 <p>Choose between a <strong>3-Day Pass</strong> for the full, immersive experience
