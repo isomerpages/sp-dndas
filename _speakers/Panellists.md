@@ -9,8 +9,7 @@ description: ""
 semper sem, ac elementum est rutrum eu. Class aptent taciti sociosqu ad
 litora torquent per conubia nostra, per inceptos himenaeos.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="/images/09_Panellist_DN.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">Father of User Experience. Author of the latest book called Design For A Better World. 
-This is body text for your card. </div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="/images/09_Panellist_DN.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Don Norman</div><div class="isomer-card-description">Father of User Experience. Author of the latest book called Design For A Better World. This is body text for your card.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
