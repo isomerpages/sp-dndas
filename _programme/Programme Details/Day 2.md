@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Programme Details
 ---
-<h2><strong>Day-2: 20-Nov</strong></h2>
+<h2><strong>Day-2: 20 November 2025</strong></h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent felis
 sem, tempus quis lectus a, accumsan molestie ex. Vestibulum ante ipsum
 primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi
