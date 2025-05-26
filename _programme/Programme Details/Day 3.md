@@ -19,7 +19,7 @@ urna dui a erat.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0830 / 0900</p>
+<p>0830</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Registration</p>
@@ -27,7 +27,7 @@ urna dui a erat.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0900 / 0915</p>
+<p>0900</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Opening Speech</p>
@@ -40,7 +40,7 @@ urna dui a erat.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>0915 / 1015</p>
+<p>0915</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “LEARN” [QR code for DYC]&nbsp;</strong>
@@ -62,7 +62,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1015 / 1045</p>
+<p>1015</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Break with Activities</p>
@@ -78,7 +78,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1045 / 1200</p>
+<p>1045</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “DESIGN” </strong>&nbsp;[Plenary agenda = DYC mapped topics]</p>
@@ -88,7 +88,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1200 / 1300</p>
+<p>1200</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Lunch</p>
@@ -96,7 +96,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1300 / 1315</p>
+<p>1300</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Post Lunch Energiser</p>
@@ -104,7 +104,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1315 / 1445</p>
+<p>1315</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “EXECUTE” - Unconference </strong>@ SP Concourse</p>
@@ -117,7 +117,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1445 / 1515</p>
+<p>1445</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Break with Activities</p>
@@ -133,7 +133,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1515 / 1615</p>
+<p>1515</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “EXECUTE”</strong>
@@ -147,7 +147,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1615 / 1630</p>
+<p>1615</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Don Norman Closing Speech</p>
@@ -155,7 +155,7 @@ innovative and creative for the collective good of humanity</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1630 / 1800</p>
+<p>1630</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Networking</p>
