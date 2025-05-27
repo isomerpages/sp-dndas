@@ -4,10 +4,65 @@ permalink: /contact-us/faqs/
 variant: tiptap
 description: ""
 ---
-### **FAQ**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<h3><strong>FAQ</strong></h3>
+<p><strong>Have questions for us? </strong>
+</p>
+<p>We've got answers! Whether you're wondering about ticket types, student
+discounts, or group bookings, this page covers the most common queries.
+If you don’t find what you’re looking for, feel free to reach out — we’re
+happy to help!</p>
+<p>7.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>1. Are there any discount for student?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, students can enjoy 50% off the<a href="link to payment portal" rel="noopener nofollow" target="_blank">3-Day Summit Ticket</a>—just verify your
+status during the payment process.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2. Are there any discount for groups or corporate bundles?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, <a href="link to corporate bundles page" rel="noopener nofollow" target="_blank">corporate bundles</a> are
+available for organisations purchasing 10 or more tickets, with additional
+benefits included.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel
+tincidunt felis. Nulla facilisi. Vivamus rhoncus consequat libero eu?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In id augue ac orci rhoncus venenatis nec quis lorem. In hac habitasse
+platea dictumst. Praesent dictum ligula sit amet lacus malesuada viverra.
+Fusce hendrerit libero risus, tempus laoreet leo dictum quis. Ut posuere
+faucibus condimentum. Donec sed massa urna. Sed sed nisi ullamcorper, tincidunt
+ante in, suscipit tortor. Integer in nibh eu libero placerat semper et
+ut lorem. Praesent lacinia non felis eget lacinia.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>4.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>5.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>6.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>7.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
