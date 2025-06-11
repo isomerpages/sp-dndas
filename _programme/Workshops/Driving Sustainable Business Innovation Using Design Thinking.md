@@ -25,55 +25,10 @@ for adopting actionable sustainable strategies. The program also helps
 participants evaluate their organisation's current sustainability standing,
 offering valuable insights and strategies towards Sustainable Business
 Innovation and growth.</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register Your Interest</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<p>The course will provide participants with the essential knowledge, awareness,
+relevance and responsibilities of corporate sustainability. It will then
+identify gaps and how design thinking can be used as a framework in the
+transformation process.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.formsg.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register Your Interest</div><div class="isomer-card-description">Gain essential knowledge and awareness of corporate sustainability—understand its relevance, responsibilities, and how it drives lasting impact. Join like-minded professionals ready to embed sustainability into business strategy and operations.</div><div class="isomer-card-link">Register Now</div></div></a>
 </div>
-<p>Cras eget magna dapibus, pretium dui id, gravida tellus. In tristique
-elementum tempus. Donec consequat diam a mi tempor, at pretium diam ornare.
-Proin placerat dui in sem tempor vestibulum. Aenean eu finibus nibh, non
-molestie dui. In hac habitasse platea dictumst. Morbi egestas condimentum
-massa at mattis. In hac habitasse platea dictumst.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Cost</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Singaporean/PR</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Foreign</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Register your interest </strong><a href="test" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
-</p>
+<p></p>
