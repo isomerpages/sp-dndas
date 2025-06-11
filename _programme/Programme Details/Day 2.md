@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Programme Details
 ---
 <h3><strong>Day-2: 20 November 2025</strong></h3>
-<p><strong>Topic of the Day: Using HCD+ to support business to maximise social and planetary impacts without hurting the bottom line.</strong>
+<p><strong>Topic of Day-2: Using HCD+ to support business to maximise social and planetary impacts without hurting the bottom line.</strong>
 </p>
 <p>How can businesses create meaningful impact for society and the planet
 without sacrificing profitability? Day 2 explores how HCD+ can guide organisations
