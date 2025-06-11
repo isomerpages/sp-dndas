@@ -78,7 +78,7 @@ reflection and inspiration through design.</p>
 <p>0940</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “LEARN”</strong> 
+<p><strong>HCD+ “LEARN”</strong>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ reflection and inspiration through design.</p>
 <p>1100</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “DESIGN” </strong>
+<p><strong>HCD+ “DESIGN”</strong>
 </p>
 </td>
 </tr>
