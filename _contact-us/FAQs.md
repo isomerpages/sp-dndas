@@ -98,7 +98,8 @@ we will get back to you within 3 working days.</p>
 </details>
 </div>
 <p></p>
-<h4><strong>Still Have Questions?</strong></h4>
+<p><strong>Still Have Questions?</strong>
+</p>
 <p>We’re here to help. If you need more information or couldn’t find the
 answer you were looking for, don’t hesitate to get in touch. Simply send
 us your enquiry via <a href="uxc.sp.edu.sg" rel="noopener nofollow" target="_blank">email</a>,
