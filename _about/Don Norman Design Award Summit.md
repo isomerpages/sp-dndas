@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Humanity-Centred Design (HCD+): The Future of Education, Business and Community</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_About_DNDA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
 </div>
 <p>The Don Norman Design Award (DNDA) Summit celebrates the power of Humanity-Centred
 Design (HCD+), spotlighting projects that contribute meaningfully to the
