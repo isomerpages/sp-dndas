@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Programme Details
 ---
 <h3><strong>Day-1: 19 November 2025</strong></h3>
-<p><strong>Topic of Day-1: Using HCD+ to reposition designers through education to become facilitators of change in business, community and planet.</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DYC.jpg">
+</div>
+<p><strong>Day-1 Topic: Using HCD+ to reposition designers through education to become facilitators of change in business, community and planet.</strong>
 </p>
 <p>How can we prepare designers to become changemakers, not just in creative
 industries but across business, community and sustainability? Day 1 explores
