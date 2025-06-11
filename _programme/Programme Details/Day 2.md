@@ -38,7 +38,7 @@ ways to implement innovation strategies in your organisation or community.</p>
 </ul>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
-<h4>Programme Breakdown:</h4>
+<h4><strong>Programme Breakdown:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,7 +66,7 @@ ways to implement innovation strategies in your organisation or community.</p>
 <p>0915</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “LEARN” </strong>
+<p><strong>HCD+ “LEARN”</strong>
 </p>
 </td>
 </tr>
