@@ -10,7 +10,7 @@ third_nav_title: Programme Details
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DYC.jpg">
 </div>
-<p><strong>Topic of Day-2: Using HCD+ to support business to maximise social and planetary impacts without hurting the bottom line.</strong>
+<p><strong>Day-2 Topic: Using HCD+ to support business to maximise social and planetary impacts without hurting the bottom line.</strong>
 </p>
 <p>How can businesses create meaningful impact for society and the planet
 without sacrificing profitability? Day 2 explores how HCD+ can guide organisations
