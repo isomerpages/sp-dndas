@@ -36,7 +36,9 @@ and build new collaborations in an engaging, purpose-driven environment.</p>
 ways to implement innovation strategies in your organisation or community.</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<h4>Programme Breakdown:</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,11 +59,6 @@ ways to implement innovation strategies in your organisation or community.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Opening Speech</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minster of State for Trade &amp; Industry</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -69,47 +66,24 @@ ways to implement innovation strategies in your organisation or community.</p>
 <p>0915</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “LEARN” [QR code for DYC]&nbsp;</strong>
+<p><strong>HCD+ “LEARN” </strong>
 </p>
-<p>Topic 3 - Using HCD+ to redesign society to be more inclusive, empowered,
-innovative and creative for the collective good of humanity</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sanjay Purohit</p>
-</li>
-<li>
-<p>Simon J.D. Schillebeeckx</p>
-</li>
-<li>
-<p>Aparna Bhatnagar Saxena</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1030</p>
+<p>1015</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Break with Activities</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 Booths - shared across award winners/laureates</p>
-</li>
-<li>
-<p>5 Exhibitions - students and partners showcase</p>
-</li>
-</ul>
+<p>Break with Activities (Booths &amp; Exhibitions)</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>1100</p>
+<p>1045</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “DESIGN” </strong>&nbsp;[Plenary agenda = DYC mapped topics]</p>
-<p>Plenary to include 3 keynote speakers, 2 panellists, 1 award winner and
-1 moderator</p>
+<p><strong>HCD+ “DESIGN” </strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -135,14 +109,6 @@ innovative and creative for the collective good of humanity</p>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “DESIGN” - </strong>&nbsp;<strong>DYC Response</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mario Van Der Meulen</p>
-</li>
-<li>
-<p>Hong Khai Seng</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -152,11 +118,6 @@ innovative and creative for the collective good of humanity</p>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “EXECUTE”</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Unconference Findings includes 4 panellists, 2 award winners and 1 moderator</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -166,15 +127,10 @@ innovative and creative for the collective good of humanity</p>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “CONNECT”&nbsp;</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit to SP centers and/or partner locations</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your Summit Ticket Now!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p></p>
