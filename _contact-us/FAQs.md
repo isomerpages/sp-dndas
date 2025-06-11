@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ.jpg">
 </div>
-<p><strong>Have questions about DNDA25? </strong>
+<p><strong>Have questions about DNDA25?</strong>
 </p>
 <p>We have answers!</p>
 <p>Whether you are exploring ticket options, student concessions, or planning
@@ -93,7 +93,7 @@ by students from local and international institutions.</p>
 <summary>11. How can I get in touch with the organising team?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If your question is not listed here, please contact us directly at <a href="http://uxc.sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uxc.sp.edu.sg</a> or
-through the Contact Form.</p>
+through the <a href="https://www.dnda25.com.sg/contact-us" rel="noopener nofollow" target="_blank">Contact Form</a>.</p>
 </div>
 </details>
 </div>
