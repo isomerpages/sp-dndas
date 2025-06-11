@@ -5,9 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Journeys
 ---
-<h2><strong>Day-2: 20 November 2025</strong></h2>
+<h3><strong>Day-2: 20 November 2025</strong></h3>
+<p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin.</strong>
+</p>
+<p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
+connections in a setting designed for meaningful engagement.</p>
+<p>Choose your preferred <strong>place to visit </strong>when purchasing your
+Summit ticket.
+<br>🔔 <em>HCD+ “Connect” only runs on Day 1 and Day 2 — don’t miss it!</em>
+</p>
+<p><strong>Join us in shaping what's next — </strong><a href="https://www.dnda25ticketing.com.sg" rel="noopener nofollow" target="_blank">purchase your ticket now</a><strong>!</strong>
+</p>
 <h4><strong>Sentosa</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ_D2_s.jpg">
 </div>
