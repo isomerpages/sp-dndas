@@ -6,10 +6,10 @@ description: ""
 ---
 <h4><strong>Panellists &amp; Moderators</strong></h4>
 <p>At DNDA25, we choose keynote speakers, moderators, and panellists who
-align with the core values of Humanity-Centered Design (HCD+) and our event
-theme. Our speakers will cover key topics on education, business impact,
-and community engagement in HCD+, ensuring a compelling, global dialogue
-at DNDA25.</p>
+align with the core values of <strong>Humanity-Centered Design (HCD+)</strong> and
+our event theme. Our speakers will cover key topics on <strong>education</strong>, <strong>business impact</strong>,
+and <strong>community engagement</strong> in HCD+, ensuring a compelling,
+global dialogue at DNDA25.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="/images/09_Panellist_DN.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Don Norman</div><div class="isomer-card-description">Father of User Experience. Author of the latest book called Design For A Better World. This is body text for your card.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
