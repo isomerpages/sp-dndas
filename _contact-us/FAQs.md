@@ -92,9 +92,14 @@ by students from local and international institutions.</p>
 <details class="isomer-details">
 <summary>11. How can I get in touch with the organising team?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If your question is not listed here, please contact us directly at <a href="http://uxc.sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uxc.sp.edu.sg</a> or
-through the <a href="https://www.dnda25.com.sg/contact-us" rel="noopener nofollow" target="_blank">Contact Form</a>.</p>
+<p>Please drop us an <a href="uxc.sp.edu.sg" rel="noopener nofollow" target="_blank">email</a> –
+we will get back to you within 3 working days.</p>
 </div>
 </details>
 </div>
 <p></p>
+<h4><strong>Still Have Questions?</strong></h4>
+<p>We’re here to help. If you need more information or couldn’t find the
+answer you were looking for, don’t hesitate to get in touch. Simply send
+us your enquiry via <a href="uxc.sp.edu.sg" rel="noopener nofollow" target="_blank">email</a>,
+and our team will get back to you within 3 working days.</p>
