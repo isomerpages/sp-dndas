@@ -22,7 +22,7 @@ global dialogue at DNDA25.</p>
 your card. Describe your card further to increase the words.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/daniel-s-iacofono" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DSI.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Daniel S. Iacofono</div><div class="isomer-card-description">Founding Principal &amp; CEO @ MIG. This is body text for your card. Describe your card further to increase the words when needed.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/daniel-s-iacofono" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Daniel.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Daniel Iacofono</div><div class="isomer-card-description">An internationally recognised innovator with 40 years' experience in planning, design, strategy, and collaboration, shaping sustainable, people-focused environments worldwide.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/sanjay-purohit" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -31,8 +31,9 @@ your card. Describe your card further to increase the words.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sanjay Purohit</div>
-<div class="isomer-card-description">CEO &amp; Chief Curator @ Centre for Exponential Change. This is body
-text for your card. Describe your card further to increase.</div>
+<div class="isomer-card-description">With 35+ years' experience, Sanjay co-created Societal Thinking to scale
+impact, mentoring global leaders and advising initiatives like the UN,
+DNDA, and Apurva.ai.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/simon-schillebeeckx" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_SS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Simon J.D. Schillebeeckx</div><div class="isomer-card-description">Co-founder &amp; Chief Vision Officer @ Handprint. This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read More</div></div></a>
