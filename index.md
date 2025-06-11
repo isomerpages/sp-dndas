@@ -1,7 +1,11 @@
 ---
 layout: homepage
 title: Don Norman Design Award Summit 2025 (DNDA25)
-description: An Isomer site of the Singapore Government
+description: The DNDA25 Summit (19–21 Nov 2025, Singapore) brings together
+  changemakers in design, education, business and community for three days of
+  purposeful dialogue, creative exploration and humanity‑centred action. Join us
+  as education meets innovation to inspire sustainable solutions for global
+  impact.
 image: /images/images.jpg
 permalink: /
 notification: ""
