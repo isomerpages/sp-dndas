@@ -9,11 +9,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_About_DNDA.png">
 </div>
-<p>The DNDA Summit celebrates the power of Humanity-Centred Design (HCD+),
-spotlighting projects that contribute meaningfully to the United Nations’
-17 Sustainable Development Goals (SDGs). It showcases the work of early-career
-practitioners, explores productive failures, and shares strategies for
-real-world impact.</p>
+<p>The Don Norman Design Award (DNDA) Summit celebrates the power of Humanity-Centred
+Design (HCD+), spotlighting projects that contribute meaningfully to the
+United Nations’ 17 Sustainable Development Goals (SDGs). It showcases the
+work of early-career practitioners, explores productive failures, and shares
+strategies for real-world impact.</p>
 <p>At its core, HCD+ is about long-term societal well-being. It blends social
 responsibility with innovative thinking to meet human needs, support viable
 business models, and build environmental resilience. Together, these principles
