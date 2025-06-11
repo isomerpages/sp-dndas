@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Learning Journeys
 ---
 <h3><strong>Day-1: 19 November 2025</strong></h3>
-<p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin. </strong>
+<p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin.</strong>
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
