@@ -4,13 +4,14 @@ permalink: /about/singapore-polytechnic/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Singapore Polytechnic: Pioneering Humanity-Centred Design (HCD+) in Education, Business &amp; Community</strong></h3>
+<h3><strong>Singapore Polytechnic: Pioneering Humanity-Centred Design (HCD+) in Education, Business and Community</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/05_SP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updatedx2_Singapore_Polytechnic_Campus.jpg">
 </div>
-<p>At Singapore Polytechnic (SP), HCD+ is central to how we educate, collaborate
-and serve. This approach prioritises human well-being, cultural inclusivity
-and environmental sustainability, aligning with the United Nations’ SDGs.</p>
+<p>At Singapore Polytechnic (SP), Humanity-Centred Design (HCD+) is central
+to how we educate, collaborate and serve. This approach prioritises human
+well-being, cultural inclusivity and environmental sustainability, aligning
+with the United Nations’ SDGs.</p>
 <p><strong>Educational Integration of HCD+</strong>
 </p>
 <p>SP’s commitment to HCD+ is reflected in its curriculum and teaching approach.
@@ -21,12 +22,13 @@ students hands-on experience in venture creation and mentorship, with a
 focus on social impact and ethical entrepreneurship.</p>
 <p><strong>Industry Collaboration and Innovation</strong>
 </p>
-<p>SP’s User Experience Centre collaborates with organisations to address
+<p>SP’s User Experience Centre (UXC) collaborates with organisations to address
 complex challenges using the HCD+ Innovation framework. This multidisciplinary
 approach supports the development of sustainable, real-world solutions.
-SP’s Industry &amp; Partnerships Department also facilitates co-location
+SP’s Industry &amp; Partnerships (InP) Department also facilitates co-location
 opportunities, where companies work alongside students and staff on applied
 projects, creating shared spaces for innovation and learning.</p>
+<p></p>
 <p><strong>Community Engagement and Global Outreach</strong>
 </p>
 <p>Beyond campus, SP brings the HCD+ approach into the wider community through
