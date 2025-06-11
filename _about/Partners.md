@@ -13,8 +13,7 @@ to a more equitable future. Through these partnerships, the DNDA Summit
 amplifies the influence of Humanity-Centred Design (HCD+), strengthening
 a global movement dedicated to designing for humanity, culture, and the
 environment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06_Partners_Logos.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_DNDA_partners.jpg">
 </div>
 <p></p>
