@@ -2,8 +2,8 @@ title: Don Norman Design Award Summit 2025 (DNDA25)
 url: https://www.dnda25.com.sg
 favicon: /images/images.jpg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#f5a623"
+  secondary-color: "#c66924"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -15,7 +15,11 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: The DNDA25 Summit (19–21 Nov 2025, Singapore) brings together
+  changemakers in design, education, business and community for three days of
+  purposeful dialogue, creative exploration and humanity‑centred action. Join us
+  as education meets innovation to inspire sustainable solutions for global
+  impact.
 permalink: none
 baseurl: ""
 exclude:
