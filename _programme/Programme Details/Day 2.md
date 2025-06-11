@@ -5,12 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Programme Details
 ---
-<h2><strong>Day-2: 20 November 2025</strong></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent felis
-sem, tempus quis lectus a, accumsan molestie ex. Vestibulum ante ipsum
-primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi
-porta, risus a elementum efficitur, massa nisi elementum neque, non facilisis
-urna dui a erat.</p>
+<h3><strong>Day-2: 20 November 2025</strong></h3>
+<p><strong>Topic of the Day: Using HCD+ to support business to maximise social and planetary impacts without hurting the bottom line.</strong> 
+</p>
+<p>How can businesses create meaningful impact for society and the planet
+without sacrificing profitability? Day 2 explores how HCD+ can guide organisations
+to balance commercial goals with social and environmental responsibility.
+Through real-world examples and conversations with practitioners, participants
+will learn how to apply HCD+ to redesign business models, build purpose-driven
+strategies, and contribute to a future that works for everyone.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
