@@ -14,10 +14,10 @@ sections:
       title: Purchase Your Tickets
       subtitle: Get your tickets while they last! Text please text more, lorem ipsum,
         get te tickets while it lasts and hot and famous and popula!
-      background: /images/hero-banner.png
+      background: /images/Hero_Banner.png
       variant: floating
       size: md
-      alignment: right
+      alignment: left
       backgroundColor: gray
       key_highlights:
         - title: Award
