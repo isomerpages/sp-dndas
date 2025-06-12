@@ -73,11 +73,6 @@ continue beyond the Summit.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Opening Speech</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minster of Sustainability &amp; Environment</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -85,21 +80,8 @@ continue beyond the Summit.</p>
 <p>0915</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “LEARN” [QR code for DYC]&nbsp;</strong>
+<p><strong>HCD+ “LEARN” </strong>
 </p>
-<p>Topic 3 - Using HCD+ to redesign society to be more inclusive, empowered,
-innovative and creative for the collective good of humanity</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wong Sweet Fun</p>
-</li>
-<li>
-<p>Tong Yee</p>
-</li>
-<li>
-<p>Arthur Huang</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -107,15 +89,7 @@ innovative and creative for the collective good of humanity</p>
 <p>1015</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Break with Activities</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 Booths - shared across award winners/laureates</p>
-</li>
-<li>
-<p>5 Exhibitions - students and partners showcase</p>
-</li>
-</ul>
+<p>Break with Activities (Booths &amp; Exhibitions)</p>
 </td>
 </tr>
 <tr>
@@ -123,9 +97,7 @@ innovative and creative for the collective good of humanity</p>
 <p>1045</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “DESIGN” </strong>&nbsp;[Plenary agenda = DYC mapped topics]</p>
-<p>Plenary to include 3 keynote speakers, 2 panellists, 1 award winner and
-1 moderator</p>
+<p><strong>HCD+ “DESIGN” </strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -149,12 +121,8 @@ innovative and creative for the collective good of humanity</p>
 <p>1315</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “EXECUTE” - Unconference </strong>@ SP Concourse</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 Unconference topics</p>
-</li>
-</ul>
+<p><strong>HCD+ “EXECUTE” - Unconference </strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -162,15 +130,7 @@ innovative and creative for the collective good of humanity</p>
 <p>1445</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Break with Activities</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>10 Booths - shared across award winners</p>
-</li>
-<li>
-<p>5 Exhibitions - students and partners showcase</p>
-</li>
-</ul>
+<p>Break with Activities (Booths &amp; Exhibitions)</p>
 </td>
 </tr>
 <tr>
@@ -180,11 +140,6 @@ innovative and creative for the collective good of humanity</p>
 <td rowspan="1" colspan="1">
 <p><strong>HCD+ “EXECUTE”</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Unconference Findings includes 4 panellists, 2 award winners and 1 moderator</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
