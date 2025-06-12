@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Get Your Tickets to DNDA25 Summit</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buy_Ticket_Now__1_.jpg">
+</div>
 <p><strong>Join Us at DNDA25!</strong>
 </p>
 <p><strong>Experience three days of purposeful dialogue, creative exploration and community building at the DNDA25 Summit. This is where design meets action, where ideas take root and changemakers connect across education, business and community.</strong>
