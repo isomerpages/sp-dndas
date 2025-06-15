@@ -12,7 +12,6 @@ description: ""
 </p>
 <p>Whether you are exploring ticket options, student concessions, or planning
 a group visit, this section covers the most frequently asked questions.</p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>1. What ticket types are available?</summary>
@@ -94,4 +93,5 @@ we will get back to you within 3 working days.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><strong>Still have questions?</strong>  <strong>Reach out to us <a href="sfExchSPUXC@sp.edu.sg" rel="noopener nofollow" target="_blank">here</a>.</strong>
+</p>
