@@ -32,11 +32,10 @@ sections:
       button: Buy Now
       url: https://www.dnda25.com.sg/tickets/
   - infopic:
-      title: Don Norman Design Award Summit
+      title: Don Norman Design Award (DNDA)
       id: infopic
-      description: The Don Norman Design Award (DNDA) is a non-profit promoting
-        Humanity-Centred Design (HCD+), recognising early-career practitioners
-        solving community issues.
+      description: The Don Norman Design Award (DNDA) organisation is dedicated to
+        promoting the global adoption of Humanity-Centered Design (HCD+).
       button: Learn More
       alt: Image alt text
       image: /images/01_About_DNDA_squared.png
