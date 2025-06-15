@@ -54,7 +54,7 @@ bundles of 10 or 20 tickets.</p>
 </div>
 </div>
 <h4><strong>Planning to bring your team?</strong></h4>
-<p><strong>👉 <a href="form.sg" rel="noopener nofollow" target="_blank">Fill in the form</a> to get in touch with us. We would be happy to assist.</strong>
+<p><strong>👉 <a href="https://form.gov.sg/admin/form/684efe085d6656cfcc1dd3ce" rel="noopener nofollow" target="_blank">Fill in the form</a> to get in touch with us. We would be happy to assist.</strong>
 </p>
 <h4><strong>Accommodation</strong></h4>
 <p>If you and your team are flying to Singapore for the DNDA25 Summit and
