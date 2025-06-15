@@ -12,9 +12,7 @@ description: ""
 </p>
 <p>We have answers!</p>
 <p>Whether you are exploring ticket options, student concessions, or planning
-a group visit, this section covers the most frequently asked questions.
-If you don’t find what you’re looking for, feel free to reach out — we’re
-happy to help!</p>
+a group visit, this section covers the most frequently asked questions.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
