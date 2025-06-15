@@ -80,7 +80,7 @@ continue beyond the Summit.</p>
 <p>0915</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “LEARN” </strong>
+<p><strong>HCD+ “LEARN”</strong>
 </p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ continue beyond the Summit.</p>
 <p>1315</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>HCD+ “EXECUTE” - Unconference </strong>
+<p><strong>HCD+ “EXECUTE” - Unconference</strong>
 </p>
 </td>
 </tr>
@@ -160,7 +160,11 @@ continue beyond the Summit.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Accommodation</strong></h4>
+<p>If you are flying to Singapore for the DNDA25 Summit and need to book
+accommodation, click <strong><a href="Test" rel="noopener nofollow" target="_blank">here</a></strong> to
+reserve your stay at Carlton Hotel. Enter the code <strong>DNDA2420OFF</strong> in
+the discount field to enjoy a special rate.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p></p>
