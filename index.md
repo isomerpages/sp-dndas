@@ -38,7 +38,7 @@ sections:
         promoting the global adoption of Humanity-Centered Design (HCD+).
       button: Learn More
       alt: Image alt text
-      image: /images/01_About_DNDA_squared.png
+      image: /images/DNDAV2__4_.jpg
       url: https://www.dnda25.com.sg/about/dnda-summit/
   - infopic:
       title: Humanity-Centred Design (HCD+)
@@ -49,7 +49,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/humanity-centred-design/about/
-      image: /images/02_HCD__use_this.png
+      image: /images/HCDV2__1_.jpg
   - infopic:
       title: Our Partners
       id: infopic
@@ -59,7 +59,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/about/partners/
-      image: /images/04_Partners.png
+      image: /images/PartnersV2__1_.jpg
   - infopic:
       title: DNDA25 Programme Outline
       id: infopic
@@ -69,5 +69,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: https://www.dnda25.com.sg/programme/programme-details/day-1/
-      image: /images/03_Programme_use_this.png
+      image: /images/2025V2__1_.jpg
 ---
