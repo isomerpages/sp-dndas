@@ -8,9 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ.jpg">
 </div>
-<p><strong>Have questions about DNDA25?</strong>
+<p><strong>Have questions about DNDA25? — We have answers!</strong>
 </p>
-<p>We have answers!</p>
 <p>Whether you are exploring ticket options, student concessions, or planning
 a group visit, this section covers the most frequently asked questions.</p>
 <p></p>
