@@ -1,6 +1,6 @@
 title: Don Norman Design Award Summit 2025 (DNDA25)
 url: https://www.dnda25.com.sg
-favicon: /images/images.jpg
+favicon: /images/DNDA25_SP_logo_bk.png
 colors:
   primary-color: "#f5a623"
   secondary-color: "#c66924"
@@ -57,7 +57,7 @@ staging: https://staging-lite.di88sw0txp6r7.amplifyapp.com
 prod: https://master.d25fsp3cskqtf7.amplifyapp.com
 facebook-pixel: ""
 resources_name: dnda25
-shareicon: /images/images.jpg
+shareicon: /images/DNDA25_SP_logo_bk.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
