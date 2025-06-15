@@ -29,6 +29,6 @@ Innovation and growth.</p>
 relevance and responsibilities of corporate sustainability. It will then
 identify gaps and how design thinking can be used as a framework in the
 transformation process.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.formsg.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register Your Interest</div><div class="isomer-card-description">Gain essential knowledge and awareness of corporate sustainability—understand its relevance, responsibilities, and how it drives lasting impact. Join like-minded professionals ready to embed sustainability into business strategy and operations.</div><div class="isomer-card-link">Register Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/admin/form/684ef9cf5c6b456192394aed" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register Your Interest</div><div class="isomer-card-description">Gain essential knowledge and awareness of corporate sustainability—understand its relevance, responsibilities, and how it drives lasting impact. Join like-minded professionals ready to embed sustainability into business strategy and operations.</div><div class="isomer-card-link">Register Now</div></div></a>
 </div>
 <p></p>
