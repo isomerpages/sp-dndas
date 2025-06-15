@@ -6,7 +6,7 @@ description: The DNDA25 Summit (19–21 Nov 2025, Singapore) brings together
   purposeful dialogue, creative exploration and humanity‑centred action. Join us
   as education meets innovation to inspire sustainable solutions for global
   impact.
-image: /images/images.jpg
+image: /images/DNDA25_SP_logo_bk.png
 permalink: /
 notification: ""
 sections:
