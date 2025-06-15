@@ -92,6 +92,15 @@ by students from local and international institutions.</p>
 we will get back to you within 3 working days.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>12. As an international guest, is there any discount on accommodation
+when I attend the DNDA25 Summit?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, there is! Click <a href="testing" rel="noopener nofollow" target="_blank">here</a> to
+book your accommodation at Carlton Hotel. Enter the code <strong>DNDA2420OFF</strong> in
+the discount field to enjoy the special rate.</p>
+</div>
+</details>
 </div>
 <p><strong>Still have questions?</strong>  <strong>Reach out to us <a href="sfExchSPUXC@sp.edu.sg" rel="noopener nofollow" target="_blank">here</a>.</strong>
 </p>
