@@ -56,3 +56,8 @@ bundles of 10 or 20 tickets.</p>
 <h4><strong>Planning to bring your team?</strong></h4>
 <p><strong>👉 <a href="form.sg" rel="noopener nofollow" target="_blank">Fill in the form</a> to get in touch with us. We would be happy to assist.</strong>
 </p>
+<h4><strong>Accommodation</strong></h4>
+<p>If you and your team are flying to Singapore for the DNDA25 Summit and
+need to book accommodation, click <strong><a href="Test" rel="noopener nofollow" target="_blank">here</a></strong> to
+reserve your stay at Carlton Hotel. Enter the code <strong>DNDA2420OFF</strong> in
+the discount field to enjoy a special rate.</p>
