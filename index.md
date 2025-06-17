@@ -53,9 +53,9 @@ sections:
   - infopic:
       title: Our Partners
       id: infopic
-      description: Our partners are advocate in design, innovation, and
-        sustainability, collaborating to advance HCD+ and create impactful
-        change globally.
+      description: Our partners are advocates of design, innovation and
+        sustainability, working together to advance HCD+ and drive global
+        impact.
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/about/partners/
@@ -63,9 +63,9 @@ sections:
   - infopic:
       title: DNDA25 Programme Outline
       id: infopic
-      description: DNDA25 features Design Your Conference (DYC), dynamic panels, and
-        exclusive networking, all shaping the future of Humanity-Centered Design
-        (HCD+)!
+      description: DNDA25 features Design Your Conference (DYC), dynamic panels and
+        purposeful networking, all shaping the future of Humanity-Centred
+        Design.
       button: Find Out More
       alt: Image alt text
       url: https://www.dnda25.com.sg/programme/programme-details/day-1/
