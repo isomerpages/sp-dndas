@@ -4,31 +4,25 @@ permalink: /humanity-centred-design/playground-at-uxc-metaverse/
 variant: tiptap
 description: ""
 ---
-<h2>HCD+ Metaverse Game</h2>
-<p></p><a class="isomer-image-wrapper" href="youtube"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Metaverse.png"></a>
+<h3><strong>Playground @ UXC</strong></h3>
+<p><strong>Do you know what Humanity Centred Design (HCD+) is and how it can be applied into real-world challenges?&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground.png">
+</div>
+<p>📍<strong>Playground @ UXC is the place for you!</strong>
+</p>
+<p><strong>Discover the Humanity-Centred Design (HCD+) framework</strong>,
+developed by Singapore Polytechnic’s User Experience Centre, and gain insights
+from the Father of User Experience (UX) himself – <strong>Don Norman</strong>.</p>
+<p>💡<strong>Curious about your organisation’s innovation readiness?</strong>
+<br>Find out how prepared you are to lead sustainable change.</p>
+<p>💡<strong>Wondering where your Design Thinking strengths lie?</strong>
+<br>Explore your key traits through our interactive quizzes.</p>
+<p><strong>Embark on a fun, immersive experience</strong> — take our quizzes
+and dive into four unique challenge portals. Learn how HCD+ is used to
+tackle real-world problems, while uncovering more about your personal design
+superpowers along the way!</p>
+<p><strong><a href="https://www.sandbox.game/en/experiences/Playground%20@%20UXC/dc6a1b37-a942-4992-9b6c-f927fe7f2844/page/" rel="noopener nofollow" target="_blank">Start playing the game &gt;</a></strong>
+</p>
 <p></p>
-<p>Curabitur eu dolor laoreet quam pretium dictum sed eget sapien. Donec
-tincidunt, mauris sit amet convallis euismod, ante nibh maximus felis,
-eget ornare arcu lacus nec enim. Nullam vulputate egestas tortor, nec viverra
-augue dignissim sit amet. Praesent maximus risus vitae urna volutpat faucibus.
-Sed porttitor auctor elit, non auctor leo volutpat non. Pellentesque in
-justo velit. Vestibulum ullamcorper nisl nunc, at iaculis arcu sagittis
-id. Proin luctus gravida est, ut blandit purus pharetra nec. Integer molestie,
-neque eget laoreet consectetur, nisl diam pulvinar nunc, vitae mattis metus
-orci vitae erat. Morbi mattis, ipsum ac cursus sagittis, quam diam iaculis
-diam, vel sagittis ipsum risus ac sapien. Praesent volutpat nunc quis orci
-aliquam tempor. Fusce malesuada erat id finibus mattis. Praesent in tellus
-eu mauris tincidunt dictum sit amet a dolor. Aenean nec condimentum magna.
-Vestibulum maximus elementum gravida. Pellentesque pharetra pulvinar metus,
-id sollicitudin tortor consequat ornare.</p>
-<p>Phasellus non auctor lorem, ac condimentum nisi. Integer eget blandit
-magna. Proin quis lobortis erat. Nullam at varius risus. Integer ac nibh
-massa. Donec lacinia, mauris sit amet tincidunt rhoncus, nulla dolor vestibulum
-mauris, non gravida neque libero at est. Nullam rutrum tellus et odio fermentum
-porta. In eleifend ante et ipsum tincidunt egestas. In id leo ut mauris
-fringilla facilisis. Sed ac dolor dictum, ornare purus sed, gravida nulla.
-Mauris quis lectus ipsum. Quisque nec pretium eros. Sed odio tortor, eleifend
-nec convallis vitae, venenatis eu nibh. Suspendisse finibus scelerisque
-semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-per inceptos himenaeos. Praesent pretium quam augue, id ullamcorper ipsum
-tempor sed.</p>
