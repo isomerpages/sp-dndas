@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Humanity-Centred Design (HCD+)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UXC_HCD__framework_V2.png">
+</div>
 <p><strong>What is Humanity-Centred Design (HCD+)?</strong>
 </p>
 <p>Humanity-Centred Design (HCD+) is an advanced framework developed by Singapore
