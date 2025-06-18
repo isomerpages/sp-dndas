@@ -1,0 +1,6 @@
+collections:
+  tickets:
+    output: true
+    order:
+      - Summit Tickets.md
+      - Corporate Bundles.md

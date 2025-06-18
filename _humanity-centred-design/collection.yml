@@ -1,0 +1,7 @@
+collections:
+  humanity-centred-design:
+    output: true
+    order:
+      - About.md
+      - Innovation Playbook.md
+      - Playground @ UXC Metaverse.md

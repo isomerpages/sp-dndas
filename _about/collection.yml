@@ -1,0 +1,7 @@
+collections:
+  about:
+    output: true
+    order:
+      - Don Norman Design Award Summit.md
+      - Singapore Polytechnic.md
+      - Partners.md

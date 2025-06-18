@@ -1,0 +1,6 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - Keynote Speakers.md
+      - Panellists.md
