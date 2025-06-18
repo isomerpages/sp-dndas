@@ -5,34 +5,51 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>HCD+ Innovation Playbook</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playbook.png">
+<p>The <strong>HCD+ Innovation Playbook</strong> by Singapore Polytechnic’s
+User Experience Centre (SP UXC) is a pioneering guide that reimagines design
+beyond individuals to include the collective wellbeing of humanity and
+the planet. HCD+, short for <strong>Humanity-Centred Design</strong>, builds
+on the foundations of traditional Human-Centred Design (HCD) but introduces
+a deeper, more sustainable lens — integrating social equity, systems thinking,
+and environmental responsibility into every stage of innovation.</p>
+<p>This playbook is inspired by the visionary work of <strong>Professor Don Norman</strong>,
+who advocates for a shift from designing <em>for users</em> to designing <em>for humanity</em>.
+SP UXC’s framework puts this into action through a five-stage process: <strong>Envision, Empathise, Create, Evaluate, and Deliver</strong>.
+Unlike conventional design guides, it’s not just about creating usable
+products, but about transforming organisations and individuals into <strong>agents of sustainable change</strong>.</p>
+<p>At the heart of the HCD+ approach are <strong>five core sustainable innovation principles</strong>:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Systems Thinking</strong>
+</p>
+</li>
+<li>
+<p><strong>Holistic Wellbeing</strong>
+</p>
+</li>
+<li>
+<p><strong>Bioinspiration</strong>
+</p>
+</li>
+<li>
+<p><strong>Circularity</strong>
+</p>
+</li>
+<li>
+<p><strong>Social Equity &amp; Inclusion</strong>
+</p>
+</li>
+</ol>
+<p>Additionally, the playbook calls for <strong>six critical mindset shifts</strong>,
+such as expanding empathy to all living things and adopting long-term perspectives.</p>
+<p>Designed for practitioners, leaders, educators, and students, the HCD+
+Playbook offers practical methods, tools, and strategies to foster meaningful,
+inclusive innovation. It encourages readers to address real-world constraints
+like cost, resources, and resistance to change, by framing them as opportunities
+for creativity and collaboration.</p>
+<p>Ultimately, this is more than a guide — it’s a call-to-action to <strong>design for People, Planet, Product, and Profit (the 4Ps)</strong>.
+SP UXC invites all changemakers to join the HCD+ movement and co-create
+a future where humanity and nature thrive together.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your HCD+ Playbook Here</div><div class="isomer-card-description">Unlock practical tools, mindset shifts, and design strategies to create meaningful, sustainable innovation. Discover how to design for People, Planet, Product, and Profit with the SP UXC HCD+ Innovation Framework.</div><div class="isomer-card-link">Pre-order Now</div></div></a>
 </div>
-<p>Nam dapibus viverra magna ac convallis. Duis varius leo enim, in rutrum
-neque laoreet vitae. Nullam ut leo lacus. Phasellus in mi vel nisl laoreet
-pellentesque. Proin ultrices magna pulvinar ultricies ultrices. Mauris
-ut felis lacus. Etiam tincidunt eros nec ultrices fermentum. Donec viverra
-gravida sodales. Phasellus ullamcorper aliquet varius. Maecenas ullamcorper
-ex et nibh vulputate, sit amet sollicitudin felis dictum. Maecenas justo
-tellus, blandit in justo eget, iaculis sollicitudin velit. Nulla velit
-eros, convallis sit amet lorem a, facilisis ultricies odio. Fusce laoreet
-nulla ac tellus eleifend congue. Vivamus molestie a est eget gravida. Duis
-ut molestie nibh, dapibus vehicula neque.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Yours Here!</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Pre-order Now</div></div></a>
-</div>
-<p>Curabitur eu dolor laoreet quam pretium dictum sed eget sapien. Donec
-tincidunt, mauris sit amet convallis euismod, ante nibh maximus felis,
-eget ornare arcu lacus nec enim. Nullam vulputate egestas tortor, nec viverra
-augue dignissim sit amet. Praesent maximus risus vitae urna volutpat faucibus.
-Sed porttitor auctor elit, non auctor leo volutpat non. Pellentesque in
-justo velit. Vestibulum ullamcorper nisl nunc, at iaculis arcu sagittis
-id. Proin luctus gravida est, ut blandit purus pharetra nec. Integer molestie,
-neque eget laoreet consectetur, nisl diam pulvinar nunc, vitae mattis metus
-orci vitae erat. Morbi mattis, ipsum ac cursus sagittis, quam diam iaculis
-diam, vel sagittis ipsum risus ac sapien. Praesent volutpat nunc quis orci
-aliquam tempor. Fusce malesuada erat id finibus mattis. Praesent in tellus
-eu mauris tincidunt dictum sit amet a dolor. Aenean nec condimentum magna.
-Vestibulum maximus elementum gravida. Pellentesque pharetra pulvinar metus,
-id sollicitudin tortor consequat ornare.</p>
