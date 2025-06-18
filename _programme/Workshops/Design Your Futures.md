@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Workshops
 ---
-<h2><strong>Designing Your Futures</strong></h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero-banner.png">
-</div>
+<h3><strong>Design Your Futures</strong></h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
