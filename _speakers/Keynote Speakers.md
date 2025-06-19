@@ -9,7 +9,7 @@ align with the core values of <strong>Humanity-Centered Design (HCD+)</strong> a
 our event theme. Our speakers will cover key topics on <strong>education</strong>, <strong>business impact</strong>,
 and <strong>community engagement</strong> in HCD+, ensuring a compelling,
 global dialogue at DNDA25.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25.com.sg/speakers/keynote-speakers/dilys-boey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_DB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dilys Boey</div><div class="isomer-card-description">Chief Executive (CE) @ Workforce Singapore (WSG). This is body text for your card. Describe your card further to increase the words.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25.com.sg/speakers/keynote-speakers/dilys-boey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_DB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dilys Boey</div><div class="isomer-card-description">With over 25 years of experience in management consulting and corporate development, including senior roles at Ernst &amp; Young and Enterprise Singapore. </div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/daniel-s-iacofono" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -32,11 +32,12 @@ environments worldwide.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Simon J.D. Schillebeeckx</div>
-<div class="isomer-card-description">Co-founder &amp; Chief Vision Officer @ Handprint. This is body text for
-your card. Describe your card.</div>
+<div class="isomer-card-description">A researcher and co-founder of ventures like Handprint and the Global
+Mangrove Trust, focusing on digital sustainability and strategies to address
+natural resources.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/aparna-bhaatnagar-saxena" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_ABS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Aparna Bhatnagar Saxena</div><div class="isomer-card-description">CEO @ TORAJAMELO. This is body text for your card. Describe your card further to increase.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/aparna-bhaatnagar-saxena" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_ABS.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Aparna Bhatnagar Saxena</div><div class="isomer-card-description">Leads a women-led, B Corp-certified ethical lifestyle brand that collaborates with indigenous weaving communities in Indonesia, focusing on social empowerment .</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/ezio-manzini" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -45,11 +46,12 @@ your card. Describe your card.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ezio Manzini</div>
-<div class="isomer-card-description">Professor of Design @ Politecnico di Milano. This is body text for your
-card. Describe your card further to increase the words.</div>
+<div class="isomer-card-description">An Italian design academic and author known for his work in sustainable
+design and social innovation. Founder of DESIS, a global network promoting
+design for social and environmental impact.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/tong-yee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/09_Panellist_TS_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tony Soh</div><div class="isomer-card-description">CEO @ NVPC. This is body text for your card. Describe your card further to increase the words.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/tong-yee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/09_Panellist_TS_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tony Soh</div><div class="isomer-card-description">With a career spanning over three decades, he has held leadership positions across the public, private, and non-profit sectors. Actively involved in various non-profit organisations.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.dnda25.gov.sg/speakers/wong-sweet-fun" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,8 +60,8 @@ card. Describe your card further to increase the words.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Wong Sweet Fun</div>
-<div class="isomer-card-description">Chief Transformation Officer @ Khoo Tech Puat Hospital. This is body text
-for your card. Describe your card further to increase.</div>
+<div class="isomer-card-description">Known for integrating design thinking into healthcare, focusing on functional
+longevity and ageing-in-place for community-dwelling older adults.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
