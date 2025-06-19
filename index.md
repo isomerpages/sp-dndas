@@ -12,8 +12,8 @@ notification: ""
 sections:
   - hero:
       title: Purchase Your Tickets
-      subtitle: Get your tickets while they last! Text please text more, lorem ipsum,
-        get te tickets while it lasts and hot and famous and popula!
+      subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
+        ticket types, with some available for a limited time only.
       background: /images/Hero_Banner.png
       variant: floating
       size: md
