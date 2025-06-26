@@ -14,7 +14,7 @@ sections:
       title: Purchase Your Tickets
       subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
         ticket types, with some available for a limited time only.
-      background: /images/D16836_SP_X_DNDA_Summit_2_08.jpg
+      background: /images/Hero_Banner.png
       variant: floating
       size: md
       alignment: left
