@@ -14,7 +14,7 @@ sections:
       title: Purchase Your Tickets
       subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
         ticket types, with some available for a limited time only.
-      background: /images/Hero_Banner.png
+      background: /images/Hero_Banner.jpg
       variant: floating
       size: md
       alignment: left
@@ -49,7 +49,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/humanity-centred-design/about/
-      image: /images/HCDV2__1_.jpg
+      image: /images/Infopic_box_2.jpg
   - infopic:
       title: Our Partners
       id: infopic
@@ -69,5 +69,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: https://www.dnda25.com.sg/programme/programme-details/day-1/
-      image: /images/2025V2__1_.jpg
+      image: /images/Infopic_box_4.jpg
 ---
