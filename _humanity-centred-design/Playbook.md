@@ -50,6 +50,4 @@ for creativity and collaboration.</p>
 <p>Ultimately, this is more than a guide — it’s a call-to-action to <strong>design for People, Planet, Product, and Profit (the 4Ps)</strong>.
 SP UXC invites all changemakers to join the HCD+ movement and co-create
 a future where humanity and nature thrive together.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your HCD+ Playbook Here</div><div class="isomer-card-description">Unlock practical tools, mindset shifts, and design strategies to create meaningful, sustainable innovation. Discover how to design for People, Planet, Product, and Profit with the SP UXC HCD+ Innovation Framework.</div><div class="isomer-card-link">Pre-order Now</div></div></a>
-</div>
 <p></p>
