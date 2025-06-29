@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Professor of Design @ Politecnico di Milano</strong></h3>
-<p>For over three decades he has been working in the field of design for
-sustainability. Most recently, his interests have focused on social innovation,
-considered as a major driver of sustainable changes.</p>
+<p>For over three decades, <a href="https://www.linkedin.com/in/ezio-manzini-5a307110/" rel="noopener nofollow" target="_blank">Ezio Manzini</a> has
+been working in the field of design for sustainability. Most recently,
+his interests have focused on social innovation, considered as a major
+driver of sustainable changes.</p>
 <p>In this perspective he started DESIS: an international network of schools
 of design, active in the field of design for social innovation and sustainability.
 Presently, he is President of DESIS Network and Honorary Professor at the
