@@ -4,14 +4,14 @@ permalink: /humanity-centred-design/playbook/
 variant: tiptap
 description: ""
 ---
-<h3><strong>HCD+ Innovation Playbook</strong></h3>
-<p>The <strong>HCD+ Innovation Playbook</strong> by Singapore Polytechnic’s
-User Experience Centre (SP UXC) is a pioneering guide that reimagines design
-beyond individuals to include the collective wellbeing of humanity and
-the planet. HCD+, short for <strong>Humanity-Centred Design</strong>, builds
-on the foundations of traditional Human-Centred Design (HCD) but introduces
-a deeper, more sustainable lens — integrating social equity, systems thinking,
-and environmental responsibility into every stage of innovation.</p>
+<h3><strong>HCD+ Playbook</strong></h3>
+<p>The <strong>HCD+ Playbook</strong> by Singapore Polytechnic’s User Experience
+Centre (SP UXC) is a pioneering guide that reimagines design beyond individuals
+to include the collective wellbeing of humanity and the planet. HCD+, short
+for <strong>Humanity-Centred Design</strong>, builds on the foundations
+of traditional Human-Centred Design (HCD) but introduces a deeper, more
+sustainable lens — integrating social equity, systems thinking, and environmental
+responsibility into every stage of innovation.</p>
 <p>This playbook is inspired by the visionary work of <strong>Professor Don Norman</strong>,
 who advocates for a shift from designing <em>for users</em> to designing <em>for humanity</em>.
 SP UXC’s framework puts this into action through a five-stage process: <strong>Envision, Empathise, Create, Evaluate, and Deliver</strong>.
