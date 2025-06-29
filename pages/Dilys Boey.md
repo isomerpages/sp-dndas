@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 image: /images/08_KN_speakers_DB.png
 ---
-<p></p>
 <p>Ms Dilys Boey joined the Public Service in August 2020 after over 25 years
 in management consulting and corporate development roles in the private
 sector. She was appointed Assistant Chief Executive Officer (ACEO), Lifestyle
