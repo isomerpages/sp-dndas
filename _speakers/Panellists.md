@@ -71,44 +71,29 @@ uplift vulnerable children. Brings both creative vision and strategic acumen.</d
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dexter Ligot-Gordon" src="/images/Njc0NjYxNjA0LTczOTc0MDY1Ng__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/09_Panellist_AM_D2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dexter Ligot-Gordon</div>
-<div class="isomer-card-description">Co‑founder and CEO of Swarm, a global community platform connecting founders
-with freelance tech builders to collaborate on meaningful, impact-driven
-projects</div>
+<div class="isomer-card-title">Dr Ari Margiono</div>
+<div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research,
+leading pre‑incubation programmes and drives cutting‑edge research into
+social entrepreneurship.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/09_Panellist_AM_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Ari Margiono</div><div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research, leading pre‑incubation programmes and drives cutting‑edge research into social entrepreneurship.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sam Yen" src="/images/09_Panellist_SY_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sam Yen</div><div class="isomer-card-description">Spearheads digital transformation initiatives, leveraging design thinking to enhance user experiences and drive organisational change. Has a background in aerospace engineering.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sam Yen" src="/images/09_Panellist_SY_D2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sam Yen</div>
-<div class="isomer-card-description">Spearheads digital transformation initiatives, leveraging design thinking
-to enhance user experiences and drive organisational change. Has a background
-in aerospace engineering.</div>
+<div class="isomer-card-title">Lee Kok Kin</div>
+<div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly
+in the energy sector.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lee Kok Kin</div><div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly in the energy sector.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tony Soh" src="/images/09_Panellist_TS_D1.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Tony Soh</div>
-<div class="isomer-card-description">With a career spanning over three decades, he has held leadership positions
-across the public, private, and non-profit sectors. Actively involved in
-various non-profit organisations.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tony Soh" src="/images/09_Panellist_TS_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tony Soh</div><div class="isomer-card-description">With a career spanning over three decades, he has held leadership positions across the public, private, and non-profit sectors. Actively involved in various non-profit organisations.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
