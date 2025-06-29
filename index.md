@@ -28,9 +28,9 @@ sections:
           url: https://www.dnda25.com.sg/programme-details/day-1/
         - title: Tickets
           description: Get the Right Pass
-          url: https://www.dnda25.com.sg/tickets/
+          url: https://www.dnda25.com.sg/tickets/summit-tickets/
       button: Buy Now
-      url: https://www.dnda25.com.sg/tickets/
+      url: https://www.dnda25.com.sg/tickets/summit-tickets/
   - infopic:
       title: Don Norman Design Award (DNDA)
       id: infopic
@@ -39,7 +39,7 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/DNDAV2__4_.jpg
-      url: https://www.dnda25.com.sg/about/dnda-summit/
+      url: https://www.dnda25.com.sg/about/don-norman-design-award-summit/
   - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
