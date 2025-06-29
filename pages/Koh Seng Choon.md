@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Executive Director @ Project Dignity</strong></h3>
-<p>Seng Choon is the Exceutive Director of Dignity Kitchen TM, Singapore's
-first hawker training school for the disabled and disadvantaged people.
-He started work in a Singapore Shipyard before deciding to pursue his studies
-at Sheffield University, UK. In 3 years he completed a dual honours degree
-in Engineering and Business Administration with first class honours. He
-also holds an MSc in Computer Integrated Manufacturing from Cranfield Institute
-of Technology, UK.</p>
+<p><a href="https://www.linkedin.com/in/kohsengchoon/" rel="noopener nofollow" target="_blank">Seng Choon</a> is
+the Exceutive Director of Dignity Kitchen TM, Singapore's first hawker
+training school for the disabled and disadvantaged people. He started work
+in a Singapore Shipyard before deciding to pursue his studies at Sheffield
+University, UK. In 3 years he completed a dual honours degree in Engineering
+and Business Administration with first class honours. He also holds an
+MSc in Computer Integrated Manufacturing from Cranfield Institute of Technology,
+UK.</p>
 <p>Working in UK upon graduation, he was involved with the management of
 a steel foundry; and later in merger and acquisition of businesses in China,
 Indonesia and the United States as part of the steel foundry's growth strategies.</p>
