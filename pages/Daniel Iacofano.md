@@ -4,15 +4,26 @@ permalink: /speakers/keynote-speakers/daniel-iacofano/
 variant: tiptap
 description: ""
 ---
-<p>Daniel is nationally recognized as an expert and innovator in design,
-community participation, consensus building, and facilitation, and a founding
-principal of <a href="https://www.migcom.com/" rel="noopener" target="_blank">MIG</a>,
-a multi-disciplinary firm of strategic planners, urban designers, landscape
-architects, and communications and media professionals. Founded in 1981,
-MIG is known nationally and internationally for its creative projects that
-get results as well as its many innovative research and development initiatives.
-Daniel’s work encompasses a wide range of projects including downtown design
-and development plans (e.g., Denver, Dallas, Charlotte, Los Angeles, Spokane),
-environmental plans (e.g., Napa River, San Gabriel River) and strategic
-plans (e.g., National Park Service, California Community College System,
-Bay Area Rapid Transit).</p>
+<h4><strong>Founding Principal &amp; CEO @ MIG </strong></h4>
+<p><a href="https://www.linkedin.com/in/daniel-iacofano-3a06335/" rel="noopener nofollow" target="_blank">Daniel Iacofano</a> (Ph.D.,
+FAICP, FASLA) is internationally recognized as an innovator and thought
+leader in urban planning and design, strategic planning, organizational
+development, facilitation, and consensus building. His career is as multifaceted
+as the field he chose to pursue and the firm he helped co-found. The breadth
+of planning not only encompasses everything he enjoys, it enables him to
+do what he does best—engage others in creative problem-solving to improve
+people’s lives. From policy- and place-making to systems and structures,
+Daniel has worked with hundreds of communities and organizations around
+the world to think strategically and critically about achieving desired
+change. No matter what the project entails—restoring a river, developing
+a downtown, or repurposing a public agency—his comfort with complexity
+and his dexterity with details enables him to guide clients through the
+process of evaluation, decision-making and implementation. The management,
+facilitation, and listening skills he has honed over three decades enable
+him to readily assess needs and identify a path forward. Regardless of
+the size, shape or current state of a project, Daniel will always “push
+the quality envelope” and seek innovation in arriving at solutions. He
+delivers the best outcomes possible within given constraints and against
+sometimes opposing forces. With his extensive range of experience and expertise
+in physical, environmental, and strategic planning, clients and communities
+across the nation often find that his impact lasts well beyond his involvement.</p>
