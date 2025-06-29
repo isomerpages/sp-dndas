@@ -48,7 +48,15 @@ outcomes for our global society.</p>
 <p>You can also <a href="https://dnda.design/award/" rel="noopener nofollow" target="_blank">read more</a> here.</p>
 <p></p>
 <h4><strong>DNDA25 Jury</strong></h4>
-<p></p>
+<p>The DNDA25 Jury is composed of distinguished experts and thought leaders
+from the fields of design, innovation, and education. With diverse backgrounds
+spanning academia, industry, and public service, the jury brings a wealth
+of experience and insight to the evaluation process. Tasked with recognising
+outstanding contributions to design and innovation, the jury upholds rigorous
+standards of excellence, creativity, and impact. Their collective expertise
+ensures that the DNDA25 Awards celebrate initiatives that not only demonstrate
+design excellence but also drive meaningful change for people, communities,
+and the planet.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
