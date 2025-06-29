@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 image: /images/08_KN_speakers_DB.png
 ---
-<h4><strong>Chief Executive @ Workforce Singapore</strong></h4>
+<h3><strong>Chief Executive @ Workforce Singapore</strong></h3>
 <p><a href="https://www.linkedin.com/in/dilys-boey/" rel="noopener nofollow" target="_blank">Dilys Boey</a> joined
 the Public Service in August 2020 after over 25 years in management consulting
 and corporate development roles in the private sector. She was appointed
