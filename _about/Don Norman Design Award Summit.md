@@ -60,8 +60,8 @@ the needs of their most vulnerable populations.</p>
 and policy. By placing human values at the centre of strategy and design,
 HCD+ guides the creation of sustainable business models and policy responses
 that can endure over time, advancing both environmental and social resilience.</p>
-<h4><strong>Board of Directors </strong></h4>
-<p><strong>STEERING INNOVATION AND IMPACT </strong>
+<h4><strong>Board of Directors</strong></h4>
+<p><strong>STEERING INNOVATION AND IMPACT</strong>
 </p>
 <p>At the helm of the Don Norman Design Award is our Board of Directors,
 who bring a wealth of experience, insight, and passion to our mission.
@@ -70,11 +70,11 @@ the DNDA towards achieving its ambitious goals. Their strategic oversight
 ensures that our initiatives not only celebrate creativity and innovation
 but also drive tangible, positive change in the world.&nbsp;</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda.design/don-norman/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Don Norman</div><div class="isomer-card-description">Distinguished Professor (emeritus), Founder and first Director of the Design Lab at the University of California, San Diego.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda.design/don-norman/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="/images/DN_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Don Norman</div><div class="isomer-card-description">Distinguished Professor (emeritus), Founder and first Director of the Design Lab at the University of California, San Diego.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/srini-srinivasan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Srini Srinivasan" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Srini Srinivasan" src="/images/SS_image.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,11 +83,11 @@ but also drive tangible, positive change in the world.&nbsp;</p>
 in creative design and technology development.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/arlene-harris/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arlene Harris" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arlene Harris</div><div class="isomer-card-description">Founded and been involved in numerous for profit and non profit ventures including the commercial success of the simplified cellular offering, Jitterbug, now owned by Best Buy.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/arlene-harris/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arlene Harris" src="/images/AH_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arlene Harris</div><div class="isomer-card-description">Founded and been involved in numerous for profit and non profit ventures including the commercial success of the simplified cellular offering, Jitterbug, now owned by Best Buy.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/anil-kripalani/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anil Kripalani" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Anil Kripalani" src="/images/AK_image.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -96,8 +96,9 @@ in creative design and technology development.</div>
 years of experience in the mobile cellular and Data Networking industries.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/rao-machiraju/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N. Rao Machiraju" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N. Rao Machiraju</div><div class="isomer-card-description">Known for his work in information retrieval and holds 10 patents in information retrieval.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/rao-machiraju/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N. Rao Machiraju" src="/images/RM_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N. Rao Machiraju</div><div class="isomer-card-description">An Indian American scientist and business executive, known for his work in information retrieval and holds 10 patents in information retrieval.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p><strong>The DNDA25 Summit reflects how HCD+ can shape a future where education, innovation, sustainability and climate action are harmonised to benefit all.</strong>
 </p>
+<p>Read more about <a href="https://dnda.design/about/" rel="noopener nofollow" target="_blank">about DNDA</a> here.</p>
 <p></p>
