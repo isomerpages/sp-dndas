@@ -12,8 +12,7 @@ and corporate development roles in the private sector. She was appointed
 Assistant Chief Executive Officer (ACEO), Lifestyle &amp; Consumer at EnterpriseSG
 and subsequently appointed Deputy Chief Executive Officer (Industry Clusters)
 in October 2022.</p>
-<p>
-<br>As Deputy CEO of Industry Clusters, Boey led the industry sector teams
+<p>As Deputy CEO of Industry Clusters, Boey led the industry sector teams
 that partner companies and trade associations and chambers on industry
 and enterprise development to innovate, internationalise and transform.
 Boey also led the development of the refreshed Industry Transformation
@@ -22,8 +21,7 @@ were launched in 2022, as well as the Heartlands Go Digital effort and
 the launch of Our Heartlands 2025 initiative. As a key member of EnterpriseSG’s
 executive leadership team, Boey was jointly responsible for organisation
 design and leadership development.</p>
-<p>
-<br>Boey’s experience in management consulting and corporate development included
+<p>Boey’s experience in management consulting and corporate development included
 appointments with global firms Ernst &amp; Young (EY), Intel Technology
 and Arthur Andersen. During her time with EY for over 16 years, she was
 Partner and the People Advisory Services Leader where she led the People
