@@ -9,15 +9,22 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
 </div>
-<p>The Don Norman Design Award (DNDA) Summit celebrates the power of Humanity-Centred
-Design (HCD+), spotlighting projects that contribute meaningfully to the
-United Nations’ 17 Sustainable Development Goals (SDGs). It showcases the
-work of early-career practitioners, explores productive failures, and shares
-strategies for real-world impact.</p>
+<p>The Don Norman Design Award (DNDA) organisation is dedicated to promoting
+the global adoption of Humanity-Centred Design (HCD+). DNDA champions holistic
+and sustainable design practices that benefit both society and the planet.
+Through its annual flagship events, the DNDA Awards Program and Summit,
+DNDA celebrates groups making significant societal contributions, rallies
+leaders to embrace an HCD+ approach to innovation, and nurtures the development
+of emerging designers and educators. Founded in 2023 as a U.S. based nonprofit
+organisation, DNDA draws inspiration from the work of Don Norman, a luminary
+in the world of design with a distinguished career as an author, teacher,
+founder, advisor, and executive at renowned companies such as Apple and
+HP.</p>
 <p>At its core, HCD+ is about long-term societal well-being. It blends social
 responsibility with innovative thinking to meet human needs, support viable
 business models, and build environmental resilience. Together, these principles
-shape a more equitable and sustainable future.re.</p>
+shape a more equitable and sustainable future.</p>
+<h4><strong>DNDA25</strong></h4>
 <p>The DNDA25 Summit brings these ideas to life through four interconnected
 goals, each informed by the HCD+ approach:</p>
 <p><strong>1. Empowering Education</strong>
@@ -100,5 +107,5 @@ years of experience in the mobile cellular and Data Networking industries.</div>
 </div>
 <p><strong>The DNDA25 Summit reflects how HCD+ can shape a future where education, innovation, sustainability and climate action are harmonised to benefit all.</strong>
 </p>
-<p>Read more about <a href="https://dnda.design/about/" rel="noopener nofollow" target="_blank">about DNDA</a> here.</p>
+<p>Learn more at <a href="https://dnda.design/about/" rel="noopener noreferrer nofollow" target="_blank">dnda.design</a>.</p>
 <p></p>
