@@ -4,7 +4,7 @@ permalink: /contact-us/directory/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Getting to SPCC</strong></h3>
+<h3><strong>Getting to Event Venue: SPCC</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPCC_D_V2.png">
 </div>
