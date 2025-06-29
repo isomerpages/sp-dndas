@@ -4,6 +4,7 @@ permalink: /speakers/panellists/chooake-wangwattanasilpa/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Managing Director, Chief Experience Officer @ Bank of Singapore</strong></h3>
 <p><a href="https://www.linkedin.com/in/chooake/" rel="noopener nofollow" target="_blank">Chooake</a> is
 currently the Chief Experience Officer at Bank of Singapore. He leads the
 Client Experience (CX) and Design team and is responsible for creating
