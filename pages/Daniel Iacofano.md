@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/daniel-iacofano/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Founding Principal &amp; CEO @ MIG</strong></h4>
+<h3><strong>Founding Principal &amp; CEO @ MIG</strong></h3>
 <p><a href="https://www.linkedin.com/in/daniel-iacofano-3a06335/" rel="noopener nofollow" target="_blank">Daniel Iacofano</a> (Ph.D.,
 FAICP, FASLA) is internationally recognized as an innovator and thought
 leader in urban planning and design, strategic planning, organizational
