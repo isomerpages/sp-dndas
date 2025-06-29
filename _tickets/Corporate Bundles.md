@@ -54,6 +54,6 @@ bundles.</p>
 </div>
 </div>
 <h4><strong>Planning to bring your team?</strong></h4>
-<p><strong>👉 <a href="https://form.gov.sg/admin/form/684efe085d6656cfcc1dd3ce" rel="noopener nofollow" target="_blank">Fill in the form</a> to get in touch with us. We would be happy to assist.</strong>
+<p><strong>👉 <a href="https://form.gov.sg/admin/form/684efe085d6656cfcc1dd3ce" rel="noopener nofollow" target="_blank">Fill in the form</a> to make your bundle purchase!</strong>
 </p>
 <p></p>
