@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Humanity-Centred Design (HCD+)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UXC_HCD__framework_V2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/V3_HCD.png">
 </div>
 <p><strong>What is Humanity-Centred Design (HCD+)?</strong>
 </p>
