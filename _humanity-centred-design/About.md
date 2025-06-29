@@ -20,7 +20,7 @@ serve humanity as a whole, supporting sustainable progress and ethical
 innovation.</p>
 <p><strong>The Five Principles of HCD+:</strong>
 </p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Systems Thinking</strong> – Understanding the interconnectedness
 of elements within a system to create solutions that work effectively in
@@ -56,8 +56,6 @@ from sustainability to user experience, enabling organisations to assess
 their innovation readiness and implement human-centred, systemic solutions
 effectively. The success of this initiative highlights HCD+’s capacity
 to drive impactful, responsible innovation across sectors.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programme/workshops/design-your-futures/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn how to apply HCD+</div><div class="isomer-card-description">Join our interactive workshops to master the Humanity-Centred Design (HCD+) framework. Discover how to create innovative, sustainable solutions that put people and the planet first.</div><div class="isomer-card-link">Find Out More About Our Workshop</div></div></a>
-</div>
 <p></p>
 <p></p>
 <p></p>
