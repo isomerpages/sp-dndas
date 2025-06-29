@@ -6,9 +6,6 @@ description: ""
 image: /images/08_KN_speakers_DB.png
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/08_KN_speakers_DB.png">
-</div>
 <p>Ms Dilys Boey joined the Public Service in August 2020 after over 25 years
 in management consulting and corporate development roles in the private
 sector. She was appointed Assistant Chief Executive Officer (ACEO), Lifestyle
