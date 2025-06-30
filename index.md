@@ -65,7 +65,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/about/partners/
-      image: /images/PartnersV2__1_.jpg
+      image: /images/Infopic_box_3.jpg
   - infopic:
       title: DNDA25 Programme Outline
       id: infopic
