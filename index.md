@@ -1,11 +1,17 @@
 ---
 layout: homepage
 title: Don Norman Design Award Summit 2025 (DNDA25)
-description: The DNDA25 Summit (19–21 Nov 2025, Singapore) brings together
-  changemakers in design, education, business and community for three days of
-  purposeful dialogue, creative exploration and humanity‑centred action. Join us
-  as education meets innovation to inspire sustainable solutions for global
-  impact.
+description: The Don Norman Design Award (DNDA) organisation is dedicated to
+  promoting the global adoption of Humanity-Centred Design (HCD+). DNDA
+  champions holistic and sustainable design practices that benefit both society
+  and the planet. Through its annual flagship events, the DNDA Awards Program
+  and Summit, DNDA celebrates groups making significant societal contributions,
+  rallies leaders to embrace an HCD+ approach to innovation, and nurtures the
+  development of emerging designers and educators. Founded in 2023 as a U.S.
+  based nonprofit organisation, DNDA draws inspiration from the work of Don
+  Norman, a luminary in the world of design with a distinguished career as an
+  author, teacher, founder, advisor, and executive at renowned companies such as
+  Apple and HP.
 image: /images/DNDA25_SP_logo_bk.png
 permalink: /
 notification: ""
