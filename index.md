@@ -44,7 +44,7 @@ sections:
         promoting the global adoption of Humanity-Centered Design (HCD+).
       button: Learn More
       alt: Image alt text
-      image: /images/DNDAV2__4_.jpg
+      image: /images/Infopic_box_1.jpg
       url: https://www.dnda25.com.sg/about/don-norman-design-award-summit/
   - infopic:
       title: Humanity-Centred Design (HCD+)
