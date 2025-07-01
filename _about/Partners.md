@@ -14,6 +14,6 @@ amplifies the influence of Humanity-Centred Design (HCD+), strengthening
 a global movement dedicated to designing for humanity, culture, and the
 environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/V3_partners.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners_V4.png">
 </div>
 <p></p>
