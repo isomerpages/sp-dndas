@@ -23,6 +23,6 @@ from the Father of User Experience (UX) himself – <strong>Don Norman</strong>.
 and dive into four unique challenge portals. Learn how HCD+ is used to
 tackle real-world problems, while uncovering more about your personal design
 superpowers along the way!</p>
-<p><strong><a href="https://www.sandbox.game/en/experiences/Playground%20@%20UXC/dc6a1b37-a942-4992-9b6c-f927fe7f2844/page/" rel="noopener nofollow" target="_blank">Start playing the game!</a></strong>
+<p><strong><a href="https://www.sandbox.game/en/experiences/Playground%20@%20UXC/dc6a1b37-a942-4992-9b6c-f927fe7f2844/page/" rel="noopener nofollow" target="_blank">Start the game!</a></strong>
 </p>
 <p></p>
