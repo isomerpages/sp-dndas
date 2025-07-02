@@ -36,7 +36,7 @@ sections:
           description: Get the Right Pass
           url: https://www.dnda25.com.sg/tickets/summit-tickets/
       button: Buy Now
-      url: https://www.dnda25.com.sg/tickets/summit-tickets/
+      url: https://dnda25.sp.edu.sg/tickets/summit-tickets/
   - infopic:
       title: Don Norman Design Award (DNDA)
       id: infopic
@@ -45,7 +45,7 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/Infopic_box_1.jpg
-      url: https://www.dnda25.com.sg/about/don-norman-design-award-summit/
+      url: https://dnda25.sp.edu.sg/about/don-norman-design-award-summit/
   - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
@@ -54,7 +54,7 @@ sections:
         promote social good.
       button: Learn More
       alt: Image alt text
-      url: https://www.dnda25.com.sg/humanity-centred-design/about/
+      url: https://dnda25.sp.edu.sg/humanity-centred-design/about/
       image: /images/Infopic_box_2.jpg
   - infopic:
       title: Our Partners
@@ -64,7 +64,7 @@ sections:
         impact.
       button: Learn More
       alt: Image alt text
-      url: https://www.dnda25.com.sg/about/partners/
+      url: https://dnda25.sp.edu.sg/about/partners/
       image: /images/Infopic_box_3.jpg
   - infopic:
       title: DNDA25 Programme Outline
@@ -74,6 +74,6 @@ sections:
         Design.
       button: Find Out More
       alt: Image alt text
-      url: https://www.dnda25.com.sg/programme/programme-details/day-1/
+      url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
       image: /images/Infopic_box_4.jpg
 ---
