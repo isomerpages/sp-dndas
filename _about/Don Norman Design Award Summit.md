@@ -105,17 +105,12 @@ and policy. By placing human values at the centre of strategy and design,
 HCD+ guides the creation of sustainable business models and policy responses
 that can endure over time, advancing both environmental and social resilience.</p>
 <h4><strong>Co-chairs of DNDA25</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Georgina Phua" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Georgina Phua</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Srini Srinivasan" src="https://placehold.co/600x400">
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Georgina Phua</div><div class="isomer-card-description">Deputy Principal (Development) of Singapore Polytechnic (SP) &amp; Co-chair of DNDA25</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Srini Srinivasan</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-description">CEO &amp; Co-chair of Don Norman Design Award (DNDA)</div>
+<div class="isomer-card-link">Read More</div>
 </div>
 </a>
 </div>
