@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About.md
-      - Innovation Playbook.md
+      - Playbook.md
       - Playground @ UXC Metaverse.md

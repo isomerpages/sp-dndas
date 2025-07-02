@@ -35,8 +35,8 @@ by captivating cultural performances that showcase Singapore’s rich creative
 diversity. This blend of local heritage and modern artistry offers a unique,
 inspiring experience that fosters meaningful connections among design professionals,
 educators, and changemakers.</p>
-<p>This invitation-only event offers a rare opportunity to connect, engage,
-and celebrate the power of design in shaping a better future.</p>
+<p>This event offers a rare opportunity to connect, engage, and celebrate
+the power of design in shaping a better future.</p>
 <p><strong>Date:</strong> 19 November 2025
 <br><strong>Time:</strong> 6:30 PM – 9:00 PM
 <br><strong>Venue:</strong> W5A @ Singapore Polytechnic</p>

@@ -1,6 +1,6 @@
 ---
 title: Hong Khai Seng
-permalink: /speakers/panellists/day-3/hong-khai-seng/
+permalink: /speakers/panellists/hong-khai-seng/
 variant: tiptap
 description: ""
 ---

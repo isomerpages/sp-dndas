@@ -43,3 +43,4 @@ human-centred and sustainable values. Through this integrated approach,
 SP continues to inspire and support individuals and organisations to design
 solutions that are not only innovative, but also ethically grounded and
 socially meaningful.</p>
+<p>Learn more about <a href="https://www.sp.edu.sg/" rel="noopener nofollow" target="_blank">SP</a>.</p>

@@ -10,11 +10,11 @@ third_nav_title: Learning Journeys
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
-<p>Choose your preferred <strong>place to visit </strong>when purchasing your
-Summit ticket.
-<br>🔔 <em>HCD+ “Connect” only runs on Day 1 and Day 2 — don’t miss it!</em>
+<p><strong>Sign-up for Learning Journeys opens on 20 Oct!</strong>
+<br>We’ll notify you on the day — so keep a look out! 🔔
+<br><em>HCD+ “Connect” only runs on Day 1 and Day 2 — don’t miss out!</em>
 </p>
-<p><strong>Join us in shaping what's next — </strong><a href="https://www.dnda25ticketing.com.sg" rel="noopener nofollow" target="_blank">purchase your ticket now</a><strong>!</strong>
+<p><strong>Join us in shaping what's next!</strong>
 </p>
 <h4><strong>The GEAR</strong></h4>
 <div class="isomer-image-wrapper">

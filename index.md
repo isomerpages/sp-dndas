@@ -1,23 +1,29 @@
 ---
 layout: homepage
 title: Don Norman Design Award Summit 2025 (DNDA25)
-description: The DNDA25 Summit (19–21 Nov 2025, Singapore) brings together
-  changemakers in design, education, business and community for three days of
-  purposeful dialogue, creative exploration and humanity‑centred action. Join us
-  as education meets innovation to inspire sustainable solutions for global
-  impact.
+description: The Don Norman Design Award (DNDA) organisation is dedicated to
+  promoting the global adoption of Humanity-Centred Design (HCD+). DNDA
+  champions holistic and sustainable design practices that benefit both society
+  and the planet. Through its annual flagship events, the DNDA Awards Program
+  and Summit, DNDA celebrates groups making significant societal contributions,
+  rallies leaders to embrace an HCD+ approach to innovation, and nurtures the
+  development of emerging designers and educators. Founded in 2023 as a U.S.
+  based nonprofit organisation, DNDA draws inspiration from the work of Don
+  Norman, a luminary in the world of design with a distinguished career as an
+  author, teacher, founder, advisor, and executive at renowned companies such as
+  Apple and HP.
 image: /images/DNDA25_SP_logo_bk.png
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Purchase Your Tickets
-      subtitle: Get your tickets while they last! Text please text more, lorem ipsum,
-        get te tickets while it lasts and hot and famous and popula!
-      background: /images/Hero_Banner.png
-      variant: floating
+      subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
+        ticket types, with some available for a limited time only.
+      background: /images/HB_V2.jpg
+      variant: center
       size: md
-      alignment: left
+      alignment: right
       backgroundColor: gray
       key_highlights:
         - title: Award
@@ -28,9 +34,9 @@ sections:
           url: https://www.dnda25.com.sg/programme-details/day-1/
         - title: Tickets
           description: Get the Right Pass
-          url: https://www.dnda25.com.sg/tickets/
+          url: https://www.dnda25.com.sg/tickets/summit-tickets/
       button: Buy Now
-      url: https://www.dnda25.com.sg/tickets/
+      url: https://www.dnda25.com.sg/tickets/summit-tickets/
   - infopic:
       title: Don Norman Design Award (DNDA)
       id: infopic
@@ -38,8 +44,8 @@ sections:
         promoting the global adoption of Humanity-Centered Design (HCD+).
       button: Learn More
       alt: Image alt text
-      image: /images/DNDAV2__4_.jpg
-      url: https://www.dnda25.com.sg/about/dnda-summit/
+      image: /images/Infopic_box_1.jpg
+      url: https://www.dnda25.com.sg/about/don-norman-design-award-summit/
   - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
@@ -49,7 +55,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/humanity-centred-design/about/
-      image: /images/HCDV2__1_.jpg
+      image: /images/Infopic_box_2.jpg
   - infopic:
       title: Our Partners
       id: infopic
@@ -59,7 +65,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://www.dnda25.com.sg/about/partners/
-      image: /images/PartnersV2__1_.jpg
+      image: /images/Infopic_box_3.jpg
   - infopic:
       title: DNDA25 Programme Outline
       id: infopic
@@ -69,5 +75,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: https://www.dnda25.com.sg/programme/programme-details/day-1/
-      image: /images/2025V2__1_.jpg
+      image: /images/Infopic_box_4.jpg
 ---
