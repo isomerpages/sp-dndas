@@ -7,8 +7,9 @@ third_nav_title: Programme Details
 ---
 <h3><strong>Day-2: 20 November 2025</strong></h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DYC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_2_Topic.jpg">
 </div>
 <p><strong>Day-2 Topic: Using HCD+ to support business to maximise social and planetary impacts without hurting the bottom line.</strong>
 </p>
