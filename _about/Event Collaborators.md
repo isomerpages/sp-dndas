@@ -14,6 +14,7 @@ amplifies the influence of Humanity-Centred Design (HCD+), strengthening
 a global movement dedicated to designing for humanity, culture, and the
 environment.</p>
 <h4><strong>Organised by:</strong></h4>
+<p></p>
 <h4><strong>Supported by:</strong></h4>
 <p></p>
 <h4><strong>Our Partners:</strong></h4>
