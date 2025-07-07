@@ -24,6 +24,7 @@ HP.</p>
 responsibility with innovative thinking to meet human needs, support viable
 business models, and build environmental resilience. Together, these principles
 shape a more equitable and sustainable future.</p>
+<p></p>
 <h4><strong>Board of Directors</strong></h4>
 <p><strong>STEERING INNOVATION AND IMPACT</strong>
 </p>
