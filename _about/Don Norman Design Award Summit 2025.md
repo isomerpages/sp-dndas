@@ -4,7 +4,10 @@ permalink: /don-norman-design-award-summit-2025/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Don Norman Design Award Summit 2025 (DNDA25)</strong></h3>
+<h3><strong>Humanity-Centred Design (HCD+): The Future of Education, Business and Community</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hero_Banner.jpg">
+</div>
 <p>The DNDA25 Summit brings these ideas to life through four interconnected
 goals, each informed by the HCD+ approach:</p>
 <p><strong>1. Empowering Education</strong>
