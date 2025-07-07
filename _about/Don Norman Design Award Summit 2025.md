@@ -50,3 +50,22 @@ the needs of their most vulnerable populations.</p>
 and policy. By placing human values at the centre of strategy and design,
 HCD+ guides the creation of sustainable business models and policy responses
 that can endure over time, advancing both environmental and social resilience.</p>
+<p></p>
+<h4><strong>Co-chairs of DNDA25</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/georgina-phua" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Georgina Phua" src="/images/Georgina_Phua_003__preferred_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Georgina Phua</div><div class="isomer-card-description">Deputy Principal (Development) @ Singapore Polytechnic (SP) &amp; Co-chair of DNDA25</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/srini-srinivasan/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Srini Srinivasan" src="/images/SS_image.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Srini Srinivasan</div>
+<div class="isomer-card-description">CEO &amp; Co-chair of Don Norman Design Award (DNDA)</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a>
+</div>
+<p></p>
+<p><strong>The DNDA25 Summit reflects how HCD+ can shape a future where education, innovation, sustainability and climate action are harmonised to benefit all.</strong>
+</p>
