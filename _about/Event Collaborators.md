@@ -18,6 +18,11 @@ environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/O_V2.png">
 </div>
 <h4><strong>Supported by:</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S_V2.png">
+</div>
 <h4><strong>Our Partners:</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_V5.png">
+</div>
 <p></p>
