@@ -26,33 +26,34 @@ with disabilities.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.com.sg/speakers/panellists/alvin-eng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alvin Eng" src="/images/AE.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Alvin Eng</div><div class="isomer-card-description">Head of Enterprise AI (Innovation Group) in UOB. Leads the development of AI solutions to address business challenges and spearheads the adoption of Generative AI across the Bank</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.dnda25.com.sg/speakers/panellists/cesar-jung-harada/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michelle-florendo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/09_Panellist_CJ_D2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Michelle Florendo" src="/images/MichelleJoyceFlorendo__Global_FWN100_2015.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cesar Jung-Harada</div>
-<div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean
-innovation and sustainability. Created Protei, an open-source sailing robot
-designed to clean up ocean pollution.</div>
+<div class="isomer-card-title">Michelle Florendo</div>
+<div class="isomer-card-description">A Decision Engineer, Executive Coach and Speaker, an expert who empowers
+individuals and organisations to navigate complexity with clarity and purpose,
+fostering impactful outcomes.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arthur Huang" src="/images/08_KN_speakers_AH.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arthur Huang</div><div class="isomer-card-description">Engineer-architect pioneering the circular economy with 17 patents, 300,000 sqm of upcycled buildings, and award-winning innovations recognised by WEF, National Geographic, and Obama Foundation.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lee-kok-kin/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.dnda25.com.sg/speakers/panellists/cesar-jung-harada/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/09_Panellist_CJ_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cesar Jung-Harada</div><div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean innovation and sustainability. Created Protei, an open-source sailing robot designed to clean up ocean pollution.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Arthur Huang" src="/images/08_KN_speakers_AH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lee Kok Kin</div>
-<div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly
-in the energy sector.</div>
+<div class="isomer-card-title">Arthur Huang</div>
+<div class="isomer-card-description">Engineer-architect pioneering the circular economy with 17 patents, 300,000
+sqm of upcycled buildings, and award-winning innovations recognised by
+WEF, National Geographic, and Obama Foundation.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/shiyun-lin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shiyun Lin" src="/images/Screenshot_2025_05_25_220307.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shiyun Lin</div><div class="isomer-card-description">A dynamic founder and Executive Director of 3Pumpkins, a Singapore-based non‑profit using socially-engaged arts to strengthen community bonds and uplift vulnerable children. Brings both creative vision and strategic acumen.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lee-kok-kin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lee Kok Kin</div><div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly in the energy sector.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
