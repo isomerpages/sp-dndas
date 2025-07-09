@@ -5,16 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>DNDA25 Award Dinner</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_Dinner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_Dinner_V2.jpg">
 </div>
-<p>The Don Norman Design Award (DNDA) Award Dinner is is an exclusive, invite-only
+<p>The Don Norman Design Award (DNDA) Award Dinner is an exclusive, invite-only
 evening dedicated to celebrating innovation, design, and cultural diversity.
 This event honours outstanding early-career practitioners and educators
 advancing Humanity-Centred Design (HCD+), recognising their impactful contributions
 towards shaping a more sustainable and equitable future.</p>
-<p>Three distinguished awards will be presented:</p>
+<p>Four distinguished awards will be presented:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Excellence</strong> — for projects that strongly embody HCD+ principles
@@ -28,6 +27,10 @@ encouraging continued growth towards future Excellence.</p>
 <li>
 <p><strong>Education</strong> — celebrating programmes successfully nurturing
 the next generation of HCD+ leaders.</p>
+</li>
+<li>
+<p><strong>Organisation </strong>— celebrating organisations that officially
+support&nbsp;HCD+ societal projects.</p>
 </li>
 </ul>
 <p>Following the award ceremony, guests will enjoy a networking dinner accompanied
