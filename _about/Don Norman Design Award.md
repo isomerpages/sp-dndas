@@ -10,15 +10,20 @@ description: ""
 </div>
 <p>The Don Norman Design Award (DNDA) organisation is dedicated to promoting
 the global adoption of Humanity-Centred Design (HCD+). DNDA champions holistic
-and sustainable design practices that benefit both society and the planet.
-Through its annual flagship events, the DNDA Awards Program and Summit,
-DNDA celebrates groups making significant societal contributions, rallies
-leaders to embrace an HCD+ approach to innovation, and nurtures the development
-of emerging designers and educators. Founded in 2023 as a U.S. based nonprofit
-organisation, DNDA draws inspiration from the work of Don Norman, a luminary
-in the world of design with a distinguished career as an author, teacher,
-founder, advisor, and executive at renowned companies such as Apple and
-HP.</p>
+and sustainable design practices that benefit all people, living things,
+cultures, and the planet. Through its annual flagship events, the DNDA
+Awards Program and Summit, DNDA celebrates groups making significant societal
+contributions, rallies leaders to embrace an HCD+ approach to innovation,
+and nurtures the development of emerging designers and educators. Founded
+in 2023 as a nonprofit organisation, DNDA draws inspiration from the work
+of Don Norman, a luminary in the world of design with a distinguished career
+as an author, teacher, advisor, and executive at companies such as Apple,
+HP, and the Nielsen Norman group.&nbsp;</p>
+<p>Humanity-Centred Design (HCD+) builds upon the principles of HCD+, and
+emphasises consideration of the impact that design has upon the entire
+world with the inclusion of communities as members of the design team.
+Human-Centred Design is abbreviated as HCD. Humanity-Centred Design is
+HCD plus more: HCD+.</p>
 <p>At its core, HCD+ is about long-term societal well-being. It blends social
 responsibility with innovative thinking to meet human needs, support viable
 business models, and build environmental resilience. Together, these principles
