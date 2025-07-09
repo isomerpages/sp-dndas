@@ -15,7 +15,6 @@ communities and ecosystems.</p>
 <h4><strong>Types of Awards</strong></h4>
 <p><strong>Excellence</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1.jpg">
 </div>
@@ -26,7 +25,6 @@ and recognises projects that meaningfully contribute to at least one of
 the United Nations Sustainable Development Goals.</p>
 <p><strong>Promising</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2.jpg">
 </div>
@@ -36,7 +34,6 @@ encouragement to continue refining their work. This award celebrates emerging
 ideas with the promise to grow into impactful, humanity-centred solutions.</p>
 <p><strong>HCD+ Education Award</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3.jpg">
 </div>
@@ -45,19 +42,30 @@ that have effectively trained the next generation in Humanity-Centred Design.
 Recipients are acknowledged for their critical role in shifting design
 education and practice toward more inclusive, sustainable, and impactful
 outcomes for our global society.</p>
+<p><strong>HCD+ Organisation Award</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA.png">
+</div>
+<p>This award is designed to honor any organisation that officially supports&nbsp;HCD+
+societal projects. The organisation must show genuine support for projects
+that advance societal well-being. Recognition for organisations applies
+as long as the group is maintaining the appropriate activities.</p>
+<p></p>
 <p>You can also <a href="https://dnda.design/award/" rel="noopener nofollow" target="_blank">read more</a> here.</p>
 <p></p>
-<h4><strong>DNDA25 Jury</strong></h4>
-<p>The DNDA25 Jury is composed of distinguished experts and thought leaders
-from the fields of design, innovation, and education. With diverse backgrounds
-spanning academia, industry, and public service, the jury brings a wealth
-of experience and insight to the evaluation process. Tasked with recognising
-outstanding contributions to design and innovation, the jury upholds rigorous
-standards of excellence, creativity, and impact. Their collective expertise
-ensures that the DNDA25 Awards celebrate initiatives that not only demonstrate
-design excellence but also drive meaningful change for people, communities,
-and the planet.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda.design/nandita-abraham/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nandita Abraham" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Nandita Abraham</div><div class="isomer-card-link">Read More</div></div></a>
+<h4><strong>DNDA25 Advisory Board</strong></h4>
+<p><strong>GUIDANCE FROM THE FOREFRONT OF DESIGN</strong>
+</p>
+<p>The Board of Advisors for the Don Norman Design Awards consists of experts
+and thought leaders in design, education, and social innovation. Our advisors
+provide guidance on emerging trends, educational strategies, and best practices,
+ensuring that our programs are impactful and meaningful, helping address
+the many issues that face society. Their collective expertise ensures that
+the DNDA25 Awards celebrate initiatives that not only demonstrate design
+excellence but also drive meaningful change for people, communities, and
+the planet.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda.design/nandita-abraham/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nandita Abraham" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nandita Abraham</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/sasha-alexander/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -68,7 +76,7 @@ and the planet.</p>
 <div class="isomer-card-title">Sasha Alexander</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/anne-asensio/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anne Asensio" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Anne Asensio</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/anne-asensio/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anne Asensio" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Anne Asensio</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/sahar-attia/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -79,7 +87,7 @@ and the planet.</p>
 <div class="isomer-card-title">Sahar Attia</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/nii-commey-botchway/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nii Commey Botchway" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Nii Commey Botchway</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/nii-commey-botchway/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nii Commey Botchway" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nii Commey Botchway</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/gerhard-bruyns/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -134,7 +142,7 @@ and the planet.</p>
 <div class="isomer-card-title">Mugendi M’Rithaa</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/gisele-raulik-murphy/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gisele Raulik Murphy" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Gisele Raulik Murphy</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/gisele-raulik-murphy/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gisele Raulik Murphy" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gisele Raulik Murphy</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/maish-nichani/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -157,5 +165,63 @@ and the planet.</p>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda.design/lilac-adhiambo-osanjo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lilac Adhiambo Osanjo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lilac Adhiambo Osanjo</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/elena-pacenti/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Elena Pacenti" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Elena Pacenti</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/pier-paolo-peruccio/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pier Paolo Peruccio" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pier Paolo Peruccio</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/mridu-sahai-patnaik/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mridu Sahai Patnaik" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mridu Sahai Patnaik</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/sanjay-purohit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sanjay Purohit" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sanjay Purohit</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/jofras-sanchez/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jorge (Jofras) Francisco Sánchez" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jorge (Jofras) Francisco Sánchez</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/peer-sathikh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Peer M Sathikh" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Peer M Sathikh</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/katalina-silva/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Katalina Silva" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Katalina Silva</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/yrjo-sotamaa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yrjö Sotamaa" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Yrjö Sotamaa</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/nan-osullivan/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nan O’Sullivan" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nan O’Sullivan</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/victor-udoewa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Victor Udoewa" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Victor Udoewa</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
