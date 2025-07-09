@@ -168,50 +168,6 @@ the planet.</p>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda.design/lilac-adhiambo-osanjo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lilac Adhiambo Osanjo" src="/images/advisor_Lilac_Adhiambo_Osanjo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lilac Adhiambo Osanjo</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda.design/elena-pacenti/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Elena Pacenti" src="/images/Elena_pic_mid_Elena_Pacenti_dnda.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Elena Pacenti</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/pier-paolo-peruccio/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pier Paolo Peruccio" src="/images/dnda_a_pier_paolo_Pier_Paolo_Peruccio.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pier Paolo Peruccio</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda.design/mridu-sahai-patnaik/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mridu Sahai Patnaik" src="/images/advisor_Mridu_Sahai_Patnaik.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mridu Sahai Patnaik</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/sanjay-purohit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sanjay Purohit" src="/images/headshot_sanjay_purohit.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sanjay Purohit</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda.design/jofras-sanchez/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jorge (Jofras) Francisco Sánchez" src="/images/headshot_jorge_jofras_francisco_sanchez.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Jorge (Jofras) Francisco Sánchez</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/peer-sathikh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Peer M Sathikh" src="/images/dnda_a_Peer_M_Sathikh_Peer_Sathikh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Peer M Sathikh</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda.design/katalina-silva/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Katalina Silva" src="/images/headshot_katalina_silva.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Katalina Silva</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/yrjo-sotamaa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yrjö Sotamaa" src="/images/headshot_yrjo_sotamaa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yrjö Sotamaa</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda.design/nan-osullivan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -220,6 +176,50 @@ the planet.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Nan O’Sullivan</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/elena-pacenti/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elena Pacenti" src="/images/Elena_pic_mid_Elena_Pacenti_dnda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Elena Pacenti</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/pier-paolo-peruccio/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pier Paolo Peruccio" src="/images/dnda_a_pier_paolo_Pier_Paolo_Peruccio.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pier Paolo Peruccio</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/mridu-sahai-patnaik/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mridu Sahai Patnaik" src="/images/advisor_Mridu_Sahai_Patnaik.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mridu Sahai Patnaik</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/sanjay-purohit/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sanjay Purohit" src="/images/headshot_sanjay_purohit.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sanjay Purohit</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/jofras-sanchez/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jorge (Jofras) Francisco Sánchez" src="/images/headshot_jorge_jofras_francisco_sanchez.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jorge (Jofras) Francisco Sánchez</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/peer-sathikh/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peer M Sathikh" src="/images/dnda_a_Peer_M_Sathikh_Peer_Sathikh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Peer M Sathikh</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda.design/katalina-silva/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Katalina Silva" src="/images/headshot_katalina_silva.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Katalina Silva</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/yrjo-sotamaa/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yrjö Sotamaa" src="/images/headshot_yrjo_sotamaa.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Yrjö Sotamaa</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda.design/victor-udoewa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Victor Udoewa" src="/images/headshot_victor_udoewa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Victor Udoewa</div><div class="isomer-card-link">Read More</div></div></a>
