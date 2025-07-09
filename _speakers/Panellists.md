@@ -54,61 +54,61 @@ WEF, National Geographic, and Obama Foundation.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lee-kok-kin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lee Kok Kin</div><div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly in the energy sector.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dawn-lim/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/09_Panellist_AM_D2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dawn Lim" src="/images/Dawn_Lim.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Ari Margiono</div>
-<div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research,
-leading pre‑incubation programmes and drives cutting‑edge research into
-social entrepreneurship.</div>
+<div class="isomer-card-title">Dawn Lim</div>
+<div class="isomer-card-description">Executive Director of DesignSingapore Council (DSG), leading national
+design strategy with a focus on emerging tech, sustainability, and care
+systems, and championing Singapore Design on global stages.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/mario-van-der-meulen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mario Van Der Meulen" src="/images/09_Panellist_MV.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mario Van Der Meulen</div><div class="isomer-card-description">An experienced designer and strategist, with over 25 years in experience design and innovation. Author of Counterintuitivity: Making Meaningful Innovation.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/09_Panellist_AM_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Ari Margiono</div><div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research, leading pre‑incubation programmes and drives cutting‑edge research into social entrepreneurship.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/mario-van-der-meulen/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mario Van Der Meulen" src="/images/09_Panellist_MV.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hong Khai Seng</div>
-<div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations
-drive cultural change through design, futures thinking, leadership development
-and coaching.</div>
+<div class="isomer-card-title">Mario Van Der Meulen</div>
+<div class="isomer-card-description">An experienced designer and strategist, with over 25 years in experience
+design and innovation. Author of Counterintuitivity: Making Meaningful
+Innovation.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/tony-soh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tony Soh" src="/images/09_Panellist_TS_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tony Soh</div><div class="isomer-card-description">With a career spanning over three decades, he has held leadership positions across the public, private, and non-profit sectors. Actively involved in various non-profit organisations.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wangwattanasilpa/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hong Khai Seng</div><div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations drive cultural change through design, futures thinking, leadership development and coaching.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/tony-soh/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chooake Wangwattanasilpa" src="/images/Chooake.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tony Soh" src="/images/09_Panellist_TS_D1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chooake Wangwattanasilpa</div>
-<div class="isomer-card-description">Chief Experience Officer at Bank of Singapore, brings 25+ years in design
-leadership across global firms, integrating client and employee experiences
-in private banking.</div>
+<div class="isomer-card-title">Tony Soh</div>
+<div class="isomer-card-description">With a career spanning over three decades, he has held leadership positions
+across the public, private, and non-profit sectors. Actively involved in
+various non-profit organisations.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/sam-yen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sam Yen" src="/images/09_Panellist_SY_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sam Yen</div><div class="isomer-card-description">Spearheads digital transformation initiatives, leveraging design thinking to enhance user experiences and drive organisational change. Has a background in aerospace engineering.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/larry-yeung/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wangwattanasilpa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chooake Wangwattanasilpa" src="/images/Chooake.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chooake Wangwattanasilpa</div><div class="isomer-card-description">Chief Experience Officer at Bank of Singapore, brings 25+ years in design leadership across global firms, integrating client and employee experiences in private banking.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/sam-yen/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Larry Yeung" src="/images/s200_larry_yeung.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sam Yen" src="/images/09_Panellist_SY_D2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Larry Yeung</div>
-<div class="isomer-card-description">A designer and community organiser serving as Executive Director of Participate
-in Design (P!D), a non-profit focused on community-centred urban planning
-and public space design.</div>
+<div class="isomer-card-title">Sam Yen</div>
+<div class="isomer-card-description">Spearheads digital transformation initiatives, leveraging design thinking
+to enhance user experiences and drive organisational change. Has a background
+in aerospace engineering.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/larry-yeung/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Larry Yeung" src="/images/s200_larry_yeung.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Larry Yeung</div><div class="isomer-card-description">A designer and community organiser serving as Executive Director of Participate in Design (P!D), a non-profit focused on community-centred urban planning and public space design.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
