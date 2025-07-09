@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Humanity-Centred Design (HCD+): The Future of Education, Business and Community</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hero_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_HeroBanner_FA.jpg">
 </div>
 <p>The DNDA25 Summit brings these ideas to life through four interconnected
 goals, each informed by the HCD+ approach:</p>
