@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Programme Details
 ---
-<h2><strong>Day-3: 21 November 2025</strong></h2>
-<p></p>
-<p></p>
+<h3><strong>Day-3: 21 November 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_3_Topic.jpg">
 </div>
@@ -51,6 +49,12 @@ and shape the conversation. Guided by HCD+ values, the Unconference fosters
 honest dialogue, active listening and collaborative exchange. It is not
 just a session — it is your chance to co-create ideas and connections that
 continue beyond the Summit.</p>
+<p><strong>Programme Breakdown of 3 Day:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/programme.png">
+</div>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p></p>
