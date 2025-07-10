@@ -30,6 +30,4 @@ and community.</p>
 </p>
 <p>Design professionals enjoy 60% off the 3 Day Pass. A thank you for shaping
 a better world through design.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">👉 Secure Your Spot Today</div><div class="isomer-card-description">DNDA25 is more than a conference. It is a platform for ideas, action and impact. Join us and be part of something extraordinary.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
 <p></p>
