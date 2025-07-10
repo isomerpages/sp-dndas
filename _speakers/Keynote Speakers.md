@@ -9,7 +9,7 @@ align with the core values of <strong>Humanity-Centered Design (HCD+)</strong> a
 our event theme. Our speakers will cover key topics on <strong>education</strong>, <strong>business impact</strong>,
 and <strong>community engagement</strong> in HCD+, ensuring a compelling,
 global dialogue at DNDA25.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda2.sp.edu.sg/speakers/keynote-speakers/dilys-boey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_DB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dilys Boey</div><div class="isomer-card-description">With over 25 years of experience in management consulting and corporate development, including senior roles at Ernst &amp; Young and Enterprise Singapore.</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dilys-boey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_DB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dilys Boey</div><div class="isomer-card-description">With over 25 years of experience in management consulting and corporate development, including senior roles at Ernst &amp; Young and Enterprise Singapore.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dr-wong-sweet-fun/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -37,7 +37,7 @@ design for social and environmental impact.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/sanjay-purohit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_SP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sanjay Purohit</div><div class="isomer-card-description">With 35+ years' experience, Sanjay co-created Societal Thinking to scale impact, mentoring global leaders and advising initiatives like the UN, DNDA, and Apurva.ai.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.edu.sg/speakers/keynote-speakers/aparna-bhatnagar-saxena/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/aparna-bhatnagar-saxena/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_ABS.jpg">

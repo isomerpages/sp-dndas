@@ -15,14 +15,14 @@ a global movement dedicated to designing for humanity, culture, and the
 environment.</p>
 <h4><strong>Organised by:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O_V2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O.png">
 </div>
 <h4><strong>Supported by:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S_V2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S.png">
 </div>
 <h4><strong>Our Partners:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_V5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_V4.png">
 </div>
 <p></p>

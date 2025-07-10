@@ -28,15 +28,15 @@ sections:
       key_highlights:
         - title: Award
           description: What's Celebrated
-          url: https://www.dnda25.com.sg/award/overview/
+          url: https://dnda25.sp.edu.sg/award/overview/
         - title: Programme
           description: Event Highlights & Breakdown
-          url: https://www.dnda25.com.sg/programme-details/day-1/
+          url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
         - title: Tickets
           description: Get the Right Pass
-          url: https://www.dnda25.com.sg/tickets/summit-tickets/
+          url: https://dnda25.sp.edu.sg/summit-tickets/
       button: Buy Now
-      url: https://dnda25.sp.edu.sg/tickets/summit-tickets/
+      url: https://dnda25ticketing.com.sg/
   - infopic:
       title: Don Norman Design Award (DNDA)
       id: infopic
@@ -45,7 +45,7 @@ sections:
       button: Learn More
       alt: Image alt text
       image: /images/Infopic_V2.jpg
-      url: https://dnda25.sp.edu.sg/about/don-norman-design-award-summit/
+      url: https://dnda25.sp.edu.sg/about/don-norman-design-award/
       subtitle: Don Norman Design Award
   - infopic:
       title: Humanity-Centred Design (HCD+)
@@ -85,7 +85,7 @@ sections:
         impact.
       button: Learn More
       alt: Image alt text
-      url: https://dnda25.sp.edu.sg/about/partners/
+      url: https://dnda25.sp.edu.sg/about/event-collaborators/
       image: /images/Infopic_box_3.jpg
       subtitle: event collaborators
   - infopic:

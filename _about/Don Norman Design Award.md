@@ -66,5 +66,5 @@ years of experience in the mobile cellular and Data Networking industries.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda.design/rao-machiraju/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N. Rao Machiraju" src="/images/RM_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N. Rao Machiraju</div><div class="isomer-card-description">An Indian American scientist and business executive, known for his work in information retrieval and holds 10 patents in information retrieval.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
-<p>Learn more at <strong><a href="https://dnda.design/about/" rel="noopener noreferrer nofollow" target="_blank">dnda.design</a></strong>.</p>
+<p>Learn more at <a href="https://dnda.design/about/" rel="noopener noreferrer nofollow" target="_blank">dnda.design</a>.</p>
 <p></p>
