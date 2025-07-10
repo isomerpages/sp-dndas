@@ -46,7 +46,7 @@ sections:
       alt: Image alt text
       image: /images/Infopic_V2.jpg
       url: https://dnda25.sp.edu.sg/about/don-norman-design-award-summit/
-      subtitle: Don Norman design award
+      subtitle: Don Norman Design Award
   - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
@@ -57,7 +57,7 @@ sections:
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/humanity-centred-design/about/
       image: /images/Infopic_box_2.jpg
-      subtitle: humanity-centred design
+      subtitle: Humanity-Centred Design
   - textcards:
       title: Get Your DNDA25 Summit Ticket
       subtitle: DNDA25 Summit Tickets
@@ -87,8 +87,9 @@ sections:
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/about/partners/
       image: /images/Infopic_box_3.jpg
+      subtitle: event collaborators
   - infopic:
-      title: DNDA25 Programme Outline
+      title: DNDA25 Programme
       id: infopic
       description: DNDA25 features Design Your Conference (DYC), dynamic panels and
         purposeful networking, all shaping the future of Humanity-Centred
@@ -97,4 +98,5 @@ sections:
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
       image: /images/Infopic_box_4.jpg
+      subtitle: Programme Breakdown
 ---
