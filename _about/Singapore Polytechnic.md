@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Singapore Polytechnic: Pioneering Humanity-Centred Design (HCD+) in Education, Business and Community</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updatedx2_Singapore_Polytechnic_Campus.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SP_V2.jpg">
 </div>
 <p>At Singapore Polytechnic (SP), Humanity-Centred Design (HCD+) is central
 to how we educate, collaborate and serve. This approach prioritises human
