@@ -102,5 +102,5 @@ the discount field to enjoy the special rate.</p>
 </div>
 </details>
 </div>
-<p><strong>Still have questions?</strong>  <strong>Reach out to us <a href="sfExchSPUXC@sp.edu.sg" rel="noopener nofollow" target="_blank">here</a>.</strong>
+<p><strong>For any enquiries, email us at <a href="mailto:sfExchSPUXC@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sfExchSPUXC@sp.edu.sg</a>.</strong>
 </p>
