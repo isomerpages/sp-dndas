@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>HCD+ Playbook</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HCD__Playbook.jpg">
+</div>
 <p>The <strong>HCD+ Playbook</strong> by Singapore Polytechnic’s User Experience
 Centre (SP UXC) is a pioneering guide that reimagines design beyond individuals
 to include the collective wellbeing of humanity and the planet. HCD+, short

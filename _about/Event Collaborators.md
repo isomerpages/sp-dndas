@@ -1,10 +1,10 @@
 ---
-title: Partners
-permalink: /about/partners/
+title: Event Collaborators
+permalink: /about/event-collaborators/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Our Partners</strong></h3>
+<h3><strong>Powering DNDA25</strong></h3>
 <p>These collaborations create opportunities for knowledge exchange, build
 lasting connections and spark innovative solutions to global challenges.
 By bringing together diverse stakeholders, the Summit supports early-career
@@ -13,7 +13,16 @@ to a more equitable future. Through these partnerships, the DNDA Summit
 amplifies the influence of Humanity-Centred Design (HCD+), strengthening
 a global movement dedicated to designing for humanity, culture, and the
 environment.</p>
+<h4><strong>Organised by:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners_V4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/O_V2.png">
+</div>
+<h4><strong>Supported by:</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S_V2.png">
+</div>
+<h4><strong>Our Partners:</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_V5.png">
 </div>
 <p></p>

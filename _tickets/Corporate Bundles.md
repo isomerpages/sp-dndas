@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Corporate Bundles</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CB_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Bundles.jpg">
 </div>
 <p>Enjoy<strong> 20% off</strong> the total amount when you purchase group
 bundles.</p>

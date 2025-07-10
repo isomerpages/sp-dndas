@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Unconference: Designed by You</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unconference.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unconference_Designed_by_You.jpg">
 </div>
 <p>The Unconference is a participant-led segment where attendees propose
 discussion topics, form breakout groups, and explore what matters most
