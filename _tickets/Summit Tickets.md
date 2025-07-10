@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Get Your Tickets to DNDA25 Summit</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buy_Ticket_Now__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Summit_Ticket.jpg">
 </div>
 <p><strong>Join Us at DNDA25!</strong>
 </p>
