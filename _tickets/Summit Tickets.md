@@ -15,7 +15,7 @@ community building at the DNDA25 Summit. This is where design meets action,
 where ideas take root and changemakers connect across education, business
 and community.</p>
 <h4><strong>Choose Your Experience</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">3 Day Pass</div><div class="isomer-card-description">Access all keynote sessions, showcases, workshops and networking activities across the entire summit.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">3 Day Pass</div><div class="isomer-card-description">Access all keynote sessions, showcases, workshops and networking activities across the entire summit.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p><strong>Special Discounts Available:</strong>
 </p>
