@@ -39,7 +39,7 @@ individuals and organisations to navigate complexity with clarity and purpose,
 fostering impactful outcomes.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/cesar-jung-harada/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/09_Panellist_CJ_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cesar Jung-Harada</div><div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean innovation and sustainability. Created Protei, an open-source sailing robot designed to clean up ocean pollution.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/caesar-jung-harada/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/09_Panellist_CJ_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cesar Jung-Harada</div><div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean innovation and sustainability. Created Protei, an open-source sailing robot designed to clean up ocean pollution.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
