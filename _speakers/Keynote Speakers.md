@@ -37,7 +37,7 @@ design for social and environmental impact.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/sanjay-purohit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_SP.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sanjay Purohit</div><div class="isomer-card-description">With 35+ years' experience, Sanjay co-created Societal Thinking to scale impact, mentoring global leaders and advising initiatives like the UN, DNDA, and Apurva.ai.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.edu.sg/speakers/keynote-speakers/aparna-bhatnagar-saxena/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/aparna-bhatnagar-saxena/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_ABS.jpg">
