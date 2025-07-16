@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>DNDA25 Award Dinner</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_Dinner_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award_Dinner_1.png">
 </div>
 <p>The Don Norman Design Award (DNDA) Award Dinner is an exclusive, invite-only
 evening dedicated to celebrating innovation, design, and cultural diversity.
