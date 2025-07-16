@@ -21,7 +21,7 @@ sections:
       subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
         ticket types, with some available for a limited time only.
       background: /images/HB_V2.jpg
-      variant: center
+      variant: side
       size: md
       alignment: right
       backgroundColor: gray
