@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Don Norman Design Award (DNDA)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DNDA_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_V4_1.png">
 </div>
 <p>The Don Norman Design Award (DNDA) organisation is dedicated to promoting
 the global adoption of Humanity-Centred Design (HCD+). DNDA champions holistic
