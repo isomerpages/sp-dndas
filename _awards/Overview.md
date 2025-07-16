@@ -45,7 +45,7 @@ outcomes for our global society.</p>
 <p><strong>HCD+ Organisation Award</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA_V3.png">
 </div>
 <p>This award is designed to honor any organisation that officially supports&nbsp;HCD+
 societal projects. The organisation must show genuine support for projects
