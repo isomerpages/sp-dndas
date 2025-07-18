@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Programme Details
 ---
 <h3><strong>Day-1: 19 November 2025</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_1_Topic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_1_Topic.png">
 </div>
 <p><strong>Day-1 Topic: Using HCD+ to reposition designers through education to become facilitators of change in business, community and planet.</strong>
 </p>
