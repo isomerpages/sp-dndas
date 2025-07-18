@@ -18,7 +18,6 @@ Guided by HCD+ values, it creates space for meaningful dialogue, active
 listening, and shared learning.</p>
 <p><strong>Unconference Findings:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UF_V2.png">
 </div>
