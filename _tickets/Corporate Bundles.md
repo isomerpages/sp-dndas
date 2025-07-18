@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Corporate Bundles</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Bundles.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Bundles_V3.png">
 </div>
 <p>Enjoy<strong> 20% off</strong> the total amount when you purchase group
 bundles.</p>
