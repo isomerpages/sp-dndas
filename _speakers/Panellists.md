@@ -10,7 +10,6 @@ align with the core values of <strong>Humanity-Centered Design (HCD+)</strong> a
 our event theme. Our speakers will cover key topics on <strong>education</strong>, <strong>business impact</strong>,
 and <strong>community engagement</strong> in HCD+, ensuring a compelling,
 global dialogue at DNDA25.</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/nur-hidayah-abu-bakar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nur Hidayah Abu Bakar" src="/images/09_Panellist_NH_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nur Hidayah Abu Bakar</div><div class="isomer-card-description">Dean of the Faculty of Design at LASALLE College of the Arts in Singapore, where she oversees curriculum strategy and academic leadership across all design programmes, with over 20 years of teaching and professional design experience.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/koh-seng-choon/" class="isomer-card">
 <div class="isomer-card-image">
@@ -110,5 +109,10 @@ in aerospace engineering.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/larry-yeung/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Larry Yeung" src="/images/s200_larry_yeung.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Larry Yeung</div><div class="isomer-card-description">A designer and community organiser serving as Executive Director of Participate in Design (P!D), a non-profit focused on community-centred urban planning and public space design.</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
+<p></p>
+<p><strong>Get inspired by visionary leaders — Secure your tickets today!</strong>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>
