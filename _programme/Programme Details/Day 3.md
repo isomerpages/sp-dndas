@@ -7,7 +7,7 @@ third_nav_title: Programme Details
 ---
 <h3><strong>Day-3: 21 November 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_3_Topic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_3_Topic.png">
 </div>
 <p><strong>Day-3 Topic: Using HCD+ to redesign society to be more inclusive, empowered, innovative and creative for the collective good of humanity.</strong>
 </p>
