@@ -44,7 +44,7 @@ sections:
         promoting the global adoption of Humanity-Centered Design (HCD+).
       button: Learn More
       alt: Image alt text
-      image: /images/Infopic_V2.jpg
+      image: /images/Info_pic_V3.png
       url: https://dnda25.sp.edu.sg/about/don-norman-design-award/
       subtitle: Don Norman Design Award
   - infopic:
