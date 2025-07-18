@@ -56,7 +56,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/humanity-centred-design/about/
-      image: /images/Infopic_box_2.jpg
+      image: /images/D16836_SP_X_DNDA_Summit_FA_15.png
       subtitle: Humanity-Centred Design
   - textcards:
       title: Get Your DNDA25 Summit Ticket
@@ -86,7 +86,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/about/event-collaborators/
-      image: /images/Infopic_box_3.jpg
+      image: /images/D16836_SP_X_DNDA_Summit_FA_17.png
       subtitle: event collaborators
   - infopic:
       title: DNDA25 Programme
@@ -97,6 +97,6 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
-      image: /images/Infopic_box_4.jpg
+      image: /images/D16836_SP_X_DNDA_Summit_FA_16.png
       subtitle: Programme Breakdown
 ---
