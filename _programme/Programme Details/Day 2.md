@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Programme Details
 ---
 <h3><strong>Day-2: 20 November 2025</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_2_Topic.png">
 </div>
@@ -48,5 +47,4 @@ ways to implement innovation strategies in your organisation or community.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
-<h4></h4>
 <p></p>
