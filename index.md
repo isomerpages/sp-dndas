@@ -14,7 +14,9 @@ description: The Don Norman Design Award (DNDA) organisation is dedicated to
   Apple and HP.
 image: /images/DNDA25_SP_logo_bk.png
 permalink: /
-notification: ""
+notification: The Don Norman Design Award 2025 will take place from 19–21
+  November 2025 at Singapore Polytechnic (SPCC). Reserve your tickets while they
+  last!
 sections:
   - hero:
       title: Humanity-Centred Design (HCD+)
