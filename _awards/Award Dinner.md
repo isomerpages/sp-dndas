@@ -40,8 +40,5 @@ inspiring experience that fosters meaningful connections among design profession
 educators, and changemakers.</p>
 <p>This event offers a rare opportunity to connect, engage, and celebrate
 the power of design in shaping a better future.</p>
-<p><strong>Date:</strong> 19 November 2025
-<br><strong>Time:</strong> 6:30 PM – 9:00 PM
-<br><strong>Venue:</strong> W5A @ Singapore Polytechnic</p>
 <p>We look forward to welcoming you to this memorable celebration of design’s
-power to shape a better future.</p>
+power to shape a better future!</p>
