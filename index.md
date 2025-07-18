@@ -17,13 +17,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Purchase Your Tickets
-      subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
-        ticket types, with some available for a limited time only.
-      background: /images/HB_V2.jpg
-      variant: side
+      title: Humanity-Centred Design (HCD+)
+      subtitle: The future of education, business and comunity
+      background: /images/HB_V4.jpg
+      variant: floating
       size: md
-      alignment: right
+      alignment: left
       backgroundColor: gray
       key_highlights:
         - title: Award
@@ -35,7 +34,7 @@ sections:
         - title: Tickets
           description: Get the Right Pass
           url: https://dnda25.sp.edu.sg/summit-tickets/
-      button: Buy Now
+      button: Get Your Tickets Now
       url: https://dnda25ticketing.com.sg/
   - infopic:
       title: Don Norman Design Award (DNDA)
