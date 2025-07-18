@@ -7,7 +7,7 @@ third_nav_title: Programme Details
 ---
 <h3><strong>Day-3: 21 November 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_3_Topic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_Day_3_Topic.png">
 </div>
 <p><strong>Day-3 Topic: Using HCD+ to redesign society to be more inclusive, empowered, innovative and creative for the collective good of humanity.</strong>
 </p>
@@ -55,6 +55,6 @@ continue beyond the Summit.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/programme.png">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>

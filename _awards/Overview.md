@@ -16,7 +16,7 @@ communities and ecosystems.</p>
 <p><strong>Excellence</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AE_V2.png">
 </div>
 <p>This award honours projects that exemplify the spirit of Humanity-Centred
 Design and show clear, evidence-based potential to significantly improve
@@ -26,7 +26,7 @@ the United Nations Sustainable Development Goals.</p>
 <p><strong>Promising</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AP_V2.png">
 </div>
 <p>This award recognises projects that show strong potential but are still
 in development. It highlights teams on the path to excellence, offering
@@ -35,7 +35,7 @@ ideas with the promise to grow into impactful, humanity-centred solutions.</p>
 <p><strong>HCD+ Education Award</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AED_V2.png">
 </div>
 <p>This award celebrates both traditional and non-traditional programmes
 that have effectively trained the next generation in Humanity-Centred Design.
@@ -45,7 +45,7 @@ outcomes for our global society.</p>
 <p><strong>HCD+ Organisation Award</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA_V3.png">
 </div>
 <p>This award is designed to honor any organisation that officially supports&nbsp;HCD+
 societal projects. The organisation must show genuine support for projects

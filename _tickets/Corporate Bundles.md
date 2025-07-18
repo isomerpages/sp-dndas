@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Corporate Bundles</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Bundles.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Bundles_V3.png">
 </div>
 <p>Enjoy<strong> 20% off</strong> the total amount when you purchase group
 bundles.</p>
@@ -54,6 +54,6 @@ bundles.</p>
 </div>
 </div>
 <h4><strong>Planning to bring your team?</strong></h4>
-<p><strong>👉 <a href="https://form.gov.sg/admin/form/684efe085d6656cfcc1dd3ce" rel="noopener nofollow" target="_blank">Fill in the form</a> to make your bundle purchase!</strong>
+<p><strong>👉 <a href="https://form.gov.sg/684efe085d6656cfcc1dd3ce" rel="noopener nofollow" target="_blank">Fill in the form</a> to make your bundle purchase!</strong>
 </p>
 <p></p>

@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Humanity-Centred Design (HCD+): The Future of Education, Business and Community</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D16836_SP_X_DNDA_Summit_HeroBanner_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DNDA25_V3.png">
 </div>
 <p>The DNDA25 Summit brings these ideas to life through four interconnected
 goals, each informed by the HCD+ approach:</p>
@@ -70,3 +69,8 @@ that can endure over time, advancing both environmental and social resilience.</
 <p></p>
 <p><strong>The DNDA25 Summit reflects how HCD+ can shape a future where education, innovation, sustainability and climate action are harmonised to benefit all.</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Now</div></div></a>
+</div>
+<p></p>

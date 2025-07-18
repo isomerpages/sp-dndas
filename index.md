@@ -14,16 +14,17 @@ description: The Don Norman Design Award (DNDA) organisation is dedicated to
   Apple and HP.
 image: /images/DNDA25_SP_logo_bk.png
 permalink: /
-notification: ""
+notification: The Don Norman Design Award 2025 will take place from 19–21
+  November 2025 at Singapore Polytechnic (SPCC). Reserve your tickets while they
+  last!
 sections:
   - hero:
-      title: Purchase Your Tickets
-      subtitle: Don’t miss out – tickets are selling fast! We’re offering a variety of
-        ticket types, with some available for a limited time only.
-      background: /images/HB_V2.jpg
-      variant: center
+      title: Humanity-Centred Design (HCD+)
+      subtitle: The future of education, business and comunity
+      background: /images/HB_V4.jpg
+      variant: floating
       size: md
-      alignment: right
+      alignment: left
       backgroundColor: gray
       key_highlights:
         - title: Award
@@ -35,7 +36,7 @@ sections:
         - title: Tickets
           description: Get the Right Pass
           url: https://dnda25.sp.edu.sg/summit-tickets/
-      button: Buy Now
+      button: Get Your Tickets Now
       url: https://dnda25ticketing.com.sg/
   - infopic:
       title: Don Norman Design Award (DNDA)
@@ -44,7 +45,7 @@ sections:
         promoting the global adoption of Humanity-Centered Design (HCD+).
       button: Learn More
       alt: Image alt text
-      image: /images/Infopic_V2.jpg
+      image: /images/Info_pic_V3.png
       url: https://dnda25.sp.edu.sg/about/don-norman-design-award/
       subtitle: Don Norman Design Award
   - infopic:
@@ -56,7 +57,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/humanity-centred-design/about/
-      image: /images/Infopic_box_2.jpg
+      image: /images/D16836_SP_X_DNDA_Summit_FA_15.png
       subtitle: Humanity-Centred Design
   - textcards:
       title: Get Your DNDA25 Summit Ticket
@@ -86,7 +87,7 @@ sections:
       button: Learn More
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/about/event-collaborators/
-      image: /images/Infopic_box_3.jpg
+      image: /images/D16836_SP_X_DNDA_Summit_FA_17.png
       subtitle: event collaborators
   - infopic:
       title: DNDA25 Programme
@@ -97,6 +98,6 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
-      image: /images/Infopic_box_4.jpg
+      image: /images/D16836_SP_X_DNDA_Summit_FA_16.png
       subtitle: Programme Breakdown
 ---

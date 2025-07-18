@@ -4,9 +4,9 @@ permalink: /contact-us/faqs/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3><strong>Frequently Asked Questions</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAQ_V4_1.png">
 </div>
 <p><strong>Have questions about DNDA25? — We have answers!</strong>
 </p>

@@ -8,7 +8,7 @@ description: ""
 <p><strong>Do you know what Humanity Centred Design (HCD+) is and how it can be applied into real-world challenges?&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MV_V2.png">
 </div>
 <p>📍<strong>Playground @ UXC is the place for you!</strong>
 </p>

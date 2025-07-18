@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Get Your Tickets to DNDA25 Summit</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Summit_Ticket.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Summit_Ticket_V3.png">
 </div>
 <p><strong>Join Us at DNDA25!</strong>
 </p>
@@ -14,20 +14,17 @@ description: ""
 community building at the DNDA25 Summit. This is where design meets action,
 where ideas take root and changemakers connect across education, business
 and community.</p>
-<h4><strong>Choose Your Experience</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">3 Day Pass</div><div class="isomer-card-description">Access all keynote sessions, showcases, workshops and networking activities across the entire summit.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+<p><strong>3-Day Pass Ticket:</strong>
+</p>
+<p><strong>Usual Price:</strong> $850/pax for 3 days (excluding 9% GST)</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Early Bird - 20% Off</div><div class="isomer-card-description">Enjoy a 20% off when you purchase a ticket before 31 October 2025.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Education - 50% Off</div>
+<div class="isomer-card-description">Use your "edu" email domain to qualify for a 50% discount.</div>
+<div class="isomer-card-link">Buy Now</div>
 </div>
-<p><strong>Special Discounts Available:</strong>
-</p>
-<p><strong>⏰ Early Bird Special</strong>
-</p>
-<p>Enjoy 20% off the 3 Day Pass when you book early. Limited time only.</p>
-<p><strong>🎓 Education Special</strong>
-</p>
-<p>Students, educators and public service professionals enjoy 50% off the
-3 Day Pass. Because changemakers come from every sector.</p>
-<p><strong>🎨 Designer Special</strong>
-</p>
-<p>Design professionals enjoy 60% off the 3 Day Pass. A thank you for shaping
-a better world through design.</p>
-<p></p>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designer Special - 60% Off</div><div class="isomer-card-description">Share your design potfolio or your LinkedIn link with us to be eligible for a 60% discount.</div><div class="isomer-card-link">Buy Now</div></div></a>
+</div>
+<p>Take advantage of our special rates. Our way of thanking you for shaping
+a better world and designing for humanity!</p>

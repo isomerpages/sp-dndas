@@ -31,7 +31,7 @@ complex environments.</p>
 the physical, mental, social, and environmental health of users and communities.</p>
 </li>
 <li>
-<p><strong>Sustainability</strong> – Prioritising environmentally responsible
+<p><strong>Bioinspiration</strong> – Prioritising environmentally responsible
 practices and long-term impact reduction.</p>
 </li>
 <li>
