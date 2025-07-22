@@ -20,14 +20,14 @@ notification: The Don Norman Design Award 2025 will take place from 19–21
 sections:
   - hero:
       title: Humanity-Centred Design (HCD+)
-      subtitle: The future of education, business and comunity
+      subtitle: The future of education, business and community
       background: /images/HB_V4.jpg
       variant: floating
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: Award
+        - title: Awards
           description: What's Celebrated
           url: https://dnda25.sp.edu.sg/award/overview/
         - title: Programme
