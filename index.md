@@ -20,7 +20,7 @@ notification: The Don Norman Design Award 2025 will take place from 19–21
 sections:
   - hero:
       title: Humanity-Centred Design (HCD+)
-      subtitle: The future of education, business and community
+      subtitle: The future of Education, Business and Community
       background: /images/HB_V4.jpg
       variant: floating
       size: md
