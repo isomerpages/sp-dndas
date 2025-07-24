@@ -43,11 +43,12 @@ ways to implement innovation strategies in your organisation or community.</p>
 <p><strong>DNDA Award Ceremony &amp; Dinner</strong>
 </p>
 <p>The DNDA Award Ceremony recognises early-career practitioners and educators
-advancing HCD+. Three awards will be presented: Excellence, for projects
+advancing HCD+. Four awards will be presented: Excellence, for projects
 that strongly reflect HCD+ and demonstrate potential to advance the SDGs;
-Promising, which encourages the continued growth of emerging ideas; and
-Education, which celebrates programmes that nurture the next generation
-of HCD+ leaders.</p>
+Promising, which encourages the continued growth of emerging ideas; Education,
+which celebrates programmes that nurture the next generation of HCD+ leaders;
+and Organisation, which honors organisations that officially support&nbsp;HCD+
+societal projects.&nbsp;</p>
 <p>The evening includes a networking dinner and cultural performances that
 highlight Singapore’s creative diversity, providing space for connection,
 reflection and inspiration through design.</p>
