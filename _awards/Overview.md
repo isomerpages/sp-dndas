@@ -7,11 +7,13 @@ description: ""
 <h3><strong>Overview</strong></h3>
 <p><strong>Celebrating Impact Through Humanity-Centred Design (HCD+)</strong>
 </p>
-<p>The Don Norman Design Award (DNDA) celebrates the transformative power
-of design rooted in empathy, inclusivity, and sustainability. By recognising
-work that prioritises people and the planet, DNDA honours those who are
-redefining what design can achieve — not just for users, but for entire
-communities and ecosystems.</p>
+<p>The DNDA Award Ceremony recognises early-career practitioners and educators
+advancing HCD+. Four awards will be presented: Excellence, for projects
+that strongly reflect HCD+ and demonstrate potential to advance the SDGs;
+Promising, which encourages the continued growth of emerging ideas; Education,
+which celebrates programmes that nurture the next generation of HCD+ leaders;
+and Organisation, which honors organisations that officially support&nbsp;HCD+
+societal projects.&nbsp;</p>
 <h4><strong>Types of Awards</strong></h4>
 <p><strong>Excellence</strong>
 </p>
