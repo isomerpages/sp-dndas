@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Unconference: Designed by You</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unconference_Designed_by_You_V3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Designed_by_you.png">
 </div>
 <p>The Unconference is a participant-led segment where attendees propose
 discussion topics, form breakout groups, and explore what matters most
