@@ -20,7 +20,7 @@ notification: The Don Norman Design Award 2025 will take place from 19–21
 sections:
   - hero:
       title: Humanity-Centred Design (HCD+)
-      subtitle: The future of education, business and community
+      subtitle: The future of Education, Business and Community
       background: /images/HB_V4.jpg
       variant: floating
       size: md
@@ -36,7 +36,7 @@ sections:
         - title: Tickets
           description: Get the Right Pass
           url: https://dnda25.sp.edu.sg/summit-tickets/
-      button: Get Your Tickets Now
+      button: Register Now
       url: https://dnda25ticketing.com.sg/
   - infopic:
       title: Don Norman Design Award (DNDA)

@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Design Your Conference (DYC)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design_Your_Conference_V3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unconference_Designed_by_You_V3.png">
 </div>
 <p><strong>Audience Shape the Conversation</strong>
 </p>
