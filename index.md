@@ -100,4 +100,14 @@ sections:
       url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
       image: /images/D16836_SP_X_DNDA_Summit_FA_16.png
       subtitle: Programme Breakdown
+  - announcements:
+      title: Recent News
+      id: announcements
+      subtitle: Highlights of DNDA25
+      announcement_items:
+        - title: Official Press Release of DNDA25
+          date: 29 July 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
