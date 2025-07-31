@@ -100,6 +100,8 @@ when I attend the DNDA25 Summit?</summary>
 book your accommodation at Park Avenue Rochester - just a 5min drive or
 15min walk away from conference venue. Simply enter the code <strong>DNDA 2025</strong> in
 the promo code field to enjoy the special rate.</p>
+<p>*Subject to room availability upon reservation via the booking URL and
+promo code</p>
 </div>
 </details>
 </div>
