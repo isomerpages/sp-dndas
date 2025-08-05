@@ -10,14 +10,14 @@ description: ""
 </div>
 <p><strong>Special Offer for SP Alumni</strong>
 </p>
-<p>As a valued member of the SP Alumni community, you're invited to enjoy <strong>exclusive 50% savings</strong> on
-tickets to DNDA25!</p>
+<p>As part of our SP family, alumni enjoy <strong>exclusive 50% savings</strong> on
+DNDA25 Summit tickets.</p>
 <p>Whether you're reconnecting with fellow alumni, expanding your professional
-network, or simply looking to be inspired — this is the perfect opportunity
-to be part of something meaningful, at half the price.</p>
+network, or looking to be inspired — this is your perfect chance to be
+part of something meaningful, at half the price.</p>
 <p><strong>SP Alumni Ticket:</strong>
 <br>✅ <strong>50% off</strong> the standard ticket price
 <br>✅ Full access to event sessions, activities and networking opportunities</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SP Alumni</div><div class="isomer-card-description">Simply share the diploma you studied and year of graduation to qualify for 50% off discount.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SP Alumni</div><div class="isomer-card-description">Share the diploma you studied and your year of graduation to qualify for a 50% off discount.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p>Don't miss out — limited alumni tickets available!</p>
