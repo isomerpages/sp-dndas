@@ -2,6 +2,6 @@ collections:
   tickets:
     output: true
     order:
-      - SP Alumni.md
       - Summit Tickets.md
       - Education & Corporate Bundles.md
+      - SP Alumni.md
