@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 image: /images/RC_profile___update.jpg
 ---
+<h3><strong>The UN Resident Coordinator in China @ United Nations</strong></h3>
 <p><a href="https://cn.linkedin.com/in/siddharthchatterjee1un" rel="noopener nofollow" target="_blank">Mr. Siddharth Chatterjee</a> took
 office as the United Nations Resident Coordinator in China on 16 January
 2021 and is the designated representative of - and reports to - the UN
