@@ -37,9 +37,9 @@ through our corporate discount link below!</p>
 <p>Deluxe Room</p>
 </li>
 </ul>
-<p><strong>Book here</strong>: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://carltonhotel.co/DNDA_2025</a></strong>
+<p><strong>Please make your booking <a href="https://carltonhotel.co/DNDA_2025" rel="noopener nofollow" target="_blank">here</a>. </strong>
 </p>
-<p>For booking instructions, please refer to the guide <a href="/files/Carlton_Hotel_Singapore___Hyperlink_Offers.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For booking instructions, please refer to this <strong><a href="/files/Carlton_Hotel_Singapore___Hyperlink_Offers.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a></strong>.</p>
 <p><strong>Booking period: </strong>4 Aug 2025 - 07 Nov 2025</p>
 <p><strong>Stay Period:</strong> 14 Nov 2025 - 25 Nov 2025</p>
 <p><strong>Address:</strong> 76 Bras Basah Rd, Singapore 189558</p>
@@ -58,13 +58,12 @@ it provides seamless access to the one‑north business district, NUS, Holland
 Village and Orchard Road. The hotel features 230 contemporary rooms and
 121 serviced suites, with kitchenette-equipped studio and suite options
 offering excellent flexibility for extended stays or family visits.</p>
-<p><strong>Book here</strong>: <strong><a href="https://parkavenuegroup.com/property/singapore-rochester-parkavenue/" rel="noopener noreferrer nofollow" target="_blank">https://parkavenuegroup.com/property/singapore-rochester-parkavenue/</a></strong>
+<p><strong>Please make your booking <a href="https://www.secure-hotel-booking.com/d-edge/redirect/JLLK/en-US/RoomSelection?arrivalDate=2025-12-02&amp;departureDate=2025-12-03&amp;promoCode=FAPS&amp;selectedAdultCount=2&amp;currency=SGD&amp;_gl=1*1sqfs1g*_ga*MTQ1MzAxMDc4My4xNzQ3NjI2ODAz*_ga_NX7RYZ8PB6*czE3NTI1NTE2NTAkbzU5JGcwJHQxNzUyNTUxNjUwJGo2MCRsMCRoMA..*_ga_499YBBGDLQ*czE3NTI1NTE2NTAkbzU2JGcwJHQxNzUyNTUxNjUwJGo2MCRsMCRoMA..*_ga_M1MCFT0J4G*czE3NTI1NTE2NTAkbzUxJGcwJHQxNzUyNTUxNjUwJGo2MCRsMCRoMA..&amp;_ga=2.128494027.610881490.1752464093-1453010783.1747626803" rel="noopener nofollow" target="_blank">here</a>. </strong>
 </p>
 <p>Please key in '<strong>DNDA25</strong>' promo code to enjoy the corporate
 rates when booking.</p>
 <p><strong>Address:</strong> 31 Rochester Drive Park, Singapore 138637</p>
-<p><strong>Terms and Conditions: </strong>Subject to room availability upon
-reservation via the booking URL and promo code, <em>please note that the hotel does not guarantee any room availability at any stage for a non-guaranteed block.</em>
+<p><strong>Terms and Conditions: </strong><em>Subject to room availability upon reservation via the booking URL and promo code,</em>  <em>please note that the hotel does not guarantee any room availability at any stage for a non-guaranteed block. Booking URL and promo code shall be valid for direct reservation with promo code via the booking URL link only.</em>
 </p>
 <p></p>
 <p></p>
