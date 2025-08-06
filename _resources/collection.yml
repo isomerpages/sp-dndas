@@ -1,6 +1,7 @@
 collections:
-  contact-us:
+  resources:
     output: true
     order:
       - FAQs.md
       - Directory.md
+      - Accommodations.md

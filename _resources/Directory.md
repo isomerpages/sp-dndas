@@ -4,10 +4,14 @@ permalink: /contact-us/directory/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Getting to Event Venue: SPCC</strong></h3>
+<h3><strong>Event Venue</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPCC.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPCC_D_V2.png">
 </div>
+<h4><strong>Getting Here:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,11 +20,11 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Getting Here Via Public Transport</strong>
+<p><strong>Public Transport</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Getting Here Via Car</p>
+<p>Car</p>
 </th>
 </tr>
 <tr>
