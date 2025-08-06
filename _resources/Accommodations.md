@@ -37,7 +37,7 @@ through our corporate discount link below!</p>
 <p>Deluxe Room</p>
 </li>
 </ul>
-<p>Please make your booking via: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://carltonhotel.co/DNDA_2025</a></strong>
+<p><strong>Book here</strong>: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://carltonhotel.co/DNDA_2025</a></strong>
 </p>
 <p>For booking instructions, please refer to the guide <a href="/files/Carlton_Hotel_Singapore___Hyperlink_Offers.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Booking period: </strong>4 Aug 2025 - 07 Nov 2025</p>
@@ -46,7 +46,25 @@ through our corporate discount link below!</p>
 <p><strong>Terms and Conditions:</strong>  <em>Please note the discount applies only after you click “Book Now”.<br>All rates quoted are subject to 10% service charge and 9% prevailing Goods and Services Tax (GST).</em>
 </p>
 <hr>
-<p><strong>Citadines @ Rochester</strong>
+<p><strong>Park Avenue Rochester</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAR.jpg">
+</div>
+<p>Nestled amidst the lush greenery of Rochester Park, Park Avenue Rochester
+offers a serene urban retreat ideal for both business and leisure stays.
+Just a short walk from Buona Vista MRT station (East‑West and Circle Lines),
+it provides seamless access to the one‑north business district, NUS, Holland
+Village and Orchard Road. The hotel features 230 contemporary rooms and
+121 serviced suites, with kitchenette-equipped studio and suite options
+offering excellent flexibility for extended stays or family visits.</p>
+<p><strong>Book here</strong>: <strong><a href="https://parkavenuegroup.com/property/singapore-rochester-parkavenue/" rel="noopener noreferrer nofollow" target="_blank">https://parkavenuegroup.com/property/singapore-rochester-parkavenue/</a></strong>
+</p>
+<p>Please key in '<strong>DNDA25</strong>' promo code to enjoy the corporate
+rates when booking.</p>
+<p><strong>Address:</strong> 31 Rochester Drive Park, Singapore 138637</p>
+<p><strong>Terms and Conditions: </strong>Subject to room availability upon
+reservation via the booking URL and promo code, <em>please note that the hotel does not guarantee any room availability at any stage for a non-guaranteed block.</em>
 </p>
 <p></p>
 <p></p>
