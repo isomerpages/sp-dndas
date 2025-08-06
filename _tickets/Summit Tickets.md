@@ -24,7 +24,7 @@ and community.</p>
 <div class="isomer-card-description">Use your "edu" email domain to qualify for a 50% discount.</div>
 <div class="isomer-card-link">Buy Now</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designer Special - 60% Off</div><div class="isomer-card-description">Share your design potfolio or your LinkedIn link with us to be eligible for a 60% discount.</div><div class="isomer-card-link">Buy Now</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designer Special - 60% Off</div><div class="isomer-card-description">Share your design portfolio or your LinkedIn link with us to be eligible for a 60% discount.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p>Take advantage of our special rates. Our way of thanking you for shaping
 a better world and designing for humanity!</p>
