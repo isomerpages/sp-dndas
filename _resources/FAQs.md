@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /contact-us/faqs/
+permalink: /resources/faqs/
 variant: tiptap
 description: ""
 ---

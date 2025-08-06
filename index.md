@@ -104,4 +104,12 @@ sections:
       url: https://dnda25.sp.edu.sg/programme/programme-details/day-1/
       image: /images/D16836_SP_X_DNDA_Summit_FA_16.png
       subtitle: Programme Breakdown
+  - infobar:
+      title: Accommodations
+      subtitle: Where to Stay
+      id: infobar
+      description: Explore curated accommodation options designed for comfort,
+        convenience and proximity to DNDA25.
+      button: Explore More
+      url: https://dnda25.sp.edu.sg/resources/accommodations/
 ---

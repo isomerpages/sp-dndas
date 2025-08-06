@@ -1,6 +1,6 @@
 ---
 title: Directory
-permalink: /contact-us/directory/
+permalink: /resources/directory/
 variant: tiptap
 description: ""
 ---
