@@ -109,7 +109,7 @@ sections:
       subtitle: Where to Stay
       id: infobar
       description: Explore curated accommodation options designed for comfort,
-        convenience, and proximity to DNDA25.
+        convenience and proximity to DNDA25.
       button: Explore More
       url: https://dnda25.sp.edu.sg/resources/accommodations/
 ---
