@@ -17,7 +17,7 @@ and community.</p>
 <p><strong>3-Day Pass Ticket:</strong>
 </p>
 <p><strong>Usual Price:</strong> $850/pax for 3 days (excluding 9% GST)</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Early Bird - 20% Off</div><div class="isomer-card-description">Enjoy a 20% off when you purchase a ticket before 31 October 2025.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Early Bird - 15% Off</div><div class="isomer-card-description">Enjoy a 15% off when you purchase a ticket before 31 October 2025.</div><div class="isomer-card-link">Buy Now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Education - 50% Off</div>
