@@ -17,15 +17,15 @@ a group visit, this section covers the most frequently asked questions.</p>
 <summary>1. What ticket types are available?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>There are several ticket categories, including options for the general
-public, education institutions and public service professionals. <a href="https://www.dnda25ticketing.com.sg" rel="noopener nofollow" target="_blank">Get yours today</a>.</p>
+public, education institutions, designers and SP Alumni. <a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Get yours today</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2. I work in education or the public service. Am I eligible for discounted
-tickets?</summary>
+<summary>2. I work in education. Am I eligible for discounted tickets?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, discounted rates are available for eligible educators and public
-service professionals. Please check the <a href="https://www.dnda25.com.sg/tickets" rel="noopener nofollow" target="_blank">ticketing page</a> for details.</p>
+<p>Yes, discounted rates are available for eligible educators and students.
+Please check the <a href="https://dnda25.sp.edu.sg/summit-tickets/" rel="noopener nofollow" target="_blank">ticketing page</a> for
+details.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -46,13 +46,13 @@ Polytechnic, with a special Award Dinner on 19 November.</p>
 <details class="isomer-details">
 <summary>5. How can I purchase Summit tickets?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tickets can be purchased online via our <a href="https://www.dnda25ticketing.com.sg" rel="noopener nofollow" target="_blank">ticketing platform</a>.</p>
+<p>Tickets can be purchased online via our <a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">ticketing platform</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>6. Are there any discounts for group or corporate bookings?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yes. Group discounts and corporate bundles are available. <a href="https://dnda25.com.sg/tickets/corporate-bundles" rel="noopener nofollow" target="_blank">Visit</a> our
+<p>Yes. Group discounts and corporate bundles are available. <a href="https://dnda25.sp.edu.sg/tickets/education-corporate-bundles/" rel="noopener nofollow" target="_blank">Visit</a> our
 Corporate Engagement page for more information.</p>
 </div>
 </details>
@@ -67,7 +67,7 @@ of a cancellation by the organisers.</p>
 <summary>8. Who are the speakers at the Summit?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The speaker line-up includes global thought leaders, educators and early-career
-designers. <a href="https://www.dnda25.com.sg/speakers" rel="noopener nofollow" target="_blank">View</a> the
+designers. <a href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/" rel="noopener nofollow" target="_blank">View</a> the
 full list on our Speakers page.</p>
 </div>
 </details>
@@ -75,7 +75,7 @@ full list on our Speakers page.</p>
 <summary>9. Is the Summit open to students?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. Students are welcome to attend and discounted rates are available.
-Group bookings for schools can be arranged.</p>
+Group bookings for schools can be arranged as well.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -88,7 +88,7 @@ by students from local and international institutions.</p>
 <details class="isomer-details">
 <summary>11. How can I get in touch with the organising team?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please drop us an <a href="uxc.sp.edu.sg" rel="noopener nofollow" target="_blank">email</a> –
+<p>Please drop us an <a href="sfExchSPUXC@sp.edu.sg." rel="noopener nofollow" target="_blank">email</a> –
 we will get back to you within 3 working days.</p>
 </div>
 </details>
