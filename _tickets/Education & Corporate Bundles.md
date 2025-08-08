@@ -12,7 +12,7 @@ description: ""
 <p><strong>Education Bundle Offer:</strong>
 </p>
 <p>Get <strong>50% off each ticket</strong> when you purchase an Education
-pass. With every bundle of 5, receive <strong>2 complimentary student passes</strong> –
+pass. With every bundle of 5, receive <strong>2 complimentary passes (worth $1,700!)</strong> –
 perfect for bringing learners along at no extra cost!</p>
 <p><strong>Corporate Bundle Prices:</strong>
 </p>
