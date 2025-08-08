@@ -67,7 +67,7 @@ sections:
         and community building at the DNDA25 Summit.
       cards:
         - title: Early Bird Special
-          description: Enjoy 20% off the Summit Ticket when you purchase early.
+          description: Enjoy 15% off the Summit Ticket when you purchase early.
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
         - title: Education Special
