@@ -21,7 +21,8 @@ and community.</p>
 <a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Education - 50% Off</div>
-<div class="isomer-card-description">Use your "edu" email domain to qualify for a 50% discount.</div>
+<div class="isomer-card-description">Use your "edu" email domain to qualify for a 50% discount. *Buy 5 or more
+Education bundle, get 2 complimentary tickets (worth $1,700)!</div>
 <div class="isomer-card-link">Buy Now</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designer Special - 60% Off</div><div class="isomer-card-description">Share your design portfolio or your LinkedIn link with us to be eligible for a 60% discount.</div><div class="isomer-card-link">Buy Now</div></div></a>
