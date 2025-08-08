@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Education &amp; Corporate Bundles</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Corporate_Bundles_V3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Asset_1_2x_80.jpg">
 </div>
 <p>Unlock <strong>group savings</strong> with our <strong>Education and Corporate bundles</strong>!</p>
 <p><strong>Education Bundle Offer:</strong>
