@@ -78,8 +78,8 @@ sections:
           description: SP Alumni enjoy 50% off the Summit ticket.
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
-        - title: Designer & Architect Special
-          description: Design Professionals enjoy 60% off the Summit Ticket.
+        - title: Designer/Architect Special
+          description: Design and architecture professionals enjoy 60% off Summit tickets.
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
   - infopic:
