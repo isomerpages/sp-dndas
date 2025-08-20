@@ -4,6 +4,7 @@ permalink: /speakers/panellists/mario-van-der-meulen/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Chief Experience Officer @ Aleph-Labs</strong></h3>
 <p>With nearly three decades of international experience, <a href="https://www.linkedin.com/in/mariovdm/" rel="noopener nofollow" target="_blank">Mario Van der Meulen</a> is
 a visionary leader in design and innovation, based in Singapore. As the
 founder of <strong>MVDM Designs</strong>, he delivers human-centric strategies
