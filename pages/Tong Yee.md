@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/tong-yee/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Co-founder @ The Thought Collective   |   Director @ and</strong></h3>
+<h3><strong>Director @ and</strong></h3>
 <p><a href="https://www.linkedin.com/in/tong-yee/" rel="noopener nofollow" target="_blank">Tong Yee</a> co-founded
 the School of Thought (SOT) to promote innovation in education and civic
 learning in both private and public sectors. SOT has since evolved to become

@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Programme Details/.keep
-      - Programme Details/Day 1.md
-      - Programme Details/Day 2.md
-      - Programme Details/Day 3.md
+      - "Programme Details/Day 1: 19 Nov 2025.md"
+      - "Programme Details/Day 2: 20 Nov 2025.md"
+      - "Programme Details/Day 3: 21 Nov 2025.md"
       - Design Your Conference.md
       - Unconference.md
       - Learning Journeys/.keep
