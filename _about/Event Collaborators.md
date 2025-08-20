@@ -21,8 +21,13 @@ environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S.png">
 </div>
-<h4><strong>Our Partners:</strong></h4>
+<h4><strong>In celebration of: </strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_V4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG60.jpg">
+</div>
+<h4><strong>Our Partners:</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_V7.png">
 </div>
 <p></p>
