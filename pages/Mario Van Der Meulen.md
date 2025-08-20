@@ -15,6 +15,6 @@ brand capabilities that resonate with people. He is, in his own words,
 include design leadership, meaningful innovation, and human-centred design
 in the age of AI. He has delivered over 150 talks, workshops, and creative
 sessions across more than 20 countries on five continents.</p>
-<p>Beyond speaking, Mario mentors emerging designers such as through <strong>ADPList</strong> and
-frequently participates in juries and panels, fostering creative excellence
+<p>Beyond speaking, Mario mentors emerging designers such as through ADPList
+and frequently participates in juries and panels, fostering creative excellence
 in the next generation.</p>
