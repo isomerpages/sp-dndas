@@ -93,7 +93,7 @@ drive cultural change through design, futures thinking, leadership development
 and coaching.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/tony-soh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tony Soh" src="/images/09_Panellist_TS_D1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tony Soh</div><div class="isomer-card-description">With a career spanning over three decades, he has held leadership positions across the public, private, and non-profit sectors. Actively involved in various non-profit organisations.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michael-kotlarz/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Michael Kotlarz" src="/images/P_MK_V2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Michael Kotlarz</div><div class="isomer-card-description">A strategic business consultant and advisory board member specialising in disruptive technologies, including AI, machine learning, and data analytics, with over 25 years’ experience bridging technology and financial services.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wangwattanasilpa/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
