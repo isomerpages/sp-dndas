@@ -101,5 +101,5 @@ to find the option that best suits your stay.</p>
 </div>
 </details>
 </div>
-<p><strong>For any enquiries, email us at <a href="mailto:sfExchSPUXC@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sfExchSPUXC@sp.edu.sg</a>.</strong>
+<p><strong>For any enquiries, email us at <a href="mailto:uxc@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">uxc@sp.edu.sg</a>.</strong>
 </p>
