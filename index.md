@@ -79,7 +79,8 @@ sections:
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
         - title: Designer/Architect Special
-          description: Design and architecture professionals enjoy 60% off Summit tickets.
+          description: Enjoy 60% off for designers & architects. Get BOA-SIA 4 CPD pts for
+            architects!
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
   - infopic:
