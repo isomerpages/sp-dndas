@@ -53,7 +53,7 @@ perfect for bringing learners along at no extra cost!</p>
 on DNDA promotional materials. With a purchase of 10 tickets or more, you’ll
 receive <strong>2 complimentary tickets</strong> to the DNDA Awards Dinner.</p>
 <p>Please contact us for additional promotional opportunities at DNDA25 –
-we would be happy to explore them with you! Email us at <a href="mailto:sfExchSPUXC@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sfExchSPUXC@sp.edu.sg</u></a>.</p>
+we would be happy to explore them with you! Email us at <strong><a href="mailto:uxc@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>uxc@sp.edu.sg</u></a></strong>.</p>
 <h4><strong>Planning to bring your team?</strong></h4>
 <p><strong>👉 <a href="https://form.gov.sg/684efe085d6656cfcc1dd3ce" rel="noopener nofollow" target="_blank">Fill in the form</a> to make your bundle purchase!</strong>
 </p>
