@@ -42,7 +42,7 @@ fostering impactful outcomes.</div>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/caesar-jung-harada/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/09_Panellist_CJ_D2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/CJH_V3.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -52,7 +52,7 @@ innovation and sustainability. Created Protei, an open-source sailing robot
 designed to clean up ocean pollution.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arthur Huang" src="/images/08_KN_speakers_AH.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arthur Huang</div><div class="isomer-card-description">Engineer-architect pioneering the circular economy with 17 patents, 300,000 sqm of upcycled buildings, and award-winning innovations recognised by WEF, National Geographic, and Obama Foundation.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arthur Huang" src="/images/AH_V3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arthur Huang</div><div class="isomer-card-description">Engineer-architect pioneering the circular economy with 17 patents, 300,000 sqm of upcycled buildings, and award-winning innovations recognised by WEF, National Geographic, and Obama Foundation.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lee-kok-kin/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -69,7 +69,7 @@ in the energy sector.</div>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/09_Panellist_AM_D2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/DrAri_V2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
