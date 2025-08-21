@@ -65,35 +65,35 @@ designed to clean up ocean pollution.</div>
 in the energy sector.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dawn-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dawn Lim" src="/images/Dawn_Lim.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dawn Lim</div><div class="isomer-card-description">Executive Director of DesignSingapore Council (DSG), leading national design strategy with a focus on emerging tech, sustainability, and care systems, and championing Singapore Design on global stages.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/DrAri_V2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Ari Margiono</div>
-<div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research,
-leading pre‑incubation programmes and drives cutting‑edge research into
-social entrepreneurship.</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/mario-van-der-meulen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mario Van Der Meulen" src="/images/09_Panellist_MV.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mario Van Der Meulen</div><div class="isomer-card-description">An experienced designer and strategist, with over 25 years in experience design and innovation. Author of Counterintuitivity: Making Meaningful Innovation.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Hong Khai Seng</div>
-<div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations
-drive cultural change through design, futures thinking, leadership development
-and coaching.</div>
-<div class="isomer-card-link">Read More</div>
-</div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michael-kotlarz/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Michael Kotlarz" src="/images/P_MK_V2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Michael Kotlarz</div><div class="isomer-card-description">A strategic business consultant and advisory board member specialising in disruptive technologies, including AI, machine learning, and data analytics, with over 25 years’ experience bridging technology and financial services.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dawn-lim/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dawn Lim" src="/images/Dawn_Lim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dawn Lim</div>
+<div class="isomer-card-description">Executive Director of DesignSingapore Council (DSG), leading national
+design strategy with a focus on emerging tech, sustainability, and care
+systems, and championing Singapore Design on global stages.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/DrAri_V2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Ari Margiono</div><div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research, leading pre‑incubation programmes and drives cutting‑edge research into social entrepreneurship.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/mario-van-der-meulen/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mario Van Der Meulen" src="/images/09_Panellist_MV.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mario Van Der Meulen</div>
+<div class="isomer-card-description">An experienced designer and strategist, with over 25 years in experience
+design and innovation. Author of Counterintuitivity: Making Meaningful
+Innovation.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hong Khai Seng</div><div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations drive cultural change through design, futures thinking, leadership development and coaching.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wangwattanasilpa/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
