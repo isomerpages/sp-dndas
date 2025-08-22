@@ -66,7 +66,65 @@ rates when booking.</p>
 <p><strong>Terms and Conditions: </strong><em>Subject to room availability upon reservation via the booking URL and promo code,</em>  <em>please note that the hotel does not guarantee any room availability at any stage for a non-guaranteed block. Booking URL and promo code shall be valid for direct reservation with promo code via the booking URL link only.</em>
 </p>
 <hr>
+<p><strong>Citadines Connect Rochester Singapore</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RC.png">
+</div>
+<p>Citadines Connect Rochester, a modern short stay hotel in Singapore. Each
+is designed in a sleek, contemporary style with botanical prints that draw
+inspiration from the surrounding greenery. It is also conveniently located
+near the Buona Vista Stations. It takes about 5 mins taxi ride to Singapore
+Polytechnic.</p>
+<p>Validity Period: Immediate – 03 Nov 2025</p>
+<p>Stay Period: 16 Nov – 22 Nov</p>
+<p>Cancellation policy: 72 hours cancellation prior to arrival date</p>
+<p><u>Procedures to book:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please visit our brand website and insert corporate code under “Promotion”
+column and stay duration.</p>
+</li>
+<li>
+<p>The rates will appear as DNDA 2025 and the guest may book accordingly.</p>
+</li>
+</ul>
+<p><strong>Please make your booking <a href="https://www.discoverasr.com/en/citadines-connect/singapore/citadines-connect-rochester-singapore" rel="noopener nofollow" target="_blank">here</a>.</strong>
+</p>
+<p>Please key in '<strong>DNDA2025</strong>' promo code to enjoy the corporate
+rates when booking.</p>
+<p><strong>Address: </strong>1 Rochester Park, Singapore 139212</p>
 <p></p>
-<p></p>
+<hr>
+<p><strong>Citadines Science Park Singapore</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCC.png">
+</div>
+<p>Citadines Science Park Singapore offers modern and chic serviced apartments
+that provide a cosy stay for travellers. Located in Science Park, part
+of the vibrant Greater One-North community, the area is a hub for researchers
+and developers.&nbsp;It is walking distance to Science Park MRT. It takes
+about 10 mins taxi ride to Singapore Polytechnic.</p>
+<p>Validity Period: Immediate – 03 Nov 2025</p>
+<p>Stay Period: 16 Nov – 22 Nov</p>
+<p>Cancellation policy: 72 hours cancellation prior to arrival date</p>
+<p><u>Procedures to book:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please visit our brand website and insert corporate code under “Promotion”
+column and stay duration.</p>
+</li>
+<li>
+<p>The rates will appear as DNDA 2025 and the guest may book accordingly.</p>
+</li>
+</ul>
+<p><strong>Please make your booking <a href="https://www.discoverasr.com/en/citadines/singapore/citadines-science-park-singapore" rel="noopener nofollow" target="_blank">here</a>.</strong>
+</p>
+<p>Please key in '<strong>DNDA2025</strong>' promo code to enjoy the corporate
+rates when booking.</p>
+<p><strong>Address: </strong>7 Science Park Drive, Geneo, Singapore 119316</p>
 <p></p>
 <p></p>
