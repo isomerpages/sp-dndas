@@ -66,21 +66,13 @@ sections:
       description: Experience three days of purposeful dialogue, creative exploration
         and community building at the DNDA25 Summit.
       cards:
-        - title: Early Bird Special
-          description: Enjoy 15% off the Summit tickets when you purchase early.
+        - title: 1-Day Pass
+          description: Join for a single day of dialogue, exploration and community
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
-        - title: Education Special
-          description: Individual students and educators enjoy 50% off the Summit tickets.
-          linktext: Buy Now
-          url: https://dnda25ticketing.com.sg/
-        - title: SP Alumni
-          description: SP Alumni enjoy 50% off the Summit tickets.
-          linktext: Buy Now
-          url: https://dnda25ticketing.com.sg/
-        - title: Designer/Architect Special
-          description: Enjoy 60% off for designers & architects. Get BOA-SIA 4 CPD pts for
-            architects!
+        - title: 3-Day Pass
+          description: Enjoy Early Bird 15%, Education 50%, Alumni 50%, Designer/Architect
+            60% off
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
   - infopic:
