@@ -14,6 +14,20 @@ description: ""
 community building at the DNDA25 Summit. This is where design meets action,
 where ideas take root and changemakers connect across education, business
 and community.</p>
+<p><strong>1-Day Pass Ticket:</strong>
+</p>
+<p>Priced at $285 (excluding 9% GST), this pass is ideal for those with limited
+time who still want to join the DNDA25 conversation.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">19 Nov 2025</div><div class="isomer-card-description">Access to a full day of DNDA25 keynotes, sessions, learning journey and networking opportunities.</div><div class="isomer-card-link">Buy Now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">20 Nov 2025</div>
+<div class="isomer-card-description">Access to a full day of DNDA25 keynotes, sessions, learning journey and
+networking opportunities.</div>
+<div class="isomer-card-link">Buy Now</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">21 Nov 2025</div><div class="isomer-card-description">Access to a full day of DNDA25 keynotes, sessions, Unconference and networking opportunities.</div><div class="isomer-card-link">Buy Now</div></div></a>
+</div>
 <p><strong>3-Day Pass Ticket:</strong>
 </p>
 <p><strong>Usual Price:</strong> $850/pax for 3 days (excluding 9% GST)</p>
