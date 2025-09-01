@@ -27,6 +27,6 @@ environment.</p>
 </div>
 <h4><strong>Our Partners:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Par_V7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partner_V8.jpg">
 </div>
 <p></p>
