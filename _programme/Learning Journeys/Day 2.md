@@ -54,7 +54,7 @@ models, and a behind-the-scenes look at how the city works.</p>
 <hr>
 <h4><strong>Civil Service College</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC_V4.jpg">
 </div>
 <p>Step into Civil Service College, where learning meets purpose for the
 Public Service. This experience spotlights how HCD+ drives innovation in
