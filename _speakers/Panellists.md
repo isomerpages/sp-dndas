@@ -24,74 +24,87 @@ one of the first social enterprises in Singapore focused on employing people
 with disabilities.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/alvin-eng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alvin Eng" src="/images/AE.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Alvin Eng</div><div class="isomer-card-description">Head of Enterprise AI (Innovation Group) in UOB. Leads the development of AI solutions to address business challenges and spearheads the adoption of Generative AI across the Bank</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michelle-florendo/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stephanie Dickson" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stephanie Dickson</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/alvin-eng/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Michelle Florendo" src="/images/MichelleJoyceFlorendo__Global_FWN100_2015.png">
+<img style="width: 100%" height="auto" width="100%" alt="Alvin Eng" src="/images/AE.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Michelle Florendo</div>
-<div class="isomer-card-description">A Decision Engineer, Executive Coach and Speaker, an expert who empowers
-individuals and organisations to navigate complexity with clarity and purpose,
-fostering impactful outcomes.</div>
+<div class="isomer-card-title">Alvin Eng</div>
+<div class="isomer-card-description">Head of Enterprise AI (Innovation Group) in UOB. Leads the development
+of AI solutions to address business challenges and spearheads the adoption
+of Generative AI across the Bank</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/tamsin-greulich-smith/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tamsin Greulich-Smith" src="/images/Tamsin_GreulichSmith_V2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tamsin Greulich-Smith</div><div class="isomer-card-description">Director of Design Practice at DesignSingapore Council, pioneers human-centred transformation, co-founded School of X, and leads the biennial Design Education Summit advancing inclusive, sustainable learning.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/caesar-jung-harada/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michelle-florendo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Michelle Florendo" src="/images/MichelleJoyceFlorendo__Global_FWN100_2015.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Michelle Florendo</div><div class="isomer-card-description">A Decision Engineer, Executive Coach and Speaker, an expert who empowers individuals and organisations to navigate complexity with clarity and purpose, fostering impactful outcomes.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/tamsin-greulich-smith/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/CJH_V3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tamsin Greulich-Smith" src="/images/Tamsin_GreulichSmith_V2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Cesar Jung-Harada</div>
-<div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean
-innovation and sustainability. Created Protei, an open-source sailing robot
-designed to clean up ocean pollution.</div>
-<div class="isomer-card-link">Read More</div>
+<div class="isomer-card-title">Tamsin Greulich-Smith</div>
+<div class="isomer-card-description">Director of Design Practice at DesignSingapore Council, pioneers human-centred
+transformation, co-founded School of X, and leads the biennial Design Education
+Summit advancing inclusive, sustainable learning.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arthur Huang" src="/images/AH_V3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arthur Huang</div><div class="isomer-card-description">Engineer-architect pioneering the circular economy with 17 patents, 300,000 sqm of upcycled buildings, and award-winning innovations recognised by WEF, National Geographic, and Obama Foundation.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lee-kok-kin/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/caesar-jung-harada/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/CJH_V3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cesar Jung-Harada</div><div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean innovation and sustainability. Created Protei, an open-source sailing robot designed to clean up ocean pollution.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Arthur Huang" src="/images/AH_V3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lee Kok Kin</div>
-<div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly
-in the energy sector.</div>
+<div class="isomer-card-title">Arthur Huang</div>
+<div class="isomer-card-description">Engineer-architect pioneering the circular economy with 17 patents, 300,000
+sqm of upcycled buildings, and award-winning innovations recognised by
+WEF, National Geographic, and Obama Foundation.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michael-kotlarz/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Michael Kotlarz" src="/images/P_MK_V2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Michael Kotlarz</div><div class="isomer-card-description">A strategic business consultant and advisory board member specialising in disruptive technologies, including AI, machine learning, and data analytics, with over 25 years’ experience bridging technology and financial services.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dawn-lim/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lee-kok-kin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Kok Kin" src="/images/09_Panellists_LKK_D2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lee Kok Kin</div><div class="isomer-card-description">An engineer by training, Mr Lee has over 23 years of experience, predominantly in the energy sector.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/michael-kotlarz/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dawn Lim" src="/images/Dawn_Lim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Michael Kotlarz" src="/images/P_MK_V2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dawn Lim</div>
-<div class="isomer-card-description">Executive Director of DesignSingapore Council (DSG), leading national
-design strategy with a focus on emerging tech, sustainability, and care
-systems, and championing Singapore Design on global stages.</div>
+<div class="isomer-card-title">Michael Kotlarz</div>
+<div class="isomer-card-description">A strategic business consultant and advisory board member specialising
+in disruptive technologies, including AI, machine learning, and data analytics,
+with over 25 years’ experience bridging technology and financial services.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/DrAri_V2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Ari Margiono</div><div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research, leading pre‑incubation programmes and drives cutting‑edge research into social entrepreneurship.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/mario-van-der-meulen/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/dawn-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dawn Lim" src="/images/Dawn_Lim.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dawn Lim</div><div class="isomer-card-description">Executive Director of DesignSingapore Council (DSG), leading national design strategy with a focus on emerging tech, sustainability, and care systems, and championing Singapore Design on global stages.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/dr-ari-margiono/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mario Van Der Meulen" src="/images/09_Panellist_MV.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Ari Margiono" src="/images/DrAri_V2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mario Van Der Meulen</div>
-<div class="isomer-card-description">An experienced designer and strategist, with over 25 years in experience
-design and innovation. Author of Counterintuitivity: Making Meaningful
-Innovation.</div>
+<div class="isomer-card-title">Dr Ari Margiono</div>
+<div class="isomer-card-description">Heads the Centre for Innovation, Design &amp; Entrepreneurship Research,
+leading pre‑incubation programmes and drives cutting‑edge research into
+social entrepreneurship.</div>
 <div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/mario-van-der-meulen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mario Van Der Meulen" src="/images/09_Panellist_MV.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mario Van Der Meulen</div><div class="isomer-card-description">An experienced designer and strategist, with over 25 years in experience design and innovation. Author of Counterintuitivity: Making Meaningful Innovation.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yow Wei Quin" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Yow Wei Quin</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hong Khai Seng</div><div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations drive cultural change through design, futures thinking, leadership development and coaching.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wangwattanasilpa/" class="isomer-card">
@@ -121,7 +134,21 @@ in Design (P!D), a non-profit focused on community-centred urban planning
 and public space design.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yow Wei Quin" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yow Wei Quin</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Larry Yeung" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Larry Yeung</div><div class="isomer-card-description">A designer and community organiser serving as Executive Director of Participate in Design (P!D), a non-profit focused on community-centred urban planning and public space design.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jeffrey Koh" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jeffrey Koh</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="we" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
 <p><strong>Get inspired by visionary leaders — Secure your tickets today!</strong>
