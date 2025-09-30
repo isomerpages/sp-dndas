@@ -31,7 +31,7 @@ international and Chinese media.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Daniel Iacofono</div>
+<div class="isomer-card-title">Daniel Iacofano</div>
 <div class="isomer-card-description">An internationally recognised innovator with 40 years' experience in planning,
 design, strategy, and collaboration, shaping sustainable, people-focused
 environments worldwide.</div>
