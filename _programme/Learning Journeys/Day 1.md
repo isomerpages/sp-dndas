@@ -34,8 +34,7 @@ future-ready transformation and organisational growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG___MB.jpg">
 </div>
-<p><strong>xxxxx </strong>
-</p>
+<p></p>
 <p>The Built Environment Transformation Learning Journey (BETLJ), supported
 by iBuildSG, is a strategic initiative to help industry participants and
 local enterprises understand and adopt the Built Environment Industry Transformation
