@@ -74,9 +74,9 @@ or "edu" email domain to qualify for a 50% discount.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Special Offer: </strong>Enjoy an <strong>additional 15% off</strong>  <strong>on top of the usual 60%</strong> designer
 discount!</p>
-<p>To be eligible for the 60% discount, simply share your portfolio or LinkedIn
+<p>To be eligible for the discount, simply share your portfolio or LinkedIn
 profile with us.</p>
-<p>Architects and Interior Designers will also receive <strong>SIDS &amp; BOA–SIA CPD Accreditation (4 points).</strong>
+<p>Architects and Interior Designers will also receive <strong>4 SIDS &amp; BOA–SIA CPD Accreditation points.</strong>
 </p>
 </td>
 </tr>
