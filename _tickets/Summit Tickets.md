@@ -31,16 +31,70 @@ networking opportunities.</div>
 <p><strong>3-Day Pass Ticket:</strong>
 </p>
 <p><strong>Usual Price:</strong> $850/pax for 3 days (excluding 9% GST)</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Early Bird - 15% Off</div><div class="isomer-card-description">Enjoy a 15% off when you purchase a ticket before 31 October 2025.</div><div class="isomer-card-link">Buy Now</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Education - 50% Off</div>
-<div class="isomer-card-description">Use your "schools.gov.sg" or "moe.gov.sg" or "edu" email domain to qualify
-for a 50% discount. *Buy 5 or more Education bundle, get 2 complimentary
-tickets (worth $1,700)!</div>
-<div class="isomer-card-link">Buy Now</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Designer/Architect Special - 60% Off</div><div class="isomer-card-description">Share your portfolio or LinkedIn profile with us to be eligible for a 60% discount. Architects will also receive BOA-SIA CPD Accreditation: 4 points.</div><div class="isomer-card-link">Buy Now</div></div></a>
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Early Bird - 15% Off</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Education - 50% Off</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designer / Architects / Interior Designers - 75%* Off</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SGD $722.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $450</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGD $290 <s>($340)</s>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Enjoy a 15% off when you purchase a ticket before 31 Oct 2025!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use your "<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>"
+or "<a href="http://moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg</a>"
+or "edu" email domain to qualify for a 50% discount.</p>
+<p>*Buy 5 or more Education bundle, get 2 complimentary tickets (worth $1,700)!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Special Offer: </strong>Enjoy an <strong>additional 15% off</strong>  <strong>on top of the usual 60%</strong> designer
+discount!</p>
+<p>To be eligible for the 60% discount, simply share your portfolio or LinkedIn
+profile with us.</p>
+<p>Architects and Interior Designers will also receive <strong>SIDS &amp; BOA–SIA CPD Accreditation (4 points).</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Buy Now</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Buy Now</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Buy Now</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Take advantage of our special rates. Our way of thanking you for shaping
 a better world and designing for humanity!</p>
