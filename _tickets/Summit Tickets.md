@@ -51,13 +51,15 @@ networking opportunities.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SGD $722.50</p>
+<p>SGD <strong>$722.50</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGD $450</p>
+<p>SGD <strong>$450</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGD $290 <s>($340)</s>
+<p>SGD <strong>$290</strong>  <s>($340)</s>
 </p>
 </td>
 </tr>
