@@ -29,6 +29,9 @@ Asia, guiding participants through the innovation journey.</p>
 <p>Explore how design thinking shapes people, planet, processes, products,
 and profitability, bridging design thinking and user experience to fuel
 future-ready transformation and organisational growth.</p>
+<p></p>
+<p>Address: xxxx (Google Map)</p>
+<p>Sign Up Now</p>
 <hr>
 <h4><strong>Built Environment Transformation Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
