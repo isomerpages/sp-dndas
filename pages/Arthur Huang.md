@@ -4,7 +4,7 @@ permalink: /speakers/panellists/arthur-huang/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Founder &amp; CEO @ MINIWIZ</strong></h3>
+<h3><strong>Founder &amp; Chief Executive Officer @ MINIWIZ</strong></h3>
 <p><a href="https://www.linkedin.com/in/arthur-huang-7703441a/" rel="noopener nofollow" target="_blank">Arthur</a> is
 a structural engineer, architect, and leader in circular economy innovation
 with MINIWIZ, a trash material technology company he started in 2005. The
