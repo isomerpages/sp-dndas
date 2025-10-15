@@ -4,7 +4,7 @@ permalink: /speakers/panellists/lee-kok-kin/
 variant: tiptap
 description: ""
 ---
-<h3><strong>CEO @ Cora-Environment</strong></h3>
+<h3><strong>CEO @ Cora Environment</strong></h3>
 <p><a href="https://www.linkedin.com/in/kok-kin-lee-9b72b821/" rel="noopener nofollow" target="_blank">Kok Kin</a> oversees
 the operations and strategic growth of Cora-Environment, a wholly-owned
 subsidiary of TBS Energi, delivering waste management, resource recovery,
