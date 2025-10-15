@@ -4,7 +4,7 @@ permalink: /speakers/panellists/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Panellists &amp; Moderators &amp; Rapporteurs </strong></h4>
+<h4><strong>Panellists &amp; Moderators &amp; Rapporteurs</strong></h4>
 <p>At DNDA25, we choose keynote speakers, moderators,panellists and rapporteurs
 who align with the core values of <strong>Humanity-Centered Design (HCD+)</strong> and
 our event theme. Our speakers will cover key topics on <strong>education</strong>, <strong>business impact</strong>,
