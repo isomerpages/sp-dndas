@@ -4,7 +4,7 @@ permalink: /speakers/panellists/nur-hidayah-abu-bakar/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Dean, Faculty of Design @ LASALLE College of Arts</strong></h3>
+<h3><strong>Dean, Faculty of Design @ LASALLE College of the Arts</strong></h3>
 <p><a href="https://www.linkedin.com/in/nur-hidayah-abu-bakar-a8630b121/" rel="noopener nofollow" target="_blank">Nur Hidayah</a> is
 a design-educator engaged in furthering design thinking, and education
 in Singapore and Southeast Asia. Her expertise lies in design curriculum
