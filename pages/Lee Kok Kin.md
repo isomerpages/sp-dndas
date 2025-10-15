@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>CEO @ Cora Environment</strong></h3>
 <p><a href="https://www.linkedin.com/in/kok-kin-lee-9b72b821/" rel="noopener nofollow" target="_blank">Kok Kin</a> oversees
-the operations and strategic growth of Cora-Environment, a wholly-owned
+the operations and strategic growth of Cora Environment, a wholly-owned
 subsidiary of TBS Energi, delivering waste management, resource recovery,
 recycling, and Energy-from-Waste solutions in Singapore.</p>
 <p>As an engineer by training, Kok Kin brings with him over 25 years of expertise,
