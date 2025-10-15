@@ -33,6 +33,19 @@ future-ready transformation and organisational growth.</p>
 <p>Address: xxxx (Google Map)</p>
 <p>Sign Up Now</p>
 <hr>
+<p></p>
+<h4><strong>Playground @ UXC Metaverse</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
+</div>
+<p><strong>(Place holder text)</strong>
+</p>
+<p>(Insert write up here)</p>
+<p></p>
+<p>Address: xxxx (Google Map)</p>
+<p>Sign Up Now</p>
+<hr>
 <h4><strong>Built Environment Transformation Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG___MB.jpg">
