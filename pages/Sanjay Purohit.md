@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/sanjay-purohit/
 variant: tiptap
 description: ""
 ---
-<h3><strong>CEO &amp; Chief Curator @ Centre for Exponential Change</strong></h3>
+<h3><strong>Chief Executive Officer &amp; Chief Curator @ Centre for Exponential Change</strong></h3>
 <p><a href="https://www.linkedin.com/in/purohitmsanjay/" rel="noopener" target="_blank">Sanjay Purohit</a> is
 CEO and Chief Curator of <a href="https://centreforexponentialchange.org/" rel="noopener" target="_blank">Centre for Exponential Change</a>.
 He has 30+ years of diverse experience spanning corporate and development
