@@ -4,7 +4,7 @@ permalink: /speakers/panellists/sam-yen/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Chief Innovation Officer, Commerical Banking @ JP Morgan Chase &amp; Co.</strong></h3>
+<h3><strong>Global Head of Enterprise Application Solutions, Commercial and Investment Banking Payments @ JP Morgan Chase &amp; Co.</strong></h3>
 <p><a href="https://www.linkedin.com/in/yensam/" rel="noopener nofollow" target="_blank">Sam Yen</a> wanted
 to be an astronaut growing up. Although his first pair of glasses disqualified
 that possibility, he followed his passion and obtained aerospace degrees
