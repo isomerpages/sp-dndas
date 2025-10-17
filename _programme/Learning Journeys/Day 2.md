@@ -89,7 +89,7 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 </p>
 <hr>
 <p></p>
-<h4><strong>Design AI FabLab, Singapore University of Technology &amp; Design</strong></h4>
+<h4><strong>Design AI FabLab @ Singapore University of Technology &amp; Design</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUTD_Resized.png">
 </div>
@@ -105,7 +105,7 @@ meaningful outcomes and innovations to serve societal needs.</p>
 </p>
 <hr>
 <p></p>
-<h4><strong>NParks @ Jurong Lake Gardens</strong></h4>
+<h4><strong>Jurong Lake Gardens</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_CL1.png">
 </div>
