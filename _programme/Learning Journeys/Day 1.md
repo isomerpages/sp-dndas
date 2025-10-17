@@ -18,7 +18,7 @@ connections in a setting designed for meaningful engagement.</p>
 </p>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUXLJ_Resized.png">
 </div>
 <p><strong>Where ideas meet impact.</strong>
 </p>
@@ -29,79 +29,63 @@ Asia, guiding participants through the innovation journey.</p>
 <p>Explore how design thinking shapes people, planet, processes, products,
 and profitability, bridging design thinking and user experience to fuel
 future-ready transformation and organisational growth.</p>
-<p></p>
-<p>Address: Singapore Polytechnic, Library @ SP, Level 4A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, Library @ SP, Level 4A
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>Playground @ UXC Metaverse</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground_UXC_Resized.png">
 </div>
-<p><strong>Do you know what Humanity Centred Design (HCD+) is and how it can be applied into real-world challenges?</strong>
+<p>Dive into the Humanity-Centred Design (HCD+) framework, crafted by Singapore
+Polytechnic’s User Experience Centre, and be inspired by none other than
+Don Norman – the Father of UX himself! Take a quick pulse check on your
+readiness to lead sustainable change and uncover your Design Thinking superpowers.
+Let’s find out how future-ready you really are!</p>
+<p><em>Read about more about <a href="https://dnda25.sp.edu.sg/humanity-centred-design/playground-at-uxc-metaverse/" rel="noopener noreferrer nofollow" target="_blank">Playground @ UXC Metaverse</a></em>
 </p>
-<p>📍Playground @ UXC is the place for you!</p>
-<p>Discover the Humanity-Centred Design (HCD+) framework, developed by Singapore
-Polytechnic’s User Experience Centre, and gain insights from the Father
-of User Experience (UX) himself – Don Norman.</p>
-<p>💡<strong>Curious about your organisation’s innovation readiness?</strong>
-</p>
-<p>Find out how prepared you are to lead sustainable change.</p>
-<p>💡<strong>Wondering where your Design Thinking strengths lie?</strong>
-</p>
-<p>Explore your key traits through our interactive quizzes.</p>
-<p>Embark on a fun, immersive experience — take our quizzes and dive into
-four unique challenge portals. Learn how HCD+ is used to tackle real-world
-problems, while uncovering more about your personal design superpowers
-along the way!</p>
-<p></p>
-<p></p>
-<p>Address: Singapore Polytechnic, T2031 &amp; T2032 Blk T20, Level 3, School
-of Computing (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, School of Computing, Blk
+T20, Level 3, T2031 &amp; T2032 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>HR Learning Journey | Building Companies of Good - People</strong></h4>
+<h4><strong>HR Learning Journey | Building Companies of Good - People @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
 </div>
-<p></p>
 <p>HR Learning Journey: Building Companies Of Good - People tackles the challenges
 of a multigenerational workforce by equipping managers with people skills,
 EI, AI tools, and Flexible Work Arrangements (FWAs) driving performance
 through mental wellness and inclusive leadership. Learn how to create a
 culture that drives engagement, performance, and long-term organisational
 success.</p>
-<p>Address: Singapore Polytechnic, T18B206 Blk T18B, Level 2, School of Business
-(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, School of Business, Blk
+T18B , Level 2, T18B206 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
-<h4><strong>HR Learning Journey | Building Companies of Good - Planet</strong></h4>
+<h4><strong>HR Learning Journey | Building Companies of Good - Planet @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
 </div>
-<p></p>
 <p>HR Learning Journey: Building Companies Of Good - Planet empowers companies
 to leverage sustainability as a strategic edge—attracting talent, retaining
 employees, and elevates themselves as Employers of Choice. It’s a call
 for companies to lead with purpose, inspiring teams to be part of something
 bigger. Transform sustainability into a competitive advantage and drive
 long-term business success.</p>
-<p>Address: Singapore Polytechnic, T18B208 Blk T18B, Level 2, School of Business
-(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address: </strong>Singapore Polytechnic, School of Business, Blk
+T18B , Level 2, T18B208 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
-<h4><strong>Built Environment Transformation Learning Journey</strong></h4>
-<p></p>
+<h4><strong>Built Environment Transformation Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BETLJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BETLJ_Resized.png">
 </div>
 <p>The Built Environment Transformation Learning Journey (BETLJ), supported
 by iBuildSG, is a strategic initiative to help industry participants and
@@ -115,14 +99,14 @@ management that enhance business value. BETLJ also highlights Singapore
 Polytechnic’s role in driving transformation through project-based training,
 consultancy, and upskilling programs such as Building Information Modelling
 (BIM), CORENET X, and Industry Foundation Classes (IFC).</p>
-<p>Address: Singapore Polytechnic, Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address: </strong>Singapore Polytechnic, Library @ SP, Level 3A
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>AI Learning Journey</strong></h4>
-<p></p>
+<h4><strong>AI Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AILJ_decal.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AILJ_Resized.png">
 </div>
 <p>The AI Learning Journey (AILJ) is designed by SP’s Data Science and Analytics
 Centre (DSAC) in partnership with AI Singapore to help companies/individuals
@@ -132,19 +116,16 @@ real-world examples of how AI and Analytics drive data-driven digital transforma
 across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
-<p></p>
-<p>Address: Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
 <h4><strong>5G &amp; AIoT Learning Journey @ Singapore Polytechnic</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5G_AIoT_LJ_Image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5GAIoT_Resized.png">
 </div>
 <p><strong>Innovation in Artificial Intelligence of Things (AIoT) and Video Management Systems (VMS) powered by 5G Technology</strong>
 </p>
@@ -170,12 +151,15 @@ Control</p>
 with Generative AI</p>
 </li>
 </ul>
-<p></p>
-<p>Address: Singapore Polytechnic, Blk T14 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, Blk T14, Level 3, T1432
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>Sustainability Learning Journey</strong></h4>
+<h4><strong>Sustainability Learning Journey @ Singapore Polytechnic</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUSLJ.png">
+</div>
 <p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
 Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
 and the Singapore Manufacturing Federation (SMF), the Sustainability Learning
@@ -188,11 +172,11 @@ sustainability roadmap. Participants will also gain valuable perspectives
 on the challenges industries face in adopting sustainable practices and
 discover how SP employs a multi-faceted approach to achieve its own sustainability
 goals.</p>
-<p>Address: Singapore Polytechnic, Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address: </strong>Singapore Polytechnic, Library @ SP, Level 3A
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p>
