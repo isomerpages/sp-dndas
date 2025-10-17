@@ -27,8 +27,12 @@ and collaboration.</p>
 <p>Explore how CSC fosters cross-agency partnerships and prepares public
 officers to shape a future-ready government — one designed for people,
 by people.</p>
-<p></p>
-<h4><strong>Design Factory @ Singapore Institute of Technology </strong></h4>
+<p>Address: <a href="https://maps.app.goo.gl/PJcrpjftdmep9YGf7" rel="noopener nofollow" target="_blank">31 N Buona Vista Rd Singapore 275983</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
+<h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT.jpg">
@@ -37,6 +41,11 @@ by people.</p>
 <br>Explore how design thinking and HCD+ guide real-world problem-solving
 through prototyping and collaboration, turning ideas into impactful solutions
 across industries.</p>
+<p>Address: <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
 <p></p>
 <h4><strong>LASALLE College of the Arts</strong></h4>
 <div class="isomer-image-wrapper">
@@ -46,6 +55,15 @@ across industries.</p>
 <br>Experience how art, design, and education converge at LASALLE, a leading
 institution nurturing bold ideas and boundary-pushing talents through interdisciplinary
 collaboration and innovative thinking.</p>
+<p>Address: <a href="https://maps.app.goo.gl/FHN5UXyoc6eYnnvJ6" rel="noopener nofollow" target="_blank">1 McNally St, Singapore 187940</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<hr>
 <p></p>
 <h4><strong>The GEAR</strong></h4>
 <div class="isomer-image-wrapper">
@@ -58,128 +76,131 @@ how human-centred design and environmental tech come together to create
 smarter, more liveable cities.</p>
 <p>Highlights: R&amp;D Labs, Construction Robotics, Human-Centric Design,
 Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
+<p>Address: <a href="https://maps.app.goo.gl/SHb1ViVa9buWEMvF9" rel="noopener nofollow" target="_blank">19 Changi Business Park Cres, Singapore 489690</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
 <p></p>
 <h4><strong>Design AI FabLab, Singapore University of Technology &amp; Design</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_GEAR.jpg">
-</div>
-<p><strong>(subtitle if any)</strong>
+<p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
+can transform creative ideas into tangible products, and eventually, into
+meaningful outcomes and innovations to serve societal needs.</p>
+<p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
 </p>
-<p>(write up goes here)</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
 <p></p>
 <h4><strong>NParks @ Jurong Lake Gardens</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_LJ.jpg">
 </div>
-<p><strong>Discover how Singapore rose from a fledgling nation to one of Asia’s most liveable cities.</strong>
+<p><strong>Designing the People’s Garden for Community Well-being – Jurong Lake Gardens</strong>
 </p>
-<p>Learn about the Parks for Health Framework by NParks, and experience its
-key initiatives in the context of Jurong Lake Gardens. Its design and programmes
-were shaped together with the people through extensive public engagement
-and ground-up involvement, supporting different dimensions of health and
-well-being in the community.</p>
+<p>Participants of this learning journey will be introduced to the Parks
+for Health Framework by NParks, and experience its key initiatives in the
+context of Jurong Lake Gardens. The 90-hectare Jurong Lake Gardens is Singapore’s
+only National Garden in the heartlands, comprising Lakeside Garden, Chinese
+and Japanese Gardens. Its design and programmes were shaped together with
+the people through extensive public engagement and ground-up involvement.</p>
+<p>The Gardens feature a range of therapeutic landscapes that enhance the
+accessibility of greenery and its restorative benefits for diverse communities.
+Designed using evidence-based principles, these landscapes include therapeutic
+gardens, nature playgardens, and contemplative landscapes that support
+different dimensions of health and well-being.</p>
+<p>Through partnerships with various stakeholders and community partners,
+Jurong Lake Gardens brings nature-based programmes such as nature walks,
+edible gardening, and therapeutic horticulture closer to the community.
+In line with larger national health initiatives that emphasise preventive
+health and active ageing, these health-promoting activities contribute
+to Singapore’s health and social ecosystem – within Jurong Lake District
+and beyond.</p>
+<p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<br>
+</p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<hr>
 <p></p>
 <h4><strong>Yishun Community Hospital</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
-</div>
 <p>Discover the activities and initiatives in place to ensure all patients
 enjoy their stay at one of Singapore’s largest community hospitals. Following
 a framework like HCD+, Yishun Community Hospital brings about an integrated
 care experience through a connected network of healthcare teams, information
 flow, and treatment plans.</p>
+<p>Address: <a href="https://maps.app.goo.gl/eifSi5CPVpFigbVb8" rel="noopener nofollow" target="_blank">2 Yishun Central 2, Singapore 768024</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
 <p></p>
-<h4><strong>PARKROYAL Collection Marina bay</strong></h4>
+<h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PR_MarinaBay_LJ.png">
 </div>
 <p>Visit Singapore’s First ‘Garden-in-a-Hotel’, a champion of sustainability,
 environmental responsibility and advocate for green innovations in the
 hospitality industry. Learn more about their commitment to sustainability
 efforts and climate actions while also delivering great guest experiences.</p>
+<p>Address: <a href="https://maps.app.goo.gl/Sje5tNDkpZEyrFVV8" rel="noopener nofollow" target="_blank">6 Raffles Blvd, Singapore 039594</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
+<p></p>
 <h4><strong>PARKROYAL COLLECTION Pickering</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PR_Pickering_LJ.png">
 </div>
 <p>Visit the eco-friendly garden concept hotel, and learn about how this
 architectural masterpiece seamlessly blends urban luxury with nature through
 innovative, sustainable solutions, including solar panels for renewable
 energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
+<p>Address: <a href="https://maps.app.goo.gl/tUuoC1SCtDbmnLKU9" rel="noopener nofollow" target="_blank">3 Upper Pickering St, Singapore 058289</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<hr>
 <h4><strong>Pan Pacific Orchard</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PanPacific_LJ.png">
 </div>
 <p>Visit the urban oasis shaped by award-winning design, where four immersive
 terraces inspired by nature seamlessly unite to create extraordinary experiences
 centred on wellness and sustainability.</p>
+<p>Address: <a href="https://maps.app.goo.gl/tzCr9zb77Di9MVTq5" rel="noopener nofollow" target="_blank">10 Claymore Rd, Singapore 229540</a>
+</p>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+</p>
+<hr>
 <p></p>
 <h4><strong>Ramboll</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
 </div>
-<p>(insert text here)</p>
-<hr>
-<h4><strong>Sustainable Singapore Gallery @ Marina Barrage</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG___MB.jpg">
-</div>
-<p><strong>Step into a modern, interactive gallery that tells Singapore’s powerful story of sustainable development.</strong>
+<p>In close collaboration with JTC Corporation &amp; WOHA, Ramdoll has devised
+a district-wide mobility solution that maximises Smart City objectives.
+Visit the Punggol Digital District (PDD) and learn about how it builds
+synergy between businesses and academia for a connected environment that
+maximises opportunities for mutual collaboration. This takes the form of
+public space activation (common platforms for interaction) and physical
+planning (connectivity and co-sharing of resources) that facilitates partnerships
+and exchanges.</p>
+<p>Address: <a href="https://maps.app.goo.gl/usoehdQ1nUqd94vj6" rel="noopener nofollow" target="_blank">92 Punggol Way, Singapore 829854</a>
 </p>
-<p>Explore engaging zones covering climate change, water resilience, nature-based
-planning, smart city innovation, zero waste efforts, and a collective call
-to action.</p>
-<p>Each zone reveals how Singapore is paving the way toward a vibrant, sustainable
-future — and how you can be part of it.</p>
-<hr>
-<h4><strong>URA: Singapore City Gallery</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
-</div>
-<p><strong>Discover how Singapore rose from a fledgling nation to one of Asia’s most liveable cities.</strong>
+<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
-<p>Dive into an immersive gallery that showcases the city’s urban planning
-journey — from challenges to groundbreaking solutions.</p>
-<p>Highlights include: Smart Nation innovations, historical maps, interactive
-models, and a behind-the-scenes look at how the city works.</p>
 <hr>
-<h4></h4>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
-<hr>
-<p></p>
-<h4></h4>
-<hr>
-<h4></h4>
-<hr>
-<h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
-</div>
-<p><strong>Where ideas meet impact.</strong>
-</p>
-<p>The DT|UX Learning Journey showcases Singapore Polytechnic’s Innovation
-Framework, powered by Humanity-Centred Design (HCD+). This interactive
-multimedia experience highlights SP’s impact across Singapore and Southeast
-Asia, guiding participants through the innovation journey.</p>
-<p>Explore how design thinking shapes people, planet, processes, products,
-and profitability, bridging design thinking and user experience to fuel
-future-ready transformation and organisational growth.</p>
-<hr>
-<h4><strong>Business Innovation Centre @ Singapore Polytechnic</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
-</div>
-<p><strong>Experience Innovation in action.</strong>
-</p>
-<p>The Human Resource Learning Journey, developed by Singapore Polytechnic
-and the Institute for Human Resource Professionals, supports business transformation
-through strategic human capital development — aligned with building companies
-of good and profit.</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p></p>
