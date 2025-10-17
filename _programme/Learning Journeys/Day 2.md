@@ -49,7 +49,6 @@ reflecting the Punggol community’s spirit and transformation.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>LASALLE College of the Arts</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laselle_Resized.png">
@@ -65,11 +64,9 @@ collaboration and innovative thinking.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
-<p></p>
 <h4><strong>The GEAR</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/THEGEAR_Resized.png">
@@ -88,7 +85,6 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>Design AI FabLab @ Singapore University of Technology &amp; Design</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUTD_Resized.png">
@@ -103,7 +99,6 @@ meaningful outcomes and innovations to serve societal needs.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>Jurong Lake Gardens</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_CL1.png">
@@ -133,14 +128,11 @@ and beyond.</p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
-<br>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
-<p></p>
 <h4><strong>Yishun Community Hospital</strong></h4>
 <p>Discover the activities and initiatives in place to ensure all patients
 enjoy their stay at one of Singapore’s largest community hospitals. Following
@@ -154,7 +146,6 @@ flow, and treatment plans.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRC_MBS__Resized.png">
@@ -170,7 +161,6 @@ efforts and climate actions while also delivering great guest experiences.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>PARKROYAL COLLECTION Pickering</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRC_Pickering_Resized.png">
@@ -186,7 +176,6 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
@@ -204,12 +193,11 @@ centred on wellness and sustainability.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>Ramboll</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ramboll_Resized.png">
 </div>
-<p>In close collaboration with JTC Corporation &amp; WOHA, Ramdoll has devised
+<p>In close collaboration with JTC Corporation &amp; WOHA, Ramboll has devised
 a district-wide mobility solution that maximises Smart City objectives.
 Visit the Punggol Digital District (PDD) and learn about how it builds
 synergy between businesses and academia for a connected environment that
