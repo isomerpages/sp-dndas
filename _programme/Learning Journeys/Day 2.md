@@ -185,8 +185,9 @@ centred on wellness and sustainability.</p>
 <hr>
 <p></p>
 <h4><strong>Ramboll</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ramboll_LJ.png">
 </div>
 <p>In close collaboration with JTC Corporation &amp; WOHA, Ramdoll has devised
 a district-wide mobility solution that maximises Smart City objectives.
