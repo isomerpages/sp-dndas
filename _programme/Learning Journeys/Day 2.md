@@ -42,7 +42,7 @@ by people.</p>
 innovation through a network of collaboration. Additionally, visit Singapore’s
 longest mural wall that was created together through community workshops,
 reflecting the Punggol community’s spirit and transformation.</p>
-<p>Address: <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
@@ -58,7 +58,7 @@ reflecting the Punggol community’s spirit and transformation.</p>
 <br>Experience how art, design, and education converge at LASALLE, a leading
 institution nurturing bold ideas and boundary-pushing talents through interdisciplinary
 collaboration and innovative thinking.</p>
-<p>Address: <a href="https://maps.app.goo.gl/FHN5UXyoc6eYnnvJ6" rel="noopener nofollow" target="_blank">1 McNally St, Singapore 187940</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/FHN5UXyoc6eYnnvJ6" rel="noopener nofollow" target="_blank">1 McNally St, Singapore 187940</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
@@ -81,7 +81,7 @@ how human-centred design and environmental tech come together to create
 smarter, more liveable cities.</p>
 <p>Highlights: R&amp;D Labs, Construction Robotics, Human-Centric Design,
 Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
-<p>Address: <a href="https://maps.app.goo.gl/SHb1ViVa9buWEMvF9" rel="noopener nofollow" target="_blank">19 Changi Business Park Cres, Singapore 489690</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/SHb1ViVa9buWEMvF9" rel="noopener nofollow" target="_blank">19 Changi Business Park Cres, Singapore 489690</a>
 </p>
 <p><strong><em>*</em></strong><em>2-way transportation from Singapore Polytechnic will be provided</em>
 </p>
@@ -96,12 +96,11 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
 can transform creative ideas into tangible products, and eventually, into
 meaningful outcomes and innovations to serve societal needs.</p>
-<p></p>
-<p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -129,11 +128,11 @@ In line with larger national health initiatives that emphasise preventive
 health and active ageing, these health-promoting activities contribute
 to Singapore’s health and social ecosystem – within Jurong Lake District
 and beyond.</p>
-<p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 <br>
 </p>
 <hr>
@@ -148,11 +147,11 @@ enjoy their stay at one of Singapore’s largest community hospitals. Following
 a framework like HCD+, Yishun Community Hospital brings about an integrated
 care experience through a connected network of healthcare teams, information
 flow, and treatment plans.</p>
-<p>Address: <a href="https://maps.app.goo.gl/eifSi5CPVpFigbVb8" rel="noopener nofollow" target="_blank">2 Yishun Central 2, Singapore 768024</a>
+<p><strong>Address: </strong><a href="https://maps.app.goo.gl/eifSi5CPVpFigbVb8" rel="noopener nofollow" target="_blank">2 Yishun Central 2, Singapore 768024</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -168,7 +167,7 @@ efforts and climate actions while also delivering great guest experiences.</p>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -180,11 +179,11 @@ efforts and climate actions while also delivering great guest experiences.</p>
 architectural masterpiece seamlessly blends urban luxury with nature through
 innovative, sustainable solutions, including solar panels for renewable
 energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
-<p>Address: <a href="https://maps.app.goo.gl/tUuoC1SCtDbmnLKU9" rel="noopener nofollow" target="_blank">3 Upper Pickering St, Singapore 058289</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/tUuoC1SCtDbmnLKU9" rel="noopener nofollow" target="_blank">3 Upper Pickering St, Singapore 058289</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -198,11 +197,11 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 <p>Visit the urban oasis shaped by award-winning design, where four immersive
 terraces inspired by nature seamlessly unite to create extraordinary experiences
 centred on wellness and sustainability.</p>
-<p>Address: <a href="https://maps.app.goo.gl/tzCr9zb77Di9MVTq5" rel="noopener nofollow" target="_blank">10 Claymore Rd, Singapore 229540</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/tzCr9zb77Di9MVTq5" rel="noopener nofollow" target="_blank">10 Claymore Rd, Singapore 229540</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -218,11 +217,11 @@ maximises opportunities for mutual collaboration. This takes the form of
 public space activation (common platforms for interaction) and physical
 planning (connectivity and co-sharing of resources) that facilitates partnerships
 and exchanges.</p>
-<p>Address: <a href="https://maps.app.goo.gl/usoehdQ1nUqd94vj6" rel="noopener nofollow" target="_blank">92 Punggol Way, Singapore 829854</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/usoehdQ1nUqd94vj6" rel="noopener nofollow" target="_blank">92 Punggol Way, Singapore 829854</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
