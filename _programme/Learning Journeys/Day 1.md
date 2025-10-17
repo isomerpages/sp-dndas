@@ -17,7 +17,6 @@ connections in a setting designed for meaningful engagement.</p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUXLJ_Resized.png">
 </div>
@@ -37,7 +36,6 @@ future-ready transformation and organisational growth.</p>
 <hr>
 <p></p>
 <h4><strong>Playground @ UXC Metaverse</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground_UXC_Resized.png">
 </div>
@@ -64,8 +62,7 @@ of Computing (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
-<h4><strong>HR Learning Journey | Building Companies of Good - People</strong></h4>
-<p></p>
+<h4><strong>HR Learning Journey | Building Companies of Good - People @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
 </div>
@@ -83,11 +80,10 @@ success.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
-<h4><strong>HR Learning Journey | Building Companies of Good - Planet</strong></h4>
+<h4><strong>HR Learning Journey | Building Companies of Good - Planet @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
 </div>
-<p></p>
 <p>HR Learning Journey: Building Companies Of Good - Planet empowers companies
 to leverage sustainability as a strategic edge—attracting talent, retaining
 employees, and elevates themselves as Employers of Choice. It’s a call
@@ -99,10 +95,7 @@ long-term business success.</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
-<p></p>
-<h4><strong>Built Environment Transformation Learning Journey</strong></h4>
-<p></p>
-<p></p>
+<h4><strong>Built Environment Transformation Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BETLJ_Resized.png">
 </div>
@@ -122,9 +115,7 @@ consultancy, and upskilling programs such as Building Information Modelling
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
-<h4><strong>AI Learning Journey</strong></h4>
-<p></p>
-<p></p>
+<h4><strong>AI Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AILJ_Resized.png">
 </div>
@@ -136,7 +127,6 @@ real-world examples of how AI and Analytics drive data-driven digital transforma
 across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
-<p></p>
 <p>Address: Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
@@ -146,8 +136,6 @@ in the evolving digital landscape.</p>
 </div>
 <hr>
 <h4><strong>5G &amp; AIoT Learning Journey @ Singapore Polytechnic</strong></h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5GAIoT_Resized.png">
 </div>
@@ -175,12 +163,14 @@ Control</p>
 with Generative AI</p>
 </li>
 </ul>
-<p></p>
 <p>Address: Singapore Polytechnic, Blk T14 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
-<h4><strong>Sustainability Learning Journey</strong></h4>
+<h4><strong>Sustainability Learning Journey @ Singapore Polytechnic</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUSLJ.png">
+</div>
 <p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
 Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
 and the Singapore Manufacturing Federation (SMF), the Sustainability Learning
