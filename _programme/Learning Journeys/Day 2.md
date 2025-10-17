@@ -39,10 +39,10 @@ by people.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT.jpg">
 </div>
-<p><strong>Innovation powered by HCD+.</strong>
-<br>Explore how design thinking and HCD+ guide real-world problem-solving
-through prototyping and collaboration, turning ideas into impactful solutions
-across industries.</p>
+<p>Explore Design Factory@SIT and how it impacts the future with design-led
+innovation through a network of collaboration. Additionally, visit Singapore’s
+longest mural wall that was created together through community workshops,
+reflecting the Punggol community’s spirit and transformation.</p>
 <p>Address: <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
