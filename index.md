@@ -66,13 +66,13 @@ sections:
       description: Experience three days of purposeful dialogue, creative exploration
         and community building at the DNDA25 Summit.
       cards:
-        - title: 1-Day Pass
+        - title: 1-Day Pass (SGD $285)
           description: Join for a single day of dialogue, exploration and community
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
-        - title: 3-Day Pass
-          description: Enjoy Early Bird 15%, Education 50%, Alumni 50%, Designer/Architect
-            60% off
+        - title: 3-Day Pass (Starts from SGD $290*)
+          description: Enjoy-  Early Bird 15%, Education 50%, Alumni 50%,
+            Designer/Architect Special
           linktext: Buy Now
           url: https://dnda25ticketing.com.sg/
   - infopic:
