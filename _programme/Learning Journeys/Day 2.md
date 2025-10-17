@@ -103,7 +103,7 @@ meaningful outcomes and innovations to serve societal needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_CL1.png">
 </div>
-<p><strong>Designing the People’s Garden for Community Well-being – Jurong Lake Gardens</strong>
+<p><strong>Designing the People’s Garden for Community Well-being – Jurong Lake Gardens.</strong>
 </p>
 <p>Participants of this learning journey will be introduced to the Parks
 for Health Framework by NParks, and experience its key initiatives in the
