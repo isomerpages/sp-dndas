@@ -17,8 +17,9 @@ connections in a setting designed for meaningful engagement.</p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUXLJ_Resized.png">
 </div>
 <p><strong>Where ideas meet impact.</strong>
 </p>
@@ -36,8 +37,9 @@ future-ready transformation and organisational growth.</p>
 <hr>
 <p></p>
 <h4><strong>Playground @ UXC Metaverse</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground_UXC_Resized.png">
 </div>
 <p><strong>Do you know what Humanity Centred Design (HCD+) is and how it can be applied into real-world challenges?</strong>
 </p>
@@ -63,10 +65,10 @@ of Computing (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/
 </p>
 <hr>
 <h4><strong>HR Learning Journey | Building Companies of Good - People</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
+</div>
 <p>HR Learning Journey: Building Companies Of Good - People tackles the challenges
 of a multigenerational workforce by equipping managers with people skills,
 EI, AI tools, and Flexible Work Arrangements (FWAs) driving performance
@@ -83,7 +85,7 @@ success.</p>
 <hr>
 <h4><strong>HR Learning Journey | Building Companies of Good - Planet</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
 </div>
 <p></p>
 <p>HR Learning Journey: Building Companies Of Good - Planet empowers companies
@@ -100,8 +102,9 @@ long-term business success.</p>
 <p></p>
 <h4><strong>Built Environment Transformation Learning Journey</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BETLJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BETLJ_Resized.png">
 </div>
 <p>The Built Environment Transformation Learning Journey (BETLJ), supported
 by iBuildSG, is a strategic initiative to help industry participants and
@@ -121,8 +124,9 @@ consultancy, and upskilling programs such as Building Information Modelling
 <hr>
 <h4><strong>AI Learning Journey</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AILJ_decal.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AILJ_Resized.png">
 </div>
 <p>The AI Learning Journey (AILJ) is designed by SP’s Data Science and Analytics
 Centre (DSAC) in partnership with AI Singapore to help companies/individuals
@@ -143,8 +147,9 @@ in the evolving digital landscape.</p>
 <hr>
 <h4><strong>5G &amp; AIoT Learning Journey @ Singapore Polytechnic</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5G_AIoT_LJ_Image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5GAIoT_Resized.png">
 </div>
 <p><strong>Innovation in Artificial Intelligence of Things (AIoT) and Video Management Systems (VMS) powered by 5G Technology</strong>
 </p>
