@@ -39,13 +39,13 @@ future-ready transformation and organisational growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground_UXC_Resized.png">
 </div>
-<p><strong>Discover the Humanity-Centred Design (HCD+) framework</strong>
-</p>
 <p>Dive into the Humanity-Centred Design (HCD+) framework, crafted by Singapore
 Polytechnic’s User Experience Centre, and be inspired by none other than
 Don Norman – the Father of UX himself! Take a quick pulse check on your
 readiness to lead sustainable change and uncover your Design Thinking superpowers.
 Let’s find out how future-ready you really are!</p>
+<p><em>Read about more about <a href="https://dnda25.sp.edu.sg/humanity-centred-design/playground-at-uxc-metaverse/" rel="noopener noreferrer nofollow" target="_blank">Playground @ UXC Metaverse</a></em>
+</p>
 <p><strong>Address:</strong> Singapore Polytechnic, School of Computing, Blk
 T20, Level 3, T2031 &amp; T2032 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
