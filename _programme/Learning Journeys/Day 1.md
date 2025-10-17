@@ -30,15 +30,14 @@ Asia, guiding participants through the innovation journey.</p>
 and profitability, bridging design thinking and user experience to fuel
 future-ready transformation and organisational growth.</p>
 <p></p>
-<p>Address: Library @ SP, Level 4A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, Library @ SP, Level 4A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
 <p></p>
 <h4><strong>Playground @ UXC Metaverse</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground.png">
 </div>
 <p><strong>Do you know what Humanity Centred Design (HCD+) is and how it can be applied into real-world challenges?</strong>
 </p>
@@ -58,7 +57,8 @@ problems, while uncovering more about your personal design superpowers
 along the way!</p>
 <p></p>
 <p></p>
-<p>Address: T2031 &amp; T2032 Blk T20, Level 3, School of Computing (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, T2031 &amp; T2032 Blk T20, Level 3, School
+of Computing (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -73,7 +73,8 @@ EI, AI tools, and Flexible Work Arrangements (FWAs) driving performance
 through mental wellness and inclusive leadership. Learn how to create a
 culture that drives engagement, performance, and long-term organisational
 success.</p>
-<p>Address: T18B206 Blk T18B, Level 2, School of Business (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, T18B206 Blk T18B, Level 2, School of Business
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -91,7 +92,8 @@ employees, and elevates themselves as Employers of Choice. It’s a call
 for companies to lead with purpose, inspiring teams to be part of something
 bigger. Transform sustainability into a competitive advantage and drive
 long-term business success.</p>
-<p>Address: T18B208 Blk T18B, Level 2, School of Business (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, T18B208 Blk T18B, Level 2, School of Business
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -113,7 +115,7 @@ management that enhance business value. BETLJ also highlights Singapore
 Polytechnic’s role in driving transformation through project-based training,
 consultancy, and upskilling programs such as Building Information Modelling
 (BIM), CORENET X, and Industry Foundation Classes (IFC).</p>
-<p>Address: Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -131,7 +133,7 @@ across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
 <p></p>
-<p>Address: Level 3, T1A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -169,7 +171,7 @@ with Generative AI</p>
 </li>
 </ul>
 <p></p>
-<p>Address: T14 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, Blk T14 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -186,7 +188,7 @@ sustainability roadmap. Participants will also gain valuable perspectives
 on the challenges industries face in adopting sustainable practices and
 discover how SP employs a multi-faceted approach to achieve its own sustainability
 goals.</p>
-<p>Address: Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p>Address: Singapore Polytechnic, Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
