@@ -39,13 +39,55 @@ future-ready transformation and organisational growth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
 </div>
-<p><strong>(Place holder text)</strong>
+<p><strong>Do you know what Humanity Centred Design (HCD+) is and how it can be applied into real-world challenges? </strong>
 </p>
-<p>(Insert write up here)</p>
+<p>📍Playground @ UXC is the place for you!</p>
+<p>Discover the Humanity-Centred Design (HCD+) framework, developed by Singapore
+Polytechnic’s User Experience Centre, and gain insights from the Father
+of User Experience (UX) himself – Don Norman.</p>
+<p>💡<strong>Curious about your organisation’s innovation readiness?</strong>
+</p>
+<p>Find out how prepared you are to lead sustainable change.</p>
+<p>💡<strong>Wondering where your Design Thinking strengths lie?</strong>
+</p>
+<p>Explore your key traits through our interactive quizzes.</p>
+<p>Embark on a fun, immersive experience — take our quizzes and dive into
+four unique challenge portals. Learn how HCD+ is used to tackle real-world
+problems, while uncovering more about your personal design superpowers
+along the way!</p>
+<p></p>
 <p></p>
 <p>Address: xxxx (Google Map)</p>
 <p>Sign Up Now</p>
 <hr>
+<h4><strong>HR Learning Journey | Building Companies of Good - People</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
+</div>
+<p></p>
+<p>HR Learning Journey: Building Companies Of Good - People tackles the challenges
+of a multigenerational workforce by equipping managers with people skills,
+EI, AI tools, and Flexible Work Arrangements (FWAs) driving performance
+through mental wellness and inclusive leadership. Learn how to create a
+culture that drives engagement, performance, and long-term organisational
+success.</p>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<hr>
+<h4><strong>HR Learning Journey | Building Companies of Good - Planet</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
+</div>
+<p></p>
+<p>HR Learning Journey: Building Companies Of Good - Planet empowers companies
+to leverage sustainability as a strategic edge—attracting talent, retaining
+employees, and elevates themselves as Employers of Choice. It’s a call
+for companies to lead with purpose, inspiring teams to be part of something
+bigger. Transform sustainability into a competitive advantage and drive
+long-term business success.</p>
+<hr>
+<p></p>
 <h4><strong>Built Environment Transformation Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG___MB.jpg">
@@ -64,20 +106,73 @@ Polytechnic’s role in driving transformation through project-based training,
 consultancy, and upskilling programs such as Building Information Modelling
 (BIM), CORENET X, and Industry Foundation Classes (IFC).</p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
-<hr>
-<h4><strong>Business Innovation Centre @ Singapore Polytechnic</strong></h4>
+<h4><strong>AI Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BIC___SP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG___MB.jpg">
 </div>
-<p><strong>Experience Innovation in action.</strong>
-</p>
-<p>The Human Resource Learning Journey, developed by Singapore Polytechnic
-and the Institute for Human Resource Professionals, supports business transformation
-through strategic human capital development — aligned with building companies
-of good and profit.</p>
+<p></p>
+<p>The AI Learning Journey (AILJ) is designed by SP’s Data Science and Analytics
+Centre (DSAC) in partnership with AI Singapore to help companies/individuals
+understand digital transformation and the role of AI and Analytics in this
+shift. Anchored on AI Singapore's AI Readiness Index, the AILJ showcases
+real-world examples of how AI and Analytics drive data-driven digital transformation
+across different industries. Through this initiative, DSAC aims to inspire
+companies/individuals to explore the possibilities of AI and Analytics
+in the evolving digital landscape.</p>
+<hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
+<hr>
+<h4><strong>5G &amp; AIoT Learning Journey @ Singapore Polytechnic</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
+</div>
+<p><strong>Innovation in Artificial Intelligence of Things (AIoT) and Video Management Systems (VMS) powered by 5G Technology</strong>
+</p>
+<p>Discover how 5G technology is driving the evolution of AIoT (Artificial
+Intelligence of Things) and Video Analytics across various industries.
+Gain an understanding of these cutting-edge technologies and explore key
+use cases and real-world examples developed by SP and our technology partners,
+including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>AI-powered video surveillance and monitoring systems</p>
+</li>
+<li>
+<p>AI and IoT for enhanced Facilities Management, safety, and security</p>
+</li>
+<li>
+<p>Agentic AI for anomaly detection, automated corrective action recommendations,
+and proactive communication with facilities teams for Smart Facilities
+Control</p>
+</li>
+<li>
+<p>A Self-Help Platform designed to improve Incident Response Management
+with Generative AI</p>
+</li>
+</ul>
+<hr>
+<h4><strong>Sustainability Learning Journey</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUX_LJ.jpg">
+</div>
+<p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
+Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
+and the Singapore Manufacturing Federation (SMF), the Sustainability Learning
+Journey (Sus LJ) empowers companies to kickstart and advance their sustainability
+transformations.&nbsp;</p>
+<p>This engaging, exhibition-style programme guides participants through
+three key zones: Awareness, Baseline, and Commitment. Each zone delivers
+actionable insights and practical steps to help organisations craft a comprehensive
+sustainability roadmap. Participants will also gain valuable perspectives
+on the challenges industries face in adopting sustainable practices and
+discover how SP employs a multi-faceted approach to achieve its own sustainability
+goals.</p>
+<hr>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<p>
+<br>
+</p>
