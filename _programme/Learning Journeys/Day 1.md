@@ -29,10 +29,9 @@ Asia, guiding participants through the innovation journey.</p>
 <p>Explore how design thinking shapes people, planet, processes, products,
 and profitability, bridging design thinking and user experience to fuel
 future-ready transformation and organisational growth.</p>
-<p></p>
 <p><strong>Address:</strong> Singapore Polytechnic, Library @ SP, Level 4A
 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -45,7 +44,7 @@ future-ready transformation and organisational growth.</p>
 <p>📍Playground @ UXC is the place for you!</p>
 <p>Discover the Humanity-Centred Design (HCD+) framework, developed by Singapore
 Polytechnic’s User Experience Centre, and gain insights from the Father
-of User Experience (UX) himself – Don Norman.</p>
+of User Experience (UX) himself – <strong>Don Norman</strong>.</p>
 <p>💡<strong>Curious about your organisation’s innovation readiness?</strong>
 </p>
 <p>Find out how prepared you are to lead sustainable change.</p>
@@ -56,11 +55,9 @@ of User Experience (UX) himself – Don Norman.</p>
 four unique challenge portals. Learn how HCD+ is used to tackle real-world
 problems, while uncovering more about your personal design superpowers
 along the way!</p>
-<p></p>
-<p></p>
 <p><strong>Address:</strong> Singapore Polytechnic, School of Computing, Blk
 T20, Level 3, T2031 &amp; T2032 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <h4><strong>HR Learning Journey | Building Companies of Good - People @ Singapore Polytechnic</strong></h4>
@@ -75,7 +72,7 @@ culture that drives engagement, performance, and long-term organisational
 success.</p>
 <p><strong>Address:</strong> Singapore Polytechnic, School of Business, Blk
 T18B , Level 2, T18B206 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
@@ -93,7 +90,7 @@ bigger. Transform sustainability into a competitive advantage and drive
 long-term business success.</p>
 <p><strong>Address: </strong>Singapore Polytechnic, School of Business, Blk
 T18B , Level 2, T18B208 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <h4><strong>Built Environment Transformation Learning Journey @ Singapore Polytechnic</strong></h4>
@@ -114,7 +111,7 @@ consultancy, and upskilling programs such as Building Information Modelling
 (BIM), CORENET X, and Industry Foundation Classes (IFC).</p>
 <p><strong>Address: </strong>Singapore Polytechnic, Library @ SP, Level 3A
 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <h4><strong>AI Learning Journey @ Singapore Polytechnic</strong></h4>
@@ -130,7 +127,7 @@ across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
 <p><strong>Address:</strong> Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -167,7 +164,7 @@ with Generative AI</p>
 </ul>
 <p><strong>Address:</strong> Singapore Polytechnic, Blk T14, Level 3, T1432
 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <h4><strong>Sustainability Learning Journey @ Singapore Polytechnic</strong></h4>
@@ -188,7 +185,7 @@ discover how SP employs a multi-faceted approach to achieve its own sustainabili
 goals.</p>
 <p><strong>Address: </strong>Singapore Polytechnic, Library @ SP, Level 3A
 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
