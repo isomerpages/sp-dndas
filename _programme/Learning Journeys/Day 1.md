@@ -34,7 +34,6 @@ future-ready transformation and organisational growth.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <h4><strong>Playground @ UXC Metaverse</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground_UXC_Resized.png">
@@ -121,7 +120,6 @@ in the evolving digital landscape.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
@@ -179,7 +177,6 @@ goals.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.dnda25ticketing.com.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <p>
