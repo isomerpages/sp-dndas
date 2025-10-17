@@ -134,6 +134,9 @@ and beyond.</p>
 </div>
 <hr>
 <h4><strong>Yishun Community Hospital</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCH_Resized.png">
+</div>
 <p>Discover the activities and initiatives in place to ensure all patients
 enjoy their stay at one of Singapore’s largest community hospitals. Following
 a framework like HCD+, Yishun Community Hospital brings about an integrated
