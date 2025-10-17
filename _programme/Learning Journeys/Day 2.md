@@ -94,9 +94,10 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
 can transform creative ideas into tangible products, and eventually, into
 meaningful outcomes and innovations to serve societal needs.</p>
-<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
-</p>
+<p></p>
 <p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
+</p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
