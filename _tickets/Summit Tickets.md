@@ -46,7 +46,7 @@ networking opportunities.</div>
 <p>Education - 50% Off</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Designer / Architects / Interior Designers - 75%* Off</p>
+<p>Designer / Architects* / Interior Designers* Special</p>
 </th>
 </tr>
 <tr>
@@ -78,7 +78,9 @@ or "edu" email domain to qualify for a 50% discount.</p>
 discount!</p>
 <p>To be eligible for the discount, simply share your portfolio or LinkedIn
 profile with us.</p>
-<p>Architects and Interior Designers will also receive <strong>4 SIDS &amp; BOA–SIA CPD Accreditation points.</strong>
+<p>*Architects will receive <strong>6 CPD points. </strong>
+</p>
+<p>*Interior Designers will receive <strong>4 CPD points.</strong>
 </p>
 </td>
 </tr>
