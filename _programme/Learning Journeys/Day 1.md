@@ -30,8 +30,9 @@ Asia, guiding participants through the innovation journey.</p>
 and profitability, bridging design thinking and user experience to fuel
 future-ready transformation and organisational growth.</p>
 <p></p>
-<p>Address: Singapore Polytechnic, Library @ SP, Level 4A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, Library @ SP, Level 4A
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <p></p>
@@ -57,9 +58,9 @@ problems, while uncovering more about your personal design superpowers
 along the way!</p>
 <p></p>
 <p></p>
-<p>Address: Singapore Polytechnic, T2031 &amp; T2032 Blk T20, Level 3, School
-of Computing (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, School of Computing, Blk
+T20, Level 3, T2031 &amp; T2032 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <h4><strong>HR Learning Journey | Building Companies of Good - People @ Singapore Polytechnic</strong></h4>
@@ -72,9 +73,9 @@ EI, AI tools, and Flexible Work Arrangements (FWAs) driving performance
 through mental wellness and inclusive leadership. Learn how to create a
 culture that drives engagement, performance, and long-term organisational
 success.</p>
-<p>Address: Singapore Polytechnic, T18B206 Blk T18B, Level 2, School of Business
-(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, School of Business, Blk
+T18B , Level 2, T18B206 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
@@ -90,9 +91,9 @@ employees, and elevates themselves as Employers of Choice. It’s a call
 for companies to lead with purpose, inspiring teams to be part of something
 bigger. Transform sustainability into a competitive advantage and drive
 long-term business success.</p>
-<p>Address: Singapore Polytechnic, T18B208 Blk T18B, Level 2, School of Business
-(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address: </strong>Singapore Polytechnic, School of Business, Blk
+T18B , Level 2, T18B208 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <h4><strong>Built Environment Transformation Learning Journey @ Singapore Polytechnic</strong></h4>
@@ -111,8 +112,9 @@ management that enhance business value. BETLJ also highlights Singapore
 Polytechnic’s role in driving transformation through project-based training,
 consultancy, and upskilling programs such as Building Information Modelling
 (BIM), CORENET X, and Industry Foundation Classes (IFC).</p>
-<p>Address: Singapore Polytechnic, Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address: </strong>Singapore Polytechnic, Library @ SP, Level 3A
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <h4><strong>AI Learning Journey @ Singapore Polytechnic</strong></h4>
@@ -127,8 +129,8 @@ real-world examples of how AI and Analytics drive data-driven digital transforma
 across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
-<p>Address: Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, Blk T1A, Level 3 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <p></p>
@@ -163,8 +165,9 @@ Control</p>
 with Generative AI</p>
 </li>
 </ul>
-<p>Address: Singapore Polytechnic, Blk T14 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address:</strong> Singapore Polytechnic, Blk T14, Level 3, T1432
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <h4><strong>Sustainability Learning Journey @ Singapore Polytechnic</strong></h4>
@@ -183,8 +186,9 @@ sustainability roadmap. Participants will also gain valuable perspectives
 on the challenges industries face in adopting sustainable practices and
 discover how SP employs a multi-faceted approach to achieve its own sustainability
 goals.</p>
-<p>Address: Singapore Polytechnic, Library @ SP, Level 3A (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong>Address: </strong>Singapore Polytechnic, Library @ SP, Level 3A
+(<a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">Campus map</a>)</p>
+<p><em><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></em>
 </p>
 <hr>
 <p></p>
