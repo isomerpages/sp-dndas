@@ -123,7 +123,7 @@ In line with larger national health initiatives that emphasise preventive
 health and active ageing, these health-promoting activities contribute
 to Singapore’s health and social ecosystem – within Jurong Lake District
 and beyond.</p>
-<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/ihXJPtsLnayy9cWo9" rel="noopener nofollow" target="_blank">Yuan Ching Rd</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
