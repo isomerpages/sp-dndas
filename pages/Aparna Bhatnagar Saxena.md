@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/aparna-bhatnagar-saxena/
 variant: tiptap
 description: ""
 ---
-<h3><strong>CEO @ TORAJAMELO</strong></h3>
+<h3><strong>Chief Executive Officer @ TORAJAMELO</strong></h3>
 <p><a href="https://www.linkedin.com/in/aparna-saxena/" rel="noopener nofollow" target="_blank">Aparna Bhatnagar Saxena</a> is
 a vegan, an environmentalist, and a student for life. She has lived and
 worked in 4 countries in Asia and is now a social entrepreneur, and having

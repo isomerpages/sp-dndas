@@ -16,6 +16,37 @@ connections in a setting designed for meaningful engagement.</p>
 </p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
+<h4><strong>Civil Service College</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC_V4.jpg">
+</div>
+<p>Step into Civil Service College, where learning meets purpose for the
+Public Service. This experience spotlights how HCD+ drives innovation in
+public sector learning, empowering officers to lead with empathy, agility,
+and collaboration.</p>
+<p>Explore how CSC fosters cross-agency partnerships and prepares public
+officers to shape a future-ready government — one designed for people,
+by people.</p>
+<p></p>
+<h4><strong>Design Factory @ Singapore Institute of Technology </strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT.jpg">
+</div>
+<p><strong>Innovation powered by HCD+.</strong>
+<br>Explore how design thinking and HCD+ guide real-world problem-solving
+through prototyping and collaboration, turning ideas into impactful solutions
+across industries.</p>
+<p></p>
+<h4><strong>LASALLE College of the Arts</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lasalle.jpg">
+</div>
+<p><strong>Uncover the creative energy shaping Singapore’s design future.</strong>
+<br>Experience how art, design, and education converge at LASALLE, a leading
+institution nurturing bold ideas and boundary-pushing talents through interdisciplinary
+collaboration and innovative thinking.</p>
+<p></p>
 <h4><strong>The GEAR</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_GEAR.jpg">
@@ -27,6 +58,67 @@ how human-centred design and environmental tech come together to create
 smarter, more liveable cities.</p>
 <p>Highlights: R&amp;D Labs, Construction Robotics, Human-Centric Design,
 Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
+<p></p>
+<h4><strong>Design AI FabLab, Singapore University of Technology &amp; Design</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_GEAR.jpg">
+</div>
+<p><strong>(subtitle if any)</strong>
+</p>
+<p>(write up goes here)</p>
+<p></p>
+<h4><strong>NParks @ Jurong Lake Gardens</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+</div>
+<p><strong>Discover how Singapore rose from a fledgling nation to one of Asia’s most liveable cities.</strong>
+</p>
+<p>Learn about the Parks for Health Framework by NParks, and experience its
+key initiatives in the context of Jurong Lake Gardens. Its design and programmes
+were shaped together with the people through extensive public engagement
+and ground-up involvement, supporting different dimensions of health and
+well-being in the community.</p>
+<p></p>
+<h4><strong>Yishun Community Hospital</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+</div>
+<p>Discover the activities and initiatives in place to ensure all patients
+enjoy their stay at one of Singapore’s largest community hospitals. Following
+a framework like HCD+, Yishun Community Hospital brings about an integrated
+care experience through a connected network of healthcare teams, information
+flow, and treatment plans.</p>
+<p></p>
+<h4><strong>PARKROYAL Collection Marina bay</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+</div>
+<p>Visit Singapore’s First ‘Garden-in-a-Hotel’, a champion of sustainability,
+environmental responsibility and advocate for green innovations in the
+hospitality industry. Learn more about their commitment to sustainability
+efforts and climate actions while also delivering great guest experiences.</p>
+<h4><strong>PARKROYAL COLLECTION Pickering</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+</div>
+<p>Visit the eco-friendly garden concept hotel, and learn about how this
+architectural masterpiece seamlessly blends urban luxury with nature through
+innovative, sustainable solutions, including solar panels for renewable
+energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
+<p></p>
+<h4><strong>Pan Pacific Orchard</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+</div>
+<p>Visit the urban oasis shaped by award-winning design, where four immersive
+terraces inspired by nature seamlessly unite to create extraordinary experiences
+centred on wellness and sustainability.</p>
+<p></p>
+<h4><strong>Ramboll</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCG___URA.jpg">
+</div>
+<p>(insert text here)</p>
 <hr>
 <h4><strong>Sustainable Singapore Gallery @ Marina Barrage</strong></h4>
 <p></p>
@@ -52,40 +144,15 @@ journey — from challenges to groundbreaking solutions.</p>
 <p>Highlights include: Smart Nation innovations, historical maps, interactive
 models, and a behind-the-scenes look at how the city works.</p>
 <hr>
-<h4><strong>Civil Service College</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC_V4.jpg">
-</div>
-<p>Step into Civil Service College, where learning meets purpose for the
-Public Service. This experience spotlights how HCD+ drives innovation in
-public sector learning, empowering officers to lead with empathy, agility,
-and collaboration.</p>
-<p>Explore how CSC fosters cross-agency partnerships and prepares public
-officers to shape a future-ready government — one designed for people,
-by people.</p>
+<h4></h4>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
 </div>
 <hr>
 <p></p>
-<h4><strong>LASALLE College of the Arts</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lasalle.jpg">
-</div>
-<p><strong>Uncover the creative energy shaping Singapore’s design future.</strong>
-<br>Experience how art, design, and education converge at LASALLE, a leading
-institution nurturing bold ideas and boundary-pushing talents through interdisciplinary
-collaboration and innovative thinking.</p>
+<h4></h4>
 <hr>
-<h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT.jpg">
-</div>
-<p><strong>Innovation powered by HCD+.</strong>
-<br>Explore how design thinking and HCD+ guide real-world problem-solving
-through prototyping and collaboration, turning ideas into impactful solutions
-across industries.</p>
+<h4></h4>
 <hr>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
