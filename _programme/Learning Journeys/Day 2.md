@@ -27,9 +27,11 @@ and collaboration.</p>
 <p>Explore how CSC fosters cross-agency partnerships and prepares public
 officers to shape a future-ready government — one designed for people,
 by people.</p>
-<p>Address: <a href="https://maps.app.goo.gl/PJcrpjftdmep9YGf7" rel="noopener nofollow" target="_blank">31 N Buona Vista Rd Singapore 275983</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/PJcrpjftdmep9YGf7" rel="noopener nofollow" target="_blank">31 N Buona Vista Rd Singapore 275983</a>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
@@ -43,7 +45,9 @@ through prototyping and collaboration, turning ideas into impactful solutions
 across industries.</p>
 <p>Address: <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -57,7 +61,9 @@ institution nurturing bold ideas and boundary-pushing talents through interdisci
 collaboration and innovative thinking.</p>
 <p>Address: <a href="https://maps.app.goo.gl/FHN5UXyoc6eYnnvJ6" rel="noopener nofollow" target="_blank">1 McNally St, Singapore 187940</a>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -78,7 +84,9 @@ smarter, more liveable cities.</p>
 Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p>Address: <a href="https://maps.app.goo.gl/SHb1ViVa9buWEMvF9" rel="noopener nofollow" target="_blank">19 Changi Business Park Cres, Singapore 489690</a>
 </p>
-<p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
+<p><strong><em>*</em></strong><em>2-way transportation from Singapore Polytechnic will be provided</em>
+</p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
 <p></p>
@@ -86,6 +94,8 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
 can transform creative ideas into tangible products, and eventually, into
 meaningful outcomes and innovations to serve societal needs.</p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
 <p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
 </p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
@@ -119,6 +129,8 @@ to Singapore’s health and social ecosystem – within Jurong Lake District
 and beyond.</p>
 <p>Address: <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
 </p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 <br>
 </p>
@@ -136,6 +148,8 @@ care experience through a connected network of healthcare teams, information
 flow, and treatment plans.</p>
 <p>Address: <a href="https://maps.app.goo.gl/eifSi5CPVpFigbVb8" rel="noopener nofollow" target="_blank">2 Yishun Central 2, Singapore 768024</a>
 </p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -150,6 +164,8 @@ hospitality industry. Learn more about their commitment to sustainability
 efforts and climate actions while also delivering great guest experiences.</p>
 <p>Address: <a href="https://maps.app.goo.gl/Sje5tNDkpZEyrFVV8" rel="noopener nofollow" target="_blank">6 Raffles Blvd, Singapore 039594</a>
 </p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
+</p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
 <hr>
@@ -163,6 +179,8 @@ architectural masterpiece seamlessly blends urban luxury with nature through
 innovative, sustainable solutions, including solar panels for renewable
 energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 <p>Address: <a href="https://maps.app.goo.gl/tUuoC1SCtDbmnLKU9" rel="noopener nofollow" target="_blank">3 Upper Pickering St, Singapore 058289</a>
+</p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
@@ -179,6 +197,8 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 terraces inspired by nature seamlessly unite to create extraordinary experiences
 centred on wellness and sustainability.</p>
 <p>Address: <a href="https://maps.app.goo.gl/tzCr9zb77Di9MVTq5" rel="noopener nofollow" target="_blank">10 Claymore Rd, Singapore 229540</a>
+</p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
@@ -198,6 +218,8 @@ public space activation (common platforms for interaction) and physical
 planning (connectivity and co-sharing of resources) that facilitates partnerships
 and exchanges.</p>
 <p>Address: <a href="https://maps.app.goo.gl/usoehdQ1nUqd94vj6" rel="noopener nofollow" target="_blank">92 Punggol Way, Singapore 829854</a>
+</p>
+<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
 <p><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a>
 </p>
