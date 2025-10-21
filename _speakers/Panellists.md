@@ -52,7 +52,7 @@ transformation, co-founded School of X, and leads the biennial Design Education
 Summit advancing inclusive, sustainable learning.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/caesar-jung-harada/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cesar Jung-Harada" src="/images/CJH_V3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cesar Jung-Harada</div><div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean innovation and sustainability. Created Protei, an open-source sailing robot designed to clean up ocean pollution.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/cesar-harada/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cesar Harada" src="/images/CJH_V3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cesar Harada</div><div class="isomer-card-description">A designer, environmentalist, and educator known for his work in ocean innovation and sustainability. Created Protei, an open-source sailing robot designed to clean up ocean pollution.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/arthur-huang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
