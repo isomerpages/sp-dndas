@@ -10,9 +10,9 @@ third_nav_title: Learning Journeys
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
-<p></p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
+<hr>
 <h4><strong>Civil Service College</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/CSC_Resized.png">
