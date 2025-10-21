@@ -10,10 +10,7 @@ third_nav_title: Learning Journeys
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
-<p><strong>Sign-up for Learning Journeys opens on 21 Oct!</strong>
-<br>We’ll notify you on the day — so keep a look out! 🔔
-<br><em>HCD+ “Connect” only runs on Day 1 and Day 2 — don’t miss out!</em>
-</p>
+<p></p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <h4><strong>Civil Service College</strong></h4>
@@ -123,7 +120,7 @@ In line with larger national health initiatives that emphasise preventive
 health and active ageing, these health-promoting activities contribute
 to Singapore’s health and social ecosystem – within Jurong Lake District
 and beyond.</p>
-<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/ihXJPtsLnayy9cWo9" rel="noopener nofollow" target="_blank">Yuan Ching Rd</a>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/cTSGizbVdCGRz4rU7" rel="noopener nofollow" target="_blank">South Carpark, 50 Yuan Ching Rd, Singapore 618661</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
@@ -135,7 +132,7 @@ and beyond.</p>
 <hr>
 <h4><strong>Yishun Community Hospital</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCH_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCH.png">
 </div>
 <p>Discover the activities and initiatives in place to ensure all patients
 enjoy their stay at one of Singapore’s largest community hospitals. Following
