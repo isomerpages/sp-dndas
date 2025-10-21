@@ -148,7 +148,7 @@ flow, and treatment plans.</p>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRC_MBS__Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBS_R2.png">
 </div>
 <p>Visit Singapore’s First ‘Garden-in-a-Hotel’, a champion of sustainability,
 environmental responsibility and advocate for green innovations in the
@@ -163,7 +163,7 @@ efforts and climate actions while also delivering great guest experiences.</p>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Pickering</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRC_Pickering_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ParkRoyale_R2.png">
 </div>
 <p>Visit the eco-friendly garden concept hotel, and learn about how this
 architectural masterpiece seamlessly blends urban luxury with nature through
@@ -181,7 +181,7 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 <hr>
 <h4><strong>Pan Pacific Orchard</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PanPacific_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PanPacific_R2.png">
 </div>
 <p>Visit the urban oasis shaped by award-winning design, where four immersive
 terraces inspired by nature seamlessly unite to create extraordinary experiences
