@@ -4,7 +4,8 @@ permalink: /speakers/panellists/caesar-jung-harada/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://sg.linkedin.com/in/cesarharada" rel="noopener nofollow" target="_blank">Cesar Jung-Harada</a> is
+<h4></h4>
+<p><a href="https://sg.linkedin.com/in/cesarharada" rel="noopener nofollow" target="_blank">Cesar Harada</a> is
 a French-Japanese designer, environmentalist, educator, and entrepreneur,
 passionate about ocean technology, impact innovation, and education based
 in Singapore. Cesar is currently a candidate Ph.D. in Design and Ocean
