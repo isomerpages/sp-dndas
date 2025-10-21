@@ -4,7 +4,7 @@ permalink: /speakers/panellists/dr-ari-margiono/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Associate Professor @ Binus University</strong></h3>
+<h3><strong>Associate Professor in Management @ BINUS University</strong></h3>
 <p><a href="https://www.linkedin.com/in/arimargiono/" rel="noopener nofollow" target="_blank">Dr Ari</a> is
 an associate professor with strong social industry (social entrepreneurship
 and corporate social responsibility) background and extensive media footprint
