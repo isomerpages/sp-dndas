@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/dr-simon-schillebeeckx/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Co-founder @ Handprint &amp; Assistant Professor @ SMU</strong></h3>
+<h3><strong>Co-founder @ Handprint &amp; Assistant Professor @ Singapore Management University</strong></h3>
 <p><a href="https://www.linkedin.com/in/simonschillebeeckx" rel="noopener nofollow" target="_blank">Dr. Simon J.D. Schillebeeckx</a> is
 Assistant Professor of Strategy and Entrepreneurship at the Lee Kong Chian
 School of Business of SMU. Prior to joining SMU, Simon obtained a PhD in

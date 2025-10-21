@@ -1,10 +1,11 @@
 ---
-title: Caesar Jung Harada
-permalink: /speakers/panellists/caesar-jung-harada/
+title: Cesar Harada
+permalink: /speakers/panellists/cesar-harada/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://sg.linkedin.com/in/cesarharada" rel="noopener nofollow" target="_blank">Cesar Jung-Harada</a> is
+<h3><strong>Founder &amp; Director @ MakerBay</strong></h3>
+<p><a href="https://sg.linkedin.com/in/cesarharada" rel="noopener nofollow" target="_blank">Cesar Harada</a> is
 a French-Japanese designer, environmentalist, educator, and entrepreneur,
 passionate about ocean technology, impact innovation, and education based
 in Singapore. Cesar is currently a candidate Ph.D. in Design and Ocean

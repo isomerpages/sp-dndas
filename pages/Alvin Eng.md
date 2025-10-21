@@ -4,7 +4,7 @@ permalink: /speakers/panellists/alvin-eng/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Head of Enterprise AI (Innovation Group) @ UOB</strong></h3>
+<h3><strong>Head of Enterprise AI (Innovation Group) @ United Overseas Bank</strong></h3>
 <p><a href="linkedin.com/in/alvin-eng-967a101" rel="noopener nofollow" target="_blank">Alvin</a> is
 the Head of Enterprise AI (Innovation Group) in UOB. In this role, he leads
 the development of AI solutions to address business challenges and spearheads
