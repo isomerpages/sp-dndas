@@ -10,10 +10,6 @@ third_nav_title: Learning Journeys
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
-<p><strong>Sign-up for Learning Journeys opens on 21 Oct!</strong>
-<br>We’ll notify you on the day — so keep a look out! 🔔
-<br><em>HCD+ “Connect” only runs on Day 1 and Day 2 — don’t miss out!</em>
-</p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
