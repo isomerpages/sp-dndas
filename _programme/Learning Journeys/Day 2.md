@@ -15,7 +15,7 @@ connections in a setting designed for meaningful engagement.</p>
 </p>
 <h4><strong>Civil Service College</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/CSC_Resized.png">
 </div>
 <p>Step into Civil Service College, where learning meets purpose for the
 Public Service. This experience spotlights how HCD+ drives innovation in
@@ -33,7 +33,7 @@ by people.</p>
 <hr>
 <h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT__Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SIT__Resized.png">
 </div>
 <p>Explore Design Factory@SIT and how it impacts the future with design-led
 innovation through a network of collaboration. Additionally, visit Singapore’s
@@ -48,7 +48,7 @@ reflecting the Punggol community’s spirit and transformation.</p>
 <hr>
 <h4><strong>LASALLE College of the Arts</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Laselle_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Laselle_Resized.png">
 </div>
 <p><strong>Uncover the creative energy shaping Singapore’s design future.</strong>
 <br>Experience how art, design, and education converge at LASALLE, a leading
@@ -66,7 +66,7 @@ collaboration and innovative thinking.</p>
 <hr>
 <h4><strong>The GEAR</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/THEGEAR_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/THEGEAR_Resized.png">
 </div>
 <p><strong>Step into The GEAR — an open innovation hub shaping the future of mobility and urban living.</strong>
 </p>
@@ -84,7 +84,7 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <hr>
 <h4><strong>Design AI FabLab @ Singapore University of Technology &amp; Design</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUTD_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUTD_Resized.png">
 </div>
 <p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
 can transform creative ideas into tangible products, and eventually, into
@@ -98,7 +98,7 @@ meaningful outcomes and innovations to serve societal needs.</p>
 <hr>
 <h4><strong>Jurong Lake Gardens</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JLG_CL1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/JLG_CL1.png">
 </div>
 <p><strong>Designing the People’s Garden for Community Well-being – Jurong Lake Gardens.</strong>
 </p>
@@ -132,7 +132,7 @@ and beyond.</p>
 <hr>
 <h4><strong>Yishun Community Hospital</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YCH.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/YCH.png">
 </div>
 <p>Discover the activities and initiatives in place to ensure all patients
 enjoy their stay at one of Singapore’s largest community hospitals. Following
@@ -148,7 +148,7 @@ flow, and treatment plans.</p>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MBS_R2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/MBS_R2.png">
 </div>
 <p>Visit Singapore’s First ‘Garden-in-a-Hotel’, a champion of sustainability,
 environmental responsibility and advocate for green innovations in the
@@ -163,7 +163,7 @@ efforts and climate actions while also delivering great guest experiences.</p>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Pickering</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ParkRoyale_R2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/ParkRoyale_R2.png">
 </div>
 <p>Visit the eco-friendly garden concept hotel, and learn about how this
 architectural masterpiece seamlessly blends urban luxury with nature through
@@ -181,7 +181,7 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 <hr>
 <h4><strong>Pan Pacific Orchard</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PanPacific_R2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/PanPacific_R2.png">
 </div>
 <p>Visit the urban oasis shaped by award-winning design, where four immersive
 terraces inspired by nature seamlessly unite to create extraordinary experiences
@@ -195,7 +195,7 @@ centred on wellness and sustainability.</p>
 <hr>
 <h4><strong>Ramboll</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ramboll_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Ramboll_Resized.png">
 </div>
 <p>In close collaboration with JTC Corporation &amp; WOHA, Ramboll has devised
 a district-wide mobility solution that maximises Smart City objectives.
