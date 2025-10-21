@@ -12,9 +12,10 @@ third_nav_title: Learning Journeys
 connections in a setting designed for meaningful engagement.</p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
+<hr>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DTUXLJ_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/DTUXLJ_Resized.png">
 </div>
 <p><strong>Where ideas meet impact.</strong>
 </p>
@@ -32,7 +33,7 @@ future-ready transformation and organisational growth.</p>
 <hr>
 <h4><strong>Playground @ UXC Metaverse</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Playground_UXC_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Playground_UXC_Resized.png">
 </div>
 <p>Dive into the Humanity-Centred Design (HCD+) framework, crafted by Singapore
 Polytechnic’s User Experience Centre, and be inspired by none other than
@@ -48,7 +49,7 @@ T20, Level 3, T2031 &amp; T2032 (<a href="https://www.sp.edu.sg/about-sp/campus-
 <hr>
 <h4><strong>HR Learning Journey | Building Companies of Good - People @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/HRLJ_Resized.png">
 </div>
 <p>HR Learning Journey: Building Companies Of Good - People tackles the challenges
 of a multigenerational workforce by equipping managers with people skills,
@@ -66,7 +67,7 @@ T18B , Level 2, T18B206 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-
 <hr>
 <h4><strong>HR Learning Journey | Building Companies of Good - Planet @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HRLJ_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/HRLJ_Resized.png">
 </div>
 <p>HR Learning Journey: Building Companies Of Good - Planet empowers companies
 to leverage sustainability as a strategic edge—attracting talent, retaining
@@ -81,7 +82,7 @@ T18B , Level 2, T18B208 (<a href="https://www.sp.edu.sg/about-sp/campus-map-and-
 <hr>
 <h4><strong>Built Environment Transformation Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BETLJ_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/BETLJ_Resized.png">
 </div>
 <p>The Built Environment Transformation Learning Journey (BETLJ), supported
 by iBuildSG, is a strategic initiative to help industry participants and
@@ -102,7 +103,7 @@ consultancy, and upskilling programs such as Building Information Modelling
 <hr>
 <h4><strong>AI Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AILJ_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/AILJ_Resized.png">
 </div>
 <p>The AI Learning Journey (AILJ) is designed by SP’s Data Science and Analytics
 Centre (DSAC) in partnership with AI Singapore to help companies/individuals
@@ -121,7 +122,7 @@ in the evolving digital landscape.</p>
 <hr>
 <h4><strong>5G &amp; AIoT Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5GAIoT_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/5GAIoT_Resized.png">
 </div>
 <p><strong>Innovation in Artificial Intelligence of Things (AIoT) and Video Management Systems (VMS) powered by 5G Technology</strong>
 </p>
@@ -154,7 +155,7 @@ with Generative AI</p>
 <hr>
 <h4><strong>Sustainability Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUSLJ.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUSLJ.png">
 </div>
 <p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
 Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
