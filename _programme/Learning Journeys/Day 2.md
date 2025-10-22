@@ -5,11 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Journeys
 ---
-<h3><strong>Day-2: 20 November 2025</strong></h3>
+<h3><strong>Day-2: 20 November 2025 </strong></h3>
 <p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin.</strong>
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Day 1 LJs will take place within Singapore Polytechnic’s campus, featuring
+some of our Centres of Excellence.</p>
+</li>
+<li>
+<p>Day 2 LJs will bring you beyond campus, offering hands-on experiences
+across innovation, sustainability, and design excellence.</p>
+</li>
+</ul>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <hr>
