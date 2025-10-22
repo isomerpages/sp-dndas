@@ -2,7 +2,8 @@
 title: Keynote Speakers
 permalink: /speakers/keynote-speakers/
 variant: tiptap
-description: ""
+description: Meet keynote speakers, panellists, and moderators at DNDA25 Summit
+  as they share global insights on Humanity-Centred Design (HCD+).
 ---
 <p>At DNDA25, we choose keynote speakers, moderators, and panellists who
 align with the core values of <strong>Humanity-Centered Design (HCD+)</strong> and

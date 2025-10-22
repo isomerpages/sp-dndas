@@ -2,7 +2,8 @@
 title: Summit Tickets
 permalink: /summit-tickets/
 variant: tiptap
-description: ""
+description: Get DNDA25 Summit tickets at up to 60% off. Join global design
+  leaders in Singapore for 3 days of creativity, dialogue, and collaboration.
 ---
 <h3><strong>Get Your Tickets to DNDA25 Summit</strong></h3>
 <div class="isomer-image-wrapper">
@@ -78,7 +79,7 @@ or "edu" email domain to qualify for a 50% discount.</p>
 discount!</p>
 <p>To be eligible for the discount, simply share your portfolio or LinkedIn
 profile with us.</p>
-<p>*Architects will receive <strong>6 CPD points. </strong>
+<p>*Architects will receive <strong>6 CPD points.</strong>
 </p>
 <p>*Interior Designers will receive <strong>4 CPD points.</strong>
 </p>

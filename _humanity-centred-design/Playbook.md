@@ -2,7 +2,8 @@
 title: Playbook
 permalink: /humanity-centred-design/playbook/
 variant: tiptap
-description: ""
+description: Discover the HCD+ Playbook with tools and strategies for inclusive,
+  sustainable innovation across education, business, and communities.
 ---
 <h3><strong>HCD+ Playbook</strong></h3>
 <div class="isomer-image-wrapper">

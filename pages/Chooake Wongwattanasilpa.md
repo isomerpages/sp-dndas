@@ -1,6 +1,6 @@
 ---
-title: Chooake Wangwattanasilpa
-permalink: /speakers/panellists/chooake-wangwattanasilpa/
+title: Chooake Wongwattanasilpa
+permalink: /speakers/panellists/chooake-wongwattanasilpa/
 variant: tiptap
 description: ""
 ---

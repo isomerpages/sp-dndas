@@ -10,9 +10,21 @@ third_nav_title: Learning Journeys
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Day 1 LJs will take place within Singapore Polytechnic’s campus, featuring
+some of our Centres of Excellence.</p>
+</li>
+<li>
+<p>Day 2 LJs will bring you beyond campus, offering hands-on experiences
+across innovation, sustainability, and design excellence.</p>
+</li>
+</ul>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_Campus_Map.png">
+</div>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/DTUXLJ_Resized.png">

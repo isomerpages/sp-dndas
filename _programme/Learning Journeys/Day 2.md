@@ -5,11 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Journeys
 ---
-<h3><strong>Day-2: 20 November 2025</strong></h3>
+<h3><strong>Day-2: 20 November 2025 </strong></h3>
 <p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin.</strong>
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Day 1 LJs will take place within Singapore Polytechnic’s campus, featuring
+some of our Centres of Excellence.</p>
+</li>
+<li>
+<p>Day 2 LJs will bring you beyond campus, offering hands-on experiences
+across innovation, sustainability, and design excellence.</p>
+</li>
+</ul>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <hr>
@@ -82,20 +92,6 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>Design AI FabLab @ Singapore University of Technology &amp; Design</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUTD_Resized.png">
-</div>
-<p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
-can transform creative ideas into tangible products, and eventually, into
-meaningful outcomes and innovations to serve societal needs.</p>
-<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
-</p>
-<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
-</p>
-<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
-</p>
-<hr>
 <h4><strong>Jurong Lake Gardens</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/JLG_CL1.png">
@@ -127,9 +123,6 @@ and beyond.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
-<hr>
 <h4><strong>Yishun Community Hospital</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/YCH.png">
@@ -145,6 +138,9 @@ flow, and treatment plans.</p>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
@@ -175,9 +171,6 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
 <hr>
 <h4><strong>Pan Pacific Orchard</strong></h4>
 <div class="isomer-image-wrapper">

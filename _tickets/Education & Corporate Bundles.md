@@ -2,7 +2,8 @@
 title: Education & Corporate Bundles
 permalink: /tickets/education-corporate-bundles/
 variant: tiptap
-description: ""
+description: Get 50% off DNDA25 Summit tickets with our Education & Corporate
+  bundle. Buy 5 tickets and receive 2 free student passes for future innovators.
 ---
 <h2><strong>Education &amp; Corporate Bundles</strong></h2>
 <div class="isomer-image-wrapper">

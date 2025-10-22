@@ -2,7 +2,8 @@
 title: Don Norman Design Award
 permalink: /about/don-norman-design-award/
 variant: tiptap
-description: ""
+description: The Don Norman Design Awards celebrate Humanity-Centred Design
+  (HCD+), honouring designers, educators, and innovators shaping global impact.
 ---
 <h3><strong>Don Norman Design Award (DNDA)</strong></h3>
 <div class="isomer-image-wrapper">

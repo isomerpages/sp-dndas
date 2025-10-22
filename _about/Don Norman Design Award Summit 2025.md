@@ -2,7 +2,8 @@
 title: Don Norman Design Award Summit 2025
 permalink: /don-norman-design-award-summit-2025/
 variant: tiptap
-description: ""
+description: Join the Don Norman Design Award Summit 2025 in Singapore. Explore
+  Humanity-Centred Design (HCD+) shaping education, business, and communities.
 ---
 <h3><strong>Humanity-Centred Design (HCD+): The Future of Education, Business and Community</strong></h3>
 <div class="isomer-image-wrapper">
