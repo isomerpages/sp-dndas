@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Learning Journeys
 ---
-<h3><strong>Day-2: 20 November 2025 </strong></h3>
+<h3><strong>Day-2: 20 November 2025</strong></h3>
 <p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin.</strong>
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
@@ -22,7 +22,10 @@ across innovation, sustainability, and design excellence.</p>
 </ul>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
-<hr>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_Day2_map.png">
+</div>
 <h4><strong>Civil Service College</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/CSC_Resized.png">
