@@ -79,7 +79,7 @@ or "edu" email domain to qualify for a 50% discount.</p>
 discount!</p>
 <p>To be eligible for the discount, simply share your portfolio or LinkedIn
 profile with us.</p>
-<p>*Architects will receive <strong>6 CPD points. </strong>
+<p>*Architects will receive <strong>6 CPD points.</strong>
 </p>
 <p>*Interior Designers will receive <strong>4 CPD points.</strong>
 </p>
