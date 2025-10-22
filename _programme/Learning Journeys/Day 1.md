@@ -22,6 +22,10 @@ across innovation, sustainability, and design excellence.</p>
 </ul>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_Campus_Map.png">
+</div>
 <hr>
 <h4><strong>Design Thinking | User Experience Learning Journey @ Singapore Polytechnic</strong></h4>
 <div class="isomer-image-wrapper">
