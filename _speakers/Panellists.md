@@ -109,14 +109,14 @@ bridging psychology and design to support healthier, more equitable communities.
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hong Khai Seng</div><div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations drive cultural change through design, futures thinking, leadership development and coaching.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wangwattanasilpa/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wongwattanasilpa/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chooake Wangwattanasilpa" src="/images/Chooake.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chooake Wongwattanasilpa" src="/images/Chooake.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chooake Wangwattanasilpa</div>
+<div class="isomer-card-title">Chooake Wongwattanasilpa</div>
 <div class="isomer-card-description">Chief Experience Officer at Bank of Singapore, brings 25+ years in design
 leadership across global firms, integrating client and employee experiences
 in private banking.</div>
