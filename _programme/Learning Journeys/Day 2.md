@@ -82,20 +82,6 @@ Digital &amp; Environmental Tech, Urban Space Prototyping.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>Design AI FabLab @ Singapore University of Technology &amp; Design</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUTD_Resized.png">
-</div>
-<p>Visit the Design AI Fab Lab and learn how its valuable expertise and resources
-can transform creative ideas into tangible products, and eventually, into
-meaningful outcomes and innovations to serve societal needs.</p>
-<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/LugFpsSWLnBrMohM8" rel="noopener nofollow" target="_blank">8 Somapah Rd, Singapore 487372</a>
-</p>
-<p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
-</p>
-<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
-</p>
-<hr>
 <h4><strong>Jurong Lake Gardens</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/JLG_CL1.png">
