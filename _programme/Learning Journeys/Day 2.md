@@ -113,9 +113,6 @@ and beyond.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
-<hr>
 <h4><strong>Yishun Community Hospital</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/YCH.png">
@@ -131,6 +128,9 @@ flow, and treatment plans.</p>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
@@ -161,9 +161,6 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
 <hr>
 <h4><strong>Pan Pacific Orchard</strong></h4>
 <div class="isomer-image-wrapper">
