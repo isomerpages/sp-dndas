@@ -27,6 +27,6 @@ environment.</p>
 </div>
 <h4><strong>Our Partners:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Partners_2410.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="DNDA25 Event Partners" src="/images/Event_Partners_2810.jpg">
 </div>
 <p></p>

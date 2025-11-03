@@ -1,30 +1,18 @@
 ---
-title: "Day 2: 20 Nov 2025"
-permalink: /programme/learning-journeys/day-2/
+title: Learning Journeys
+permalink: /learning-journeys/
 variant: tiptap
 description: ""
-third_nav_title: Learning Journeys
 ---
 <h3><strong>Day-2: 20 Nov 2025</strong></h3>
 <p><strong>This is your HCD+ “Connect” session — where changemakers meet, ideas spark, and new collaborations begin.</strong>
 </p>
 <p>Explore vibrant innovation spaces, exchange perspectives, and build purpose-driven
 connections in a setting designed for meaningful engagement.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Day 1 LJs will take place within Singapore Polytechnic’s campus, featuring
-some of our Centres of Excellence.</p>
-</li>
-<li>
-<p>Day 2 LJs will bring you beyond campus, offering hands-on experiences
-across innovation, sustainability, and design excellence.</p>
-</li>
-</ul>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_Day2_map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Isomer_Day2_V2.png">
 </div>
 <h4><strong>Civil Service College</strong></h4>
 <div class="isomer-image-wrapper">
@@ -46,18 +34,24 @@ by people.</p>
 <hr>
 <h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SIT__Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SIT_V2.png">
 </div>
-<p>Explore Design Factory@SIT and how it impacts the future with design-led
-innovation through a network of collaboration. Additionally, visit Singapore’s
-longest mural wall that was created together through community workshops,
-reflecting the Punggol community’s spirit and transformation.</p>
+<p><strong>Applied Creativity for People, Industry, and Society</strong>
+</p>
+<p>Explore Design Factory@SIT and how it uses a multi-disciplinary, collaborative
+approach to design innovation and experimentation for real-world applications.
+Visit Our Punggol Story, Singapore’s Longest Mural Wall at the heart of
+the Punggol Digital District- a joint effort by NECDC, JTC, Design Factory@SIT,
+and the wider Punggol community that reflects its journey of transformation.&nbsp;</p>
 <p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
 <hr>
 <h4><strong>LASALLE College of the Arts</strong></h4>
 <div class="isomer-image-wrapper">
@@ -73,9 +67,6 @@ collaboration and innovative thinking.</p>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
 <hr>
 <h4><strong>The GEAR</strong></h4>
 <div class="isomer-image-wrapper">
@@ -126,6 +117,9 @@ and beyond.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<hr>
 <h4><strong>Yishun Community Hospital</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/YCH.png">
@@ -141,9 +135,6 @@ flow, and treatment plans.</p>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
-</div>
 <hr>
 <h4><strong>PARKROYAL COLLECTION Marina bay</strong></h4>
 <div class="isomer-image-wrapper">
@@ -175,6 +166,9 @@ energy and a rainwater harvesting, auto-irrigation and fertigation system.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Ticket Now</div></div></a>
+</div>
+<hr>
 <h4><strong>Pan Pacific Orchard</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/PanPacific_R2.png">
@@ -205,6 +199,28 @@ and exchanges.</p>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
 </p>
+<p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
+</p>
+<hr>
+<h4><strong>Refugeoly</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Refugeoly_1.png">
+</div>
+<p>Refugeoly is a large-format board game that invites you to step into the
+lived experiences of displaced individuals at Europe’s borders. Based on
+real testimonies, it transforms complex realities into an immersive journey
+of empathy and understanding. Through play, you'll explore the emotional
+and logistical challenges of forced migration. Refugeoly has been showcased
+globally and is available for download at <a href="www.refugeoly.org" rel="noopener nofollow" target="_blank">www.refugeoly.org</a>
+<br>Curious to learn more? Come join us in this powerful learning experience.</p>
+<p></p>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/kTUmDzFqGEvNkPMq9" rel="noopener nofollow" target="_blank">Singapore Polytechnic, 500 Dover Rd, Singapore 139651</a>
+</p>
+<p><strong>Singapore Polytechnic, BLK T16, Level 2, Glass Room</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Internal_LJ_map_Refugeoly_1__1_.png">
+</div>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
