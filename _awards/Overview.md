@@ -13,7 +13,8 @@ that strongly reflect HCD+ and demonstrate potential to advance the SDGs;
 Promising, which encourages the continued growth of emerging ideas; Education,
 which celebrates programmes that nurture the next generation of HCD+ leaders;
 and Organisation, which honors organisations that officially support&nbsp;HCD+
-societal projects.&nbsp;
+societal projects.&nbsp;</p>
+<p>
 <br>Meet the DNDA25 Award Winners &amp; laureates driving impact, innovation,
 and inclusive change.</p>
 <p><strong><a href="https://dnda.design/award/2025-laureates/" rel="noopener noreferrer nofollow" target="_blank">DNDA25 Laureates - Don Norman Design Award</a></strong>
