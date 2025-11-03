@@ -32,14 +32,17 @@ by people.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
+<h4><strong>Design Factory @ Singapore Institute of Technology </strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SIT__Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SIT_V2.png">
 </div>
-<p>Explore Design Factory@SIT and how it impacts the future with design-led
-innovation through a network of collaboration. Additionally, visit Singapore’s
-longest mural wall that was created together through community workshops,
-reflecting the Punggol community’s spirit and transformation.</p>
+<p><strong>Applied Creativity for People, Industry, and Society</strong>
+</p>
+<p>Explore Design Factory@SIT and how it uses a multi-disciplinary, collaborative
+approach to design innovation and experimentation for real-world applications.
+Visit Our Punggol Story, Singapore’s Longest Mural Wall at the heart of
+the Punggol Digital District- a joint effort by NECDC, JTC, Design Factory@SIT,
+and the wider Punggol community that reflects its journey of transformation.&nbsp;</p>
 <p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/HgP8cnBPDXaUdfrG6" rel="noopener nofollow" target="_blank">11 New Punggol Rd, Singapore 828616</a>
 </p>
 <p><strong><em>*</em></strong><em>1-way transportation from Singapore Polytechnic will be provided</em>
@@ -203,53 +206,21 @@ and exchanges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Refugeoly_1.png">
 </div>
-<p><strong>What kind of game is Refugeoly?</strong>
-</p>
-<p>Using testimonies from refugees and NGO volunteers in camps across Greece,
-Türkiye, Spain, and France, we developed a game inspired by the classic
-Monopoly. Refugees illustrate the harsh realities faced by thousands fleeing
-conflict and hardship. The game’s primary goal is to shed light on the
-struggles of being forced into a refugee camp. By playing, you’ll experience
-firsthand the complexity, drama, and hardship of life for those simply
-trying to escape war and scarcity. Refugeoly is designed to raise awareness
-about the challenges refugees face at Europe’s borders. Designed to raise
-awareness about the challenges refugees face at Europe’s borders, Refugeoly
-has been presented at universities and official organisations in the UK,
-USA, Mexico, Spain, Greece, China, and Norway.</p>
-<p>Refugeoly can be downloaded from <a href="http://www.refugeoly.org" rel="noopener noreferrer nofollow" target="_blank">www.refugeoly.org</a>
-</p>
-<p><strong>What is the Purpose of Refugeoly?</strong>
-</p>
-<p>The primary purpose of Refugeoly is to create awareness and foster empathy
-for the plight of refugees.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Illustrating Harsh Realities: The game is designed to show players the
-complex, dramatic, and difficult challenges that refugees face when fleeing
-conflict and scarcity.</p>
-</li>
-<li>
-<p>Providing an Experiential Understanding: Instead of just telling people
-about the refugee crisis, Refugeoly allows players to "experience firsthand"
-the hardships and impossible choices faced by displaced people. It uses
-the large-format board game to create an immersive and impactful experience
-through embodiment.</p>
-</li>
-<li>
-<p>Highlighting Specific Struggles: The project specifically sheds light
-on the struggles of "being forced into refuge" and the challenges encountered
-at Europe's borders.</p>
-</li>
-<li>
-<p>In essence, Refugeoly uses interactive gameplay as a powerful communication
-tool to bridge the gap between abstract news headlines and the human reality
-of the global refugee crisis. Its goal is to change perspectives and deepen
-public understanding through direct engagement.</p>
-</li>
-</ul>
+<p>Refugeoly is a large-format board game that invites you to step into the
+lived experiences of displaced individuals at Europe’s borders. Based on
+real testimonies, it transforms complex realities into an immersive journey
+of empathy and understanding. Through play, you'll explore the emotional
+and logistical challenges of forced migration. Refugeoly has been showcased
+globally and is available for download at <a href="https://www.refugeoly.org." rel="noopener noreferrer nofollow" target="_blank">www.refugeoly.org</a><a href="https://www.refugeoly.org." class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">.</a>
+<br>Curious to learn more? Come join us in this powerful learning experience.</p>
 <p></p>
 <p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/kTUmDzFqGEvNkPMq9" rel="noopener nofollow" target="_blank">Singapore Polytechnic, 500 Dover Rd, Singapore 139651</a>
 </p>
+<p><strong>Singapore Polytechnic, BLK T16, Level 2, Glass Room</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Internal_LJ_map_Refugeoly_1__1_.png">
+</div>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
