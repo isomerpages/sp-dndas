@@ -2,6 +2,6 @@ collections:
   awards:
     output: true
     order:
-      - Award Winners & Laureates/.keep
       - Overview.md
       - Award Dinner.md
+      - Award Winners & Laureates/.keep
