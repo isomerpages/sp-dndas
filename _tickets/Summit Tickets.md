@@ -31,7 +31,6 @@ networking opportunities.</div>
 </div>
 <p><strong>3-Day Pass Ticket:</strong>
 </p>
-<p><strong>Usual Price:</strong> $850/pax for 3 days (excluding 9% GST)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -41,7 +40,7 @@ networking opportunities.</div>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Early Bird - 15% Off</p>
+<p>Usual Price / Pax</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Education - 50% Off</p>
@@ -52,7 +51,7 @@ networking opportunities.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SGD <strong>$722.50</strong>
+<p>SGD <strong>$850</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +65,8 @@ networking opportunities.</div>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enjoy a 15% off when you purchase a ticket before 31 Oct 2025!</p>
+<p>Original pricing for 3 days</p>
+<p>*Excluding 9% GST</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Use your "<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>"
