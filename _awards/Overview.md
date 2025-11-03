@@ -58,7 +58,7 @@ as long as the group is maintaining the appropriate activities.</p>
 <p>You can also <a href="https://dnda.design/award/" rel="noopener nofollow" target="_blank">read more</a> here.</p>
 <hr>
 <h4><strong>DNDA25 Advisory Board</strong></h4>
-<p><strong>GUIDANCE FROM THE FOREFRONT OF DESIGN </strong>
+<p><strong>GUIDANCE FROM THE FOREFRONT OF DESIGN</strong>
 </p>
 <p>The Board of Advisors for the Don Norman Design Awards consists of experts
 and thought leaders in design, education, and social innovation. Our advisors
