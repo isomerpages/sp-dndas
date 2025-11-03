@@ -12,7 +12,7 @@ connections in a setting designed for meaningful engagement.</p>
 <p><strong>Join us in shaping what's next!</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Isomer_Day2_map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/Isomer_Day2_V2.png">
 </div>
 <h4><strong>Civil Service College</strong></h4>
 <div class="isomer-image-wrapper">
@@ -248,7 +248,7 @@ public understanding through direct engagement.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Address:</strong>
+<p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/kTUmDzFqGEvNkPMq9" rel="noopener nofollow" target="_blank">Singapore Polytechnic, 500 Dover Rd, Singapore 139651</a>
 </p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
