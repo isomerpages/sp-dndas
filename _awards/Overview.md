@@ -233,4 +233,5 @@ the planet.</p>
 Design (HCD+)
 <br>Meet the DNDA25 Award Winners &amp; laureates driving impact, innovation,
 and inclusive change.</p>
-<p></p>
+<p><strong><a href="https://dnda.design/award/2025-laureates/" rel="noopener noreferrer nofollow" target="_blank">DNDA25 Laureates - Don Norman Design Award</a></strong>
+</p>
