@@ -32,7 +32,7 @@ by people.</p>
 <p><strong><a href="https://dnda25ticketing.com.sg/" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <hr>
-<h4><strong>Design Factory @ Singapore Institute of Technology </strong></h4>
+<h4><strong>Design Factory @ Singapore Institute of Technology</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SIT_V2.png">
 </div>
