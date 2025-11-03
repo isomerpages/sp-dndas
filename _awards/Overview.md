@@ -13,7 +13,7 @@ that strongly reflect HCD+ and demonstrate potential to advance the SDGs;
 Promising, which encourages the continued growth of emerging ideas; Education,
 which celebrates programmes that nurture the next generation of HCD+ leaders;
 and Organisation, which honors organisations that officially support&nbsp;HCD+
-societal projects.&nbsp;</p>
+societal projects.</p>
 <p>
 <br><strong>Meet the DNDA25 Award Winners &amp; laureates driving impact, innovation, and inclusive change</strong>
 </p>
