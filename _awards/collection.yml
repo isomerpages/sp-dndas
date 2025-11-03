@@ -2,5 +2,6 @@ collections:
   awards:
     output: true
     order:
+      - DNDA25 Award Winners & Laureates.md
       - Overview.md
       - Award Dinner.md
