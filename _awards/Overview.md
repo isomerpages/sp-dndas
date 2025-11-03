@@ -14,6 +14,7 @@ Promising, which encourages the continued growth of emerging ideas; Education,
 which celebrates programmes that nurture the next generation of HCD+ leaders;
 and Organisation, which honors organisations that officially support&nbsp;HCD+
 societal projects.&nbsp;</p>
+<hr>
 <h4><strong>Types of Awards</strong></h4>
 <p><strong>Excellence</strong>
 </p>
@@ -55,9 +56,9 @@ that advance societal well-being. Recognition for organisations applies
 as long as the group is maintaining the appropriate activities.</p>
 <p></p>
 <p>You can also <a href="https://dnda.design/award/" rel="noopener nofollow" target="_blank">read more</a> here.</p>
-<p></p>
+<hr>
 <h4><strong>DNDA25 Advisory Board</strong></h4>
-<p><strong>GUIDANCE FROM THE FOREFRONT OF DESIGN</strong>
+<p><strong>GUIDANCE FROM THE FOREFRONT OF DESIGN </strong>
 </p>
 <p>The Board of Advisors for the Don Norman Design Awards consists of experts
 and thought leaders in design, education, and social innovation. Our advisors
@@ -226,4 +227,10 @@ the planet.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda.design/victor-udoewa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Victor Udoewa" src="/images/headshot_victor_udoewa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Victor Udoewa</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
+<hr>
+<h4><strong>DNDA25 Award Winners &amp; Laureates</strong></h4>
+<p>Celebrating visionaries shaping a better world through Humanity-Centred
+Design (HCD+)
+<br>Meet the DNDA25 Award Winners &amp; laureates driving impact, innovation,
+and inclusive change.</p>
 <p></p>
