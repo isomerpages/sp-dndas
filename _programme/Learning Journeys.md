@@ -211,7 +211,7 @@ lived experiences of displaced individuals at Europe’s borders. Based on
 real testimonies, it transforms complex realities into an immersive journey
 of empathy and understanding. Through play, you'll explore the emotional
 and logistical challenges of forced migration. Refugeoly has been showcased
-globally and is available for download at <a href="https://www.refugeoly.org." rel="noopener noreferrer nofollow" target="_blank">www.refugeoly.org</a><a href="https://www.refugeoly.org." class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">.</a>
+globally and is available for download at <a href="www.refugeoly.org" rel="noopener nofollow" target="_blank">www.refugeoly.org</a>
 <br>Curious to learn more? Come join us in this powerful learning experience.</p>
 <p></p>
 <p><strong>Address:</strong>  <a href="https://maps.app.goo.gl/kTUmDzFqGEvNkPMq9" rel="noopener nofollow" target="_blank">Singapore Polytechnic, 500 Dover Rd, Singapore 139651</a>
