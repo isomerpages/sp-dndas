@@ -109,36 +109,38 @@ bridging psychology and design to support healthier, more equitable communities.
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/hong-khai-seng/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hong Khai Seng" src="/images/D3_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hong Khai Seng</div><div class="isomer-card-description">Founder &amp; Director of Studio Dojo, where he helps leaders and organisations drive cultural change through design, futures thinking, leadership development and coaching.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wongwattanasilpa/" class="isomer-card">
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/chooake-wongwattanasilpa/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chooake Wongwattanasilpa" src="/images/Chooake.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chooake Wongwattanasilpa</div><div class="isomer-card-description">Chief Experience Officer at Bank of Singapore, brings 25+ years in design leadership across global firms, integrating client and employee experiences in private banking.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/sam-yen/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chooake Wongwattanasilpa" src="/images/Chooake.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sam Yen" src="/images/09_Panellist_SY_D2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chooake Wongwattanasilpa</div>
-<div class="isomer-card-description">Chief Experience Officer at Bank of Singapore, brings 25+ years in design
-leadership across global firms, integrating client and employee experiences
-in private banking.</div>
+<div class="isomer-card-title">Sam Yen</div>
+<div class="isomer-card-description">Spearheads digital transformation initiatives, leveraging design thinking
+to enhance user experiences and drive organisational change. Has a background
+in aerospace engineering.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/sam-yen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sam Yen" src="/images/09_Panellist_SY_D2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sam Yen</div><div class="isomer-card-description">Spearheads digital transformation initiatives, leveraging design thinking to enhance user experiences and drive organisational change. Has a background in aerospace engineering.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/larry-yeung/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/larry-yeung/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Larry Yeung" src="/images/s200_larry_yeung.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Larry Yeung</div><div class="isomer-card-description">A designer and community organiser serving as Executive Director of Participate in Design (P!D), a non-profit focused on community-centred urban planning and public space design.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/yap-zhi-jia/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Larry Yeung" src="/images/s200_larry_yeung.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Yap Zhi Jia Workforce Singapore" src="/images/yap_zhi_jia_wsg.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Larry Yeung</div>
-<div class="isomer-card-description">A designer and community organiser serving as Executive Director of Participate
-in Design (P!D), a non-profit focused on community-centred urban planning
-and public space design.</div>
+<div class="isomer-card-title">Yap Zhi Jia</div>
+<div class="isomer-card-description">Zhi Jia is the Director of the Employer Strategy Office, as well as the
+Director of the Creative and Professional Services Division at Workforce
+Singapore.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
 </div>
-<p></p>
 <p><strong>Get inspired by visionary leaders — Secure your tickets today!</strong>
 </p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Now</div></div></a>
