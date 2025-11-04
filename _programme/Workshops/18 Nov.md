@@ -7,7 +7,9 @@ third_nav_title: Workshops
 ---
 <p></p>
 <h1>Purposeful Sustainable Business Innovation Through HCD+</h1>
-<h4>Designed for changemakers and organisational leaders, this workshop explores practical ways to drive purposeful and sustainable innovation that balances business growth with positive impact for society.</h4>
+<p>Designed for changemakers and organisational leaders, this workshop explores
+practical ways to drive purposeful and sustainable innovation that balances
+business growth with positive impact for society.</p>
 <p></p>
 <hr>
 <p><strong>Meet the minds (and hearts) guiding your experience:</strong>
@@ -55,3 +57,4 @@ third_nav_title: Workshops
 <h2>Make the Most of DNDA25 with Our Workshops</h2>
 <p><strong><a href="https://form.gov.sg/68ca06ebd0a59f37d0dfe7ca" rel="noopener nofollow" target="_blank">Sign Up and Register for the Workshop Now</a></strong>
 </p>
+<p></p>
