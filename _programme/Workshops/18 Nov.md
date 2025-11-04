@@ -57,7 +57,7 @@ and award-winning advocate.</div>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/68ca06ebd0a59f37d0dfe7ca"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Nov_writeup.png"></a>
 <p></p>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/68ca06ebd0a59f37d0dfe7ca"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Nov_Details_V2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/mm3Jp8dqruVvyq7D7"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Nov_Details_V2.png"></a>
 <p></p>
 <h2>Make the Most of DNDA25 with Our Workshops</h2>
 <p><strong><a href="https://form.gov.sg/68ca06ebd0a59f37d0dfe7ca" rel="noopener nofollow" target="_blank">Sign Up and Register for the Workshop Now</a></strong>
