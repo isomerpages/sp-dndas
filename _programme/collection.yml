@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Learning Journeys.md
       - Workshops/Unconference.md
       - Workshops/Design Your Conference.md
       - Workshops/.keep
