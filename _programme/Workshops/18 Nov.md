@@ -12,35 +12,46 @@ practical ways to drive purposeful and sustainable innovation that balances
 business growth with positive impact for society.</p>
 <p></p>
 <hr>
-<p><strong>Meet the minds (and hearts) guiding your experience:</strong>
-</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<h4><strong>Meet the minds (and hearts) guiding your experience:</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/daniel-iacofano/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Daniel Iacofano" src="/images/Workshop_18_Nov/Daniel_V2_Workshop.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Daniel Iacofano</div><div class="isomer-card-description">An internationally recognised innovator with 40 years' experience in planning, design, strategy, and collaboration, shaping sustainable, people-focused environments worldwide.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/don-norman/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="/images/Workshop_18_Nov/Don_V3_Workshop.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Don Norman</div>
+<div class="isomer-card-description">Distinguished Professor Emeritus and Founder of the UCSD Design Lab, former
+Apple VP, and co-founder of Nielsen Norman Group, is a renowned author
+and award-winning advocate.</div>
+<div class="isomer-card-link">Read More</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mukul Malhotra" src="/images/Workshop_18_Nov/Mukul_V2_Workshop.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Mukul Malhotra</div>
+<div class="isomer-card-description">Chief Innovation Officer, MIG</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nicholas Loke" src="/images/Workshop_18_Nov/Nicholas_Workshop.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nicholas Loke</div>
+<div class="isomer-card-description">UX Strategist, User Experience Centre, Singapore Polytechnic</div>
+</div>
+</div>
 </div>
 <h2>Grow with Purpose and Agility</h2>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/68ca06ebd0a59f37d0dfe7ca"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Nov_writeup.png"></a>
