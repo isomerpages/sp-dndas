@@ -53,4 +53,5 @@ third_nav_title: Workshops
 </div>
 <p></p>
 <h2>Make the Most of DNDA25 with Our Workshops</h2>
-<p></p>
+<p><strong><a href="https://form.gov.sg/68ca06ebd0a59f37d0dfe7ca" rel="noopener nofollow" target="_blank">Sign Up and Register for the Workshop Now</a></strong>
+</p>
