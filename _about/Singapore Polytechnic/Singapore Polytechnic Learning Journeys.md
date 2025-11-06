@@ -24,6 +24,8 @@ real-world examples of how AI and Analytics drive data-driven digital transforma
 across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
+<p><a href="https://5gacademy.sp.edu.sg/resources/events/5g-learning-journey/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 <hr>
 <h3><strong>Built Environment Transformation Learning Journey (BETLJ)</strong></h3>
 <div class="isomer-image-wrapper">
@@ -46,6 +48,8 @@ real-world applications and successful ITM initiatives, the program aims
 to inspire companies and individuals to embrace these strategies for improved
 operations and career development within the evolving built environment
 sector.</p>
+<p><a href="https://www.sp.edu.sg/industry/centres/digital-building-innovation-centre" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 <hr>
 <h3><strong>Design Thinking and User Experience (DT|UX) Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
@@ -65,6 +69,8 @@ with innovation to deliver lasting impact.</p>
 challenges, spark innovation, and apply design thinking for real-world
 impact. This video brings the HCD+ Innovation framework to life through
 stories of transformation and practical application.</p>
+<p><a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/design-thinking-and-user-experience-(dt-ux)-learning-journey-for-organisation-transformation" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 <hr>
 <h3><strong>HR Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
@@ -87,6 +93,8 @@ employees, and elevates themselves as Employers of Choice. It’s a call
 for companies to lead with purpose, inspiring teams to be part of something
 bigger. Transform sustainability into a competitive advantage and drive
 long-term business success.</p>
+<p><a href="https://www.sp.edu.sg/industry/centres/business-innovation-centre" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 <hr>
 <h3><strong>Sustainability Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
@@ -105,6 +113,8 @@ sustainability roadmap. Participants will also gain valuable perspectives
 on the challenges industries face in adopting sustainable practices and
 discover how SP employs a multi-faceted approach to achieve its own sustainability
 goals.</p>
+<p><a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/sustainability-learning-journey-strategy--readiness-and-solutioning" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 <hr>
 <h4><strong>5G Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
@@ -124,6 +134,8 @@ and proactive communication with facilities teams for Smart Facilities
 Control</p>
 <p>• A Self-Help Platform designed to improve Incident Response Management
 with Generative AI</p>
+<p><a href="https://5gacademy.sp.edu.sg/resources/events/5g-learning-journey/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
 <hr>
 <p></p>
 <p>For any enquiries regarding Singapore Polytechnic Learning Journeys, please
