@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
+      - Don Norman Design Award.md
+      - Don Norman Design Award Summit 2025.md
       - Singapore Polytechnic/.keep
       - Singapore Polytechnic/About Singapore Polytechnic.md
       - Singapore Polytechnic/Singapore Polytechnic Learning Journeys.md
-      - Don Norman Design Award.md
-      - Don Norman Design Award Summit 2025.md
       - Event Collaborators.md
