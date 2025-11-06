@@ -5,12 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Singapore Polytechnic
 ---
-<h4><strong>Artificial Intelligence Learning Journey</strong></h4>
+<h1><strong>Centres of Excellence</strong></h1>
+<p>Embark on transformative learning journeys at Singapore Polytechnic—where
+innovation meets real-world application. Discover, adapt, and lead through
+immersive experiences designed to empower individuals and organisations.
+Come visit us and explore how learning and discovery come alive on campus!</p>
+<p></p>
+<h3><strong>AI Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/AILJ_Resized.png">
 </div>
-<p><strong>DSAC</strong>
-</p>
+<h4>Data Science &amp; Analytics Centre</h4>
 <p>The AI Learning Journey (AILJ) is designed by SP’s Data Science and Analytics
 Centre (DSAC) in partnership with AI Singapore to help companies/individuals
 understand digital transformation and the role of AI and Analytics in this
@@ -19,12 +24,14 @@ real-world examples of how AI and Analytics drive data-driven digital transforma
 across different industries. Through this initiative, DSAC aims to inspire
 companies/individuals to explore the possibilities of AI and Analytics
 in the evolving digital landscape.</p>
-<h4><strong>Built Environment Transformation Learning Journey (BETLJ)</strong></h4>
+<p><a href="https://5gacademy.sp.edu.sg/resources/events/5g-learning-journey/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+<hr>
+<h3><strong>Built Environment Transformation Learning Journey (BETLJ)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/BETLJ_Resized.png">
 </div>
-<p><strong>DBIC</strong>
-</p>
+<h4>Digital Building Innovation Centre</h4>
 <p>The Built Environment Transformation Learning Journey (BETLJ), supported
 by iBuildSG, is a strategic initiative to help industry participants and
 local enterprises understand and adopt the Built Environment Industry Transformation
@@ -41,19 +48,36 @@ real-world applications and successful ITM initiatives, the program aims
 to inspire companies and individuals to embrace these strategies for improved
 operations and career development within the evolving built environment
 sector.</p>
-<h4><strong>Design Thinking and User Experience (DT|UX) Learning Journey</strong></h4>
+<p><a href="https://www.sp.edu.sg/industry/centres/digital-building-innovation-centre" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+<hr>
+<h3><strong>Design Thinking and User Experience (DT|UX) Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/DTUXLJ_Resized.png">
 </div>
+<h4>User Experience Centre</h4>
+<p>SP’s User Experience Centre (UXC) helps companies solve complex challenges
+through its Humanity-Centred Design (HCD+) Innovation framework, enabling
+sustainable and human-centric solutions.</p>
+<p>UXC specialises in Design Thinking, Emotional Design, Consumer and Behavioural
+Insights, and Business Model Innovation. By unpacking the 4Ps—People, Products,
+Profit, and Planet—the centre empowers organisations to reframe challenges,
+identify opportunities, and drive meaningful transformation. Through real-world
+application and flexible collaboration models, UXC integrates learning
+with innovation to deliver lasting impact.</p>
 <p>Discover how the User Experience Centre (UXC) equips businesses to reframe
 challenges, spark innovation, and apply design thinking for real-world
 impact. This video brings the HCD+ Innovation framework to life through
 stories of transformation and practical application.</p>
-<h4><strong>HR Learning Journey</strong></h4>
+<p><a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/design-thinking-and-user-experience-(dt-ux)-learning-journey-for-organisation-transformation" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+<hr>
+<h3><strong>HR Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/HRLJ_Resized.png">
 </div>
-<p><strong>HR Learning Journey; Building Companies of Good - People</strong>
+<h4>Business Innovation Centre</h4>
+<p><strong>HR Learning Journey: Building Companies of Good - People</strong>
 </p>
 <p>HR Learning Journey: Building Companies Of Good - People tackles the challenges
 of a multigenerational workforce by equipping managers with people skills,
@@ -69,12 +93,14 @@ employees, and elevates themselves as Employers of Choice. It’s a call
 for companies to lead with purpose, inspiring teams to be part of something
 bigger. Transform sustainability into a competitive advantage and drive
 long-term business success.</p>
-<h4><strong>Sustainability Learning Journey</strong></h4>
+<p><a href="https://www.sp.edu.sg/industry/centres/business-innovation-centre" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+<hr>
+<h3><strong>Sustainability Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUSLJ.png">
 </div>
-<p><strong>Centre for Environmental Sustainability &amp; Energy Efficiency </strong>
-</p>
+<h4>Centre for Environmental Sustainability &amp; Energy Efficiency</h4>
 <p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
 Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
 and the Singapore Manufacturing Federation (SMF), the Sustainability Learning
@@ -87,11 +113,14 @@ sustainability roadmap. Participants will also gain valuable perspectives
 on the challenges industries face in adopting sustainable practices and
 discover how SP employs a multi-faceted approach to achieve its own sustainability
 goals.</p>
-<p></p>
+<p><a href="https://www.sp.edu.sg/pace/courses/all-courses/course-details/sustainability-learning-journey-strategy--readiness-and-solutioning" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+<hr>
 <h4><strong>5G Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/5GAIoT_Resized.png">
 </div>
+<h4>5G &amp; AIoT Centre</h4>
 <p><strong>Innovation in Artificial Intelligence of Things (AIoT) and Video Management Systems (VMS) powered by 5G Technology</strong>
 <br>Discover how 5G technology is driving the evolution of AIoT (Artificial
 Intelligence of Things) and Video Analytics across various industries.
@@ -105,3 +134,10 @@ and proactive communication with facilities teams for Smart Facilities
 Control</p>
 <p>• A Self-Help Platform designed to improve Incident Response Management
 with Generative AI</p>
+<p><a href="https://5gacademy.sp.edu.sg/resources/events/5g-learning-journey/" rel="noopener nofollow" target="_blank">Read More</a>
+</p>
+<hr>
+<p></p>
+<p>For any enquiries regarding Singapore Polytechnic Learning Journeys, please
+contact <a href="mailto:Industry@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Industry@sp.edu.sg</a>
+</p>
