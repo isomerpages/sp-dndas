@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Singapore Polytechnic/Singapore Polytechnic.md
+      - Singapore Polytechnic/About Singapore Polytechnic.md
       - Singapore Polytechnic/.keep
       - Don Norman Design Award.md
       - Don Norman Design Award Summit 2025.md
