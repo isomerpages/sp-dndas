@@ -45,6 +45,10 @@ sector.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/DTUXLJ_Resized.png">
 </div>
+<p>Discover how the User Experience Centre (UXC) equips businesses to reframe
+challenges, spark innovation, and apply design thinking for real-world
+impact. This video brings the HCD+ Innovation framework to life through
+stories of transformation and practical application.</p>
 <h4><strong>HR Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/HRLJ_Resized.png">
@@ -69,7 +73,7 @@ long-term business success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUSLJ.png">
 </div>
-<p><strong>ESEE</strong>
+<p><strong>Centre for Environmental Sustainability &amp; Energy Efficiency </strong>
 </p>
 <p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
 Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
@@ -99,5 +103,5 @@ including:</p>
 <p>• Agentic AI for anomaly detection, automated corrective action recommendations,
 and proactive communication with facilities teams for Smart Facilities
 Control</p>
-<p>•A Self-Help Platform designed to improve Incident Response Management
+<p>• A Self-Help Platform designed to improve Incident Response Management
 with Generative AI</p>
