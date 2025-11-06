@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Singapore Polytechnic
 ---
-<h4><strong>Artificial Intelligence  Learning Journey</strong></h4>
+<h4><strong>Artificial Intelligence Learning Journey</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/AILJ_Resized.png">
 </div>
@@ -69,6 +69,8 @@ long-term business success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/SUSLJ.png">
 </div>
+<p><strong>ESEE</strong>
+</p>
 <p>Organised by Singapore Polytechnic (SP) in collaboration with A*STAR SIMTECH,
 Grundfos, Danfoss, Paia from CBRE, the Singapore Environment Council (SEC),
 and the Singapore Manufacturing Federation (SMF), the Sustainability Learning
@@ -87,8 +89,6 @@ goals.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/5GAIoT_Resized.png">
 </div>
 <p><strong>Innovation in Artificial Intelligence of Things (AIoT) and Video Management Systems (VMS) powered by 5G Technology</strong>
-</p>
-<p>
 <br>Discover how 5G technology is driving the evolution of AIoT (Artificial
 Intelligence of Things) and Video Analytics across various industries.
 Gain an understanding of these cutting-edge technologies and explore key
