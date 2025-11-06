@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - FAQs.md
-      - Directory.md
       - Accommodations.md
+      - Directory.md
+      - FAQs.md
