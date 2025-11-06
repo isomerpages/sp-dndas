@@ -1,8 +1,9 @@
 ---
-title: Singapore Polytechnic
+title: About Singapore Polytechnic
 permalink: /about/singapore-polytechnic/
 variant: tiptap
 description: ""
+third_nav_title: Singapore Polytechnic
 ---
 <h3><strong>Singapore Polytechnic: Pioneering Humanity-Centred Design (HCD+) in Education, Business and Community</strong></h3>
 <div class="isomer-image-wrapper">
