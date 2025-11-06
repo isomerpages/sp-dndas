@@ -5,9 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Singapore Polytechnic
 ---
+<h1><strong>Centres of Excellence</strong></h1>
+<p>Embark on transformative learning journeys at Singapore Polytechnic—where
+innovation meets real-world application. Discover, adapt, and lead through
+immersive experiences designed to empower individuals and organisations.
+Come visit us and explore how learning and discovery come alive on campus!</p>
 <p></p>
-<p></p>
-<h3><strong>Artificial Intelligence Learning Journey</strong></h3>
+<h3><strong>AI Learning Journey</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journey Images/AILJ_Resized.png">
 </div>
@@ -120,3 +124,8 @@ and proactive communication with facilities teams for Smart Facilities
 Control</p>
 <p>• A Self-Help Platform designed to improve Incident Response Management
 with Generative AI</p>
+<hr>
+<p></p>
+<p>For any enquiries regarding Singapore Polytechnic Learning Journeys, please
+contact <a href="mailto:Industry@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Industry@sp.edu.sg</a>
+</p>
