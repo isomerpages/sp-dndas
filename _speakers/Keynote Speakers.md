@@ -39,7 +39,7 @@ environments worldwide.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/ezio-manzini/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/08_KN_speakers_EM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ezio Manzini</div><div class="isomer-card-description">An Italian design academic and author known for his work in sustainable design and social innovation. Founder of DESIS, a global network promoting design for social and environmental impact.</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/keynote-speakers/don-norman/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dnda.design/don-norman/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Don Norman" src="/images/Don_Photo_by_Peter_Belanger_Dec_08_4.jpg">
