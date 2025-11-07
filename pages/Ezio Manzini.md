@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/ezio-manzini/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Professor of Design @ Politecnico di Milano</strong></h3>
+<h3><strong>Professor Emeritus @ Politecnico di Milano</strong></h3>
 <p>For over three decades, <a href="http://www.desisnetwork.org" rel="noopener nofollow" target="_blank">Ezio Manzini</a> has
 been working in the field of design for sustainability. Most recently,
 his interests have focused on social innovation, considered as a major
