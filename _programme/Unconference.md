@@ -25,8 +25,9 @@ from each group, offering a snapshot of what the community is thinking,
 questioning, and working towards through design.</p>
 <p></p>
 <h4><strong>How to Unconference</strong><br></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -34,16 +35,24 @@ questioning, and working towards through design.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Day 1 0830</h4>
+<p><strong>19-Nov </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>08:30 AM</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Topic owners can sign up to host unconference discussions via <a href="http://dyc.sg" rel="noopener noreferrer nofollow" target="_blank">dyc.sg</a> 
+<p>Topic owners can sign up to host unconference discussions via <a href="http://dyc.sg" rel="noopener noreferrer nofollow" target="_blank">dyc.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p><strong>20-Nov</strong> 
+</p>
+</td>
 <td rowspan="1" colspan="1">
-<h4>Day 2 1445</h4>
+<p>2:00 PM</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Sign ups to host unconference discussions close</p>
@@ -51,8 +60,7 @@ questioning, and working towards through design.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Day 2 1800</h4>
-<h4></h4>
+<p>8:00 PM</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Final list of Unconference topics will be published. All attendees can
@@ -60,9 +68,13 @@ now sign up for the topics they wish to join</p>
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p><strong>21-Nov</strong> 
+</p>
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
-<h4>Day 3 1100</h4>
-<h4> </h4>
+<p>11:00 AM</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Topic owners will be briefed. Discussion venues for each topic will be
@@ -71,7 +83,7 @@ announced</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Day 3 1315</h4>
+<p>1:35 PM</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Unconference sessions begin</p>
@@ -79,7 +91,7 @@ announced</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Day 3 1500</h4>
+<p>3:00 PM</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Unconference ends and all participants return to SPCC for a collective
