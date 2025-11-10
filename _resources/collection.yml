@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Event Guide.md
       - Accommodations.md
       - Directory.md
       - FAQs.md

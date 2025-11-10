@@ -4,7 +4,7 @@ permalink: /speakers/keynote-speakers/yap-zhi-jia/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Director, Employer Strategy Office &amp; Creative and Professional Services Division, Workforce Singapore, Enterprise Development Group</strong></h3>
+<h3><strong>Director, Employer Strategy Office &amp; Director, Creative and Professional Services Division, Workforce Singapore, Enterprise Development Group</strong></h3>
 <p>Zhi Jia is the Director of the Employer Strategy Office, as well as the
 Director of the Creative and Professional Services Division at Workforce
 Singapore. In her strategy role, Zhi Jia is responsible for refining Workforce

@@ -25,6 +25,36 @@ reform or climate action — you get to spotlight the topics that deserve
 deeper exploration.</p>
 <p><strong>No filters. No fluff. Just real conversations — powered by you.</strong>
 </p>
+<hr>
+<h3><strong>How to Design Your Conference (DYC)</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Step 1: Submit your ideas</strong></h4>
+<p><strong>Share your questions or challenges on the DYC microsite. Submissions are anonymous, and the most-voted themes rise to the top.</strong>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Step 2: Curate together</strong></h4>
+<p><strong>Moderators weave popular ideas and emerging topics into the Summit plenaries, ensuring every voice is heard.</strong>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Step 3: Join the discussion</strong></h4>
+<p><strong>The DYC plenary becomes a lively, community-driven conversation shaped by you.</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dnda25ticketing.com.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get Your DNDA25 Summit Ticket Now!</div><div class="isomer-card-description">Join us for three transformative days at the DNDA25 Summit — a convergence of purposeful dialogue, creative exploration, and meaningful community building, where we come together to shape a more human-centred, sustainable future.</div><div class="isomer-card-link">Buy Now</div></div></a>
 </div>
 <p></p>
