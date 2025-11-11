@@ -140,6 +140,19 @@ Singapore.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lewis Liu" src="/images/LewisLiu.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lewis Liu</div>
+<div class="isomer-card-description">Lewis is the Founder and Director of Crowdsense, a consultancy that helps
+organisations engage stakeholders, identify emerging trends, and develop
+strategies for impact.</div>
+</div>
+</div>
 </div>
 <p><strong>Get inspired by visionary leaders — Secure your tickets today!</strong>
 </p>
