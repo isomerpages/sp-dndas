@@ -16,7 +16,7 @@ allowing for spontaneous and honest conversations.</p>
 challenges, and perspectives that may not emerge in structured panels.
 Guided by HCD+ values, it creates space for meaningful dialogue, active
 listening, and shared learning.</p>
-<h4><strong>Unconference Findings</strong></h4>
+<h3><strong>Unconference Findings</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UF_V2.png">
 </div>
@@ -24,7 +24,7 @@ listening, and shared learning.</p>
 from each group, offering a snapshot of what the community is thinking,
 questioning, and working towards through design.</p>
 <p></p>
-<h4><strong>How to Unconference</strong><br></h4>
+<h3><strong>How to Unconference</strong><br></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
