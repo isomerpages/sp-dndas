@@ -24,7 +24,7 @@ listening, and shared learning.</p>
 from each group, offering a snapshot of what the community is thinking,
 questioning, and working towards through design.</p>
 <p></p>
-<h3><strong>How to Unconference</strong><br></h3>
+<h3><strong>Unconference Guide</strong><br></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
