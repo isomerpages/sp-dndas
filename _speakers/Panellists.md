@@ -70,12 +70,12 @@ WEF, National Geographic, and Obama Foundation.</div>
 <a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/jeffrey-koh/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jeffrey Koh" src="/images/Jeffrey_Koh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Jeffrey Koh" src="/images/Jeffrey_Koh.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jeffrey Koh</div>
-<div class="isomer-card-description">heads the Design Factory at SIT and is a transdisciplinary experiential
+<div class="isomer-card-title">Dr Jeffrey Koh</div>
+<div class="isomer-card-description">Heads the Design Factory at SIT and is a transdisciplinary experiential
 designer with expertise in bridging research, industry and design to create
 community-centred innovations rooted in HCD+.</div>
 <div class="isomer-card-link">Read More</div>
@@ -139,7 +139,7 @@ Director of the Creative and Professional Services Division at Workforce
 Singapore.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://dnda25.sp.edu.sg/speakers/panellists/lewis-liu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lewis Liu" src="/images/LewisLiu.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lewis Liu</div><div class="isomer-card-description">Lewis is the Founder and Director of Crowdsense, a consultancy that helps organisations engage stakeholders, identify emerging trends, and develop strategies for impact.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p><strong>Get inspired by visionary leaders — Secure your tickets today!</strong>
 </p>

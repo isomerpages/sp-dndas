@@ -16,7 +16,7 @@ allowing for spontaneous and honest conversations.</p>
 challenges, and perspectives that may not emerge in structured panels.
 Guided by HCD+ values, it creates space for meaningful dialogue, active
 listening, and shared learning.</p>
-<h4><strong>Unconference Findings</strong></h4>
+<h3><strong>Unconference Findings</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UF_V2.png">
 </div>
@@ -24,22 +24,23 @@ listening, and shared learning.</p>
 from each group, offering a snapshot of what the community is thinking,
 questioning, and working towards through design.</p>
 <p></p>
-<h4><strong>How to Unconference</strong><br></h4>
-<table style="minWidth: 100px">
+<h3><strong>Unconference Guide</strong><br></h3>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>19-Nov </strong>
-</p>
+<td rowspan="1" colspan="3">
+<h4><strong>Day 1 | 19 Nov</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>08:30 AM</p>
+<p><strong>0830</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Topic owners can sign up to host unconference discussions via <a href="http://dyc.sg" rel="noopener noreferrer nofollow" target="_blank">dyc.sg</a>
@@ -47,12 +48,15 @@ questioning, and working towards through design.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>20-Nov</strong> 
-</p>
+<td rowspan="1" colspan="3">
+<p></p>
+<h4><strong>Day 2 | 20 Nov</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>2:00 PM</p>
+<p><strong>1345</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Sign ups to host unconference discussions close</p>
@@ -60,7 +64,8 @@ questioning, and working towards through design.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8:00 PM</p>
+<p><strong>2000</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Final list of Unconference topics will be published. All attendees can
@@ -68,13 +73,15 @@ now sign up for the topics they wish to join</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p><strong>21-Nov</strong> 
-</p>
+<td rowspan="1" colspan="3">
 <p></p>
+<h4><strong>Day 3 | 21 Nov</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>11:00 AM</p>
+<p><strong>1200</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Topic owners will be briefed. Discussion venues for each topic will be
@@ -83,7 +90,8 @@ announced</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1:35 PM</p>
+<p><strong>1315</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Unconference sessions begin</p>
@@ -91,7 +99,8 @@ announced</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3:00 PM</p>
+<p><strong>1500</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Unconference ends and all participants return to SPCC for a collective

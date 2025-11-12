@@ -1,11 +1,11 @@
 ---
-title: Jeffrey Koh
+title: Dr Jeffrey Koh
 permalink: /speakers/panellists/jeffrey-koh/
 variant: tiptap
 description: ""
 ---
 <h3><strong>Associate Professor @ Singapore Institute of Technology &amp; Business, Communication, and Design Head @ Design Factory</strong></h3>
-<p><a href="https://www.linkedin.com/in/jefkoh/" rel="noopener nofollow" target="_blank">Jeffrey</a> advances
+<p><a href="https://www.linkedin.com/in/jefkoh/" rel="noopener nofollow" target="_blank">Dr Jeffrey</a> advances
 HCD+ by integrating design, technology, and interdisciplinary research
 to shape the future of innovation. He explores the intersection of AI,
 extended reality (XR), and human-computer interaction to enhance learning

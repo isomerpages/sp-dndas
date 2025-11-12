@@ -1,5 +1,5 @@
 ---
-title: Ezio Manzini
+title: Dr Ezio Manzini
 permalink: /speakers/keynote-speakers/ezio-manzini/
 variant: tiptap
 description: ""
