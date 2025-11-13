@@ -30,3 +30,7 @@ environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="DNDA25 Event Partners" src="/images/Event_Partners_2810.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Partner Logos_1311" src="/images/Partner_Logos_1311.jpg">
+</div>
+<p></p>
