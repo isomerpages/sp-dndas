@@ -54,9 +54,10 @@ and you’ll arrive at SPCC.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <p><strong>Click </strong><a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">here</a><strong> to view SP campus.</strong>
 </p>
 <p></p>
-<h3><strong>Wayfinding</strong></h3>
 <p></p>
 <p></p>
