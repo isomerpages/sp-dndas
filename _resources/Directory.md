@@ -11,7 +11,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPCC_D_V2.png">
 </div>
-<h4><strong>Getting Here:</strong></h4>
+<hr>
+<p></p>
+<h3><strong>Getting Here</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,11 +22,10 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Public Transport</strong>
-</p>
+<h4><strong>Public Transport</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Car</p>
+<h4><strong>Car</strong></h4>
 </th>
 </tr>
 <tr>
@@ -55,3 +56,7 @@ and you’ll arrive at SPCC.</p>
 </table>
 <p><strong>Click </strong><a href="https://www.sp.edu.sg/about-sp/campus-map-and-facilities/wayfinding-around-campus" rel="noopener nofollow" target="_blank">here</a><strong> to view SP campus.</strong>
 </p>
+<p></p>
+<h3><strong>Wayfinding</strong></h3>
+<p></p>
+<p></p>
