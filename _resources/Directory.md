@@ -16,7 +16,7 @@ description: ""
 <p><strong>Bus:</strong> 105, 106, 147, 166, 33 (Alights at Dover Station
 Bus Stop)</p>
 <p><strong>MRT: </strong>Dover Station (East West Line)</p>
-<p> <a href="https://youtu.be/kWyddw0z154" rel="noopener nofollow" target="_blank">Video Guide</a>
+<p><a href="https://youtu.be/kWyddw0z154" rel="noopener nofollow" target="_blank">Video Guide</a>
 </p>
 <hr>
 <h4><strong>Driving | Drop Off</strong></h4>
