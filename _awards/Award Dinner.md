@@ -42,3 +42,10 @@ educators, and changemakers.</p>
 the power of design in shaping a better future.</p>
 <p>We look forward to welcoming you to this memorable celebration of design’s
 power to shape a better future!</p>
+<p></p>
+<h4><strong>Wayfinding to Concourse</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DNDA25_SP_Award_Dinner.png">
+</div>
+<p><a href="https://youtu.be/rw6Ldvb3rlA" rel="noopener nofollow" target="_blank">Video Guide</a>
+</p>
