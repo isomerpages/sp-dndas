@@ -13,8 +13,7 @@ description: ""
 </div>
 <h2><strong>Getting Here</strong></h2>
 <h4><strong>Public Transport</strong></h4>
-<p><strong>Bus:</strong> 105, 106, 147, 166, 33 (Alights at Dover Station
-Bus Stop)</p>
+<p><strong>Bus:</strong> 14, 74, 74e, 105, 106, 147, 166, 185, NR5, NR8</p>
 <p><strong>MRT: </strong>Dover Station (East West Line)</p>
 <p><a href="https://youtu.be/kWyddw0z154" rel="noopener nofollow" target="_blank">Video Guide</a>
 </p>
