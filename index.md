@@ -49,6 +49,13 @@ sections:
       url: https://dnda25.sp.edu.sg/about/don-norman-design-award/
       subtitle: Don Norman Design Award
   - infopic:
+      title: DNDA25 Day 1 Highlights
+      id: infopic
+      button: Watch Now
+      url: https://www.youtube.com/watch?v=mjvmDHQTkfI
+      image: /images/DNDA25_Day_1_Highlights_Thumbnail_V3.png
+      alt: Image alt text
+  - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
       description: HCD+ focuses on designing for humanity, cultures, and the
@@ -59,22 +66,6 @@ sections:
       url: https://dnda25.sp.edu.sg/humanity-centred-design/about/
       image: /images/D16836_SP_X_DNDA_Summit_FA_15.png
       subtitle: Humanity-Centred Design
-  - textcards:
-      title: Get Your DNDA25 Summit Ticket
-      subtitle: DNDA25 Summit Tickets
-      id: textcards
-      description: Experience three days of purposeful dialogue, creative exploration
-        and community building at the DNDA25 Summit.
-      cards:
-        - title: 1-Day Pass (SGD $285)
-          description: Join for a single day of dialogue, exploration and community
-          linktext: Buy Now
-          url: https://dnda25ticketing.com.sg/
-        - title: 3-Day Pass (Starts from SGD $290*)
-          description: Enjoy-  Early Bird 15%, Education 50%, Alumni 50%,
-            Designer/Architect Special
-          linktext: Buy Now
-          url: https://dnda25ticketing.com.sg/
   - infopic:
       title: Our Partners
       id: infopic
