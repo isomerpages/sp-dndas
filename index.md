@@ -57,6 +57,15 @@ sections:
       alt: Image alt text
       description: View the highlights for all 3 days here!
   - infopic:
+      title: Event Photos
+      subtitle: View photos from DNDA25
+      id: infopic
+      description: Relive the moments at DNDA25
+      button: View here
+      url: https://drive.google.com/drive/folders/1g0GjyzQyHK7Jni-9NJ-WI-fzi43pQU7U?usp=drive_link
+      image: /images/20251119_DNDA_Summit_0177_1.png
+      alt: Image alt text
+  - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
       description: HCD+ focuses on designing for humanity, cultures, and the
