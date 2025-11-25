@@ -49,12 +49,13 @@ sections:
       url: https://dnda25.sp.edu.sg/about/don-norman-design-award/
       subtitle: Don Norman Design Award
   - infopic:
-      title: DNDA25 Day 1 Highlights
+      title: DNDA25 Video Highlights
       id: infopic
       button: Watch Now
-      url: https://www.youtube.com/watch?v=mjvmDHQTkfI
+      url: https://youtube.com/playlist?list=PLLGRbGufZQf2YSOnc7-YtLdoLBVmQ8zxc&si=Z42bzOa25KEBxajs
       image: /images/DNDA25_Day_1_Highlights_Thumbnail_V3.png
       alt: Image alt text
+      description: View the highlights for all 3 days here!
   - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
