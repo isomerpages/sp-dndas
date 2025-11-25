@@ -21,7 +21,7 @@ sections:
   - hero:
       title: Humanity-Centred Design (HCD+)
       subtitle: The future of Education, Business and Community
-      background: /images/Hero_Banner_Don_2.png
+      background: /images/20251120_DNDA2025_496.jpg
       variant: side
       size: sm
       alignment: left
