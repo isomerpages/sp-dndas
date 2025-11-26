@@ -62,6 +62,15 @@ sections:
       image: /images/20251119_DNDA_Summit_0177_1.png
       alt: Image alt text
   - infopic:
+      title: Video Recordings
+      subtitle: In case you missed it
+      id: infopic
+      description: Watch the full recordings of DNDA25
+      button: Watch here
+      url: https://youtube.com/playlist?list=PLLGRbGufZQf1XFVlvs8ekfIJJSCoVcVhC&si=vJLz2e7YxRB-Nyr9
+      image: /images/image_15.png
+      alt: Image alt text
+  - infopic:
       title: Humanity-Centred Design (HCD+)
       id: infopic
       description: HCD+ focuses on designing for humanity, cultures, and the
