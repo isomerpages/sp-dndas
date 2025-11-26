@@ -14,16 +14,14 @@ description: The Don Norman Design Award (DNDA) organisation is dedicated to
   Apple and HP.
 image: /images/DNDA25_SP_logo_bk.png
 permalink: /
-notification: The Don Norman Design Award 2025 will take place from 19–21
-  November 2025 at Singapore Polytechnic (SPCC). Reserve your tickets while they
-  last!
+notification: ""
 sections:
   - hero:
-      title: Humanity-Centred Design (HCD+)
-      subtitle: The future of Education, Business and Community
-      background: /images/Hero_Banner_Don_2.png
-      variant: side
-      size: sm
+      title: DNDA25 has now concluded
+      subtitle: Thank you for joining us at the Don Norman Design Award Summit 2025!
+      background: /images/20251120_DNDA2025_496.jpg
+      variant: floating
+      size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
@@ -36,8 +34,6 @@ sections:
         - title: Tickets
           description: Get the Right Pass
           url: https://dnda25.sp.edu.sg/summit-tickets/
-      button: Register Now
-      url: https://dnda25ticketing.com.sg/
   - infopic:
       title: Don Norman Design Award (DNDA)
       id: infopic
@@ -49,11 +45,30 @@ sections:
       url: https://dnda25.sp.edu.sg/about/don-norman-design-award/
       subtitle: Don Norman Design Award
   - infopic:
-      title: DNDA25 Day 1 Highlights
+      title: DNDA25 Video Highlights
       id: infopic
       button: Watch Now
-      url: https://www.youtube.com/watch?v=mjvmDHQTkfI
+      url: https://youtube.com/playlist?list=PLLGRbGufZQf2YSOnc7-YtLdoLBVmQ8zxc&si=Z42bzOa25KEBxajs
       image: /images/DNDA25_Day_1_Highlights_Thumbnail_V3.png
+      alt: Image alt text
+      description: View the highlights for all 3 days here!
+  - infopic:
+      title: Event Photos
+      subtitle: View photos from DNDA25
+      id: infopic
+      description: Relive the moments at DNDA25
+      button: View here
+      url: https://drive.google.com/drive/folders/1g0GjyzQyHK7Jni-9NJ-WI-fzi43pQU7U?usp=drive_link
+      image: /images/20251119_DNDA_Summit_0177_1.png
+      alt: Image alt text
+  - infopic:
+      title: Video Recordings
+      subtitle: In case you missed it
+      id: infopic
+      description: Watch the full recordings of DNDA25
+      button: Watch here
+      url: https://youtube.com/playlist?list=PLLGRbGufZQf1XFVlvs8ekfIJJSCoVcVhC&si=vJLz2e7YxRB-Nyr9
+      image: /images/image_15.png
       alt: Image alt text
   - infopic:
       title: Humanity-Centred Design (HCD+)
