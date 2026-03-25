@@ -111,4 +111,14 @@ sections:
         convenience and proximity to DNDA25.
       button: Explore More
       url: https://dnda25.sp.edu.sg/resources/accommodations/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 25 March 2026
+          announcement: Announcement content
+          link_text: learn more
+          link_url: ww
 ---
